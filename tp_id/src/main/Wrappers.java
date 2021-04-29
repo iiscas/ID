@@ -26,7 +26,7 @@ public class Wrappers {
 
         String er ="<p><b>[a-zA-Z\\s]+<//b>";
         Pattern p = Pattern.compile(er);
-        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
+        Scanner ler = new Scanner(new FileInputStream("jogador.html"));
         
         Matcher m;
 
