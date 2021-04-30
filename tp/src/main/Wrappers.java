@@ -21,7 +21,7 @@ public class Wrappers {
        
         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
-        String er ="<p><b>[a-zA-Z\\s]+<//b>";
+        String er ="<title>([A-Za-z\\s]+)";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
         
@@ -34,7 +34,7 @@ public class Wrappers {
 
             while (m.find()) {
                 ler.close();
-                return m.group(1);
+                return m.group(1); //devolve cristiano sem title
             }
 
         }
