@@ -13,20 +13,17 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- *
- * @author isabe
- */
-public class Wrappers {
 
-    public static String Obtem_Nome(String pesquisa) throws FileNotFoundException, IOException {
+
+public class Wrappers {
+     public static String Obtem_Nome(String pesquisa) throws FileNotFoundException, IOException {
 
        
         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
         String er ="<p><b>[a-zA-Z\\s]+<//b>";
         Pattern p = Pattern.compile(er);
-        Scanner ler = new Scanner(new FileInputStream("jogador.html"));
+        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
         
         Matcher m;
 
@@ -69,7 +66,7 @@ public class Wrappers {
         return null;
     }
 
-    public static String Obtem_Fotografia(String pesquisa) throws IOException {
+    /*public static String Obtem_Fotografia(String pesquisa) throws IOException {
          HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
         String er ="<title>[^\"]+</title>";
@@ -385,4 +382,5 @@ public class Wrappers {
         return null;
 
     }
+*/
 }

@@ -4,16 +4,19 @@
  * and open the template in the editor.
  */
 package main;
+
 import java.time.LocalDate;
+
 /**
  *
  * @author isabe
  */
 public class Jogador {
-    String nome,alcunha,fotografia,nacionalidade,pePref,posicao,clubeAtual,clubesAnteriores;
-    String selecao,premios,estadoAtual,empresário;
-    int ranking,idade;
+
+    String nome, alcunha, fotografia, nacionalidade, pePref, posicao, clubeAtual, clubesAnteriores;
+    String selecao, premios, estadoAtual, empresário;
+    int ranking, idade;
     double valorContrato;
     LocalDate dataNascimento;
-    
+
 }
