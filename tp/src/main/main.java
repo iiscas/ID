@@ -12,14 +12,17 @@ public class main {
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException {
-        String nome;
+        String nome="lionel-messi";
         Scanner ler = new Scanner(new FileInputStream("C:\\Users\\isabe\\Documents\\GitHub\\ID\\tp\\src\\main\\p.txt"));
 
-        while (ler.hasNextLine()) {
+        String novo=Wrappers.Obtem_Nacionalidade(nome);
+        System.out.println(novo);
+        /*while (ler.hasNextLine()) {
             String linha=ler.nextLine();
-            nome = Wrappers.Obtem_Nome(linha);
+            nome = Wrappers.Obtem_Nacionalidade(linha);
             System.out.println(nome);
         }
+*/
 
     }
 

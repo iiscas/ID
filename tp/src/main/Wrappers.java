@@ -21,10 +21,10 @@ public class Wrappers {
        
         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
-        String er ="<title>([A-Za-z\\s]+)";
+        String er ="<title>([A-Za-zÀ-ÿ\\s]+)"; //ainda há alguns jogadores a não dar
+        
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
         Matcher m;
 
         while (ler.hasNextLine()) {
@@ -34,7 +34,7 @@ public class Wrappers {
 
             while (m.find()) {
                 ler.close();
-                return m.group(1); //devolve cristiano sem title
+                return m.group(1); //devolve cristiano sem title antes, se for m.group() devolve o title tb
             }
 
         }
@@ -42,7 +42,7 @@ public class Wrappers {
         return null;
     }
 
-    public static String Obtem_Alcunha(String pesquisa) throws IOException {
+    /*public static String Obtem_Alcunha(String pesquisa) throws IOException {
          HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
         String er ="<h1[a-zA-Z\\s=\\\"]+>"+pesquisa+"</h1>";
@@ -64,12 +64,12 @@ public class Wrappers {
         }
         ler.close();
         return null;
-    }
+    }*/
 
-    /*public static String Obtem_Fotografia(String pesquisa) throws IOException {
+    public static String Obtem_Fotografia(String pesquisa) throws IOException {
          HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
-        String er ="<title>[^\"]+</title>";
+        String er ="<meta property=\"og:image\" content=\"https://upload.wikimedia.org/wikipedia/commons/[a-zA-Z0-9]+[/]+[a-zA-Z0-9]+[/]([a-zA-Z0-9\\S]+)\"/>";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
         
@@ -91,9 +91,11 @@ public class Wrappers {
     }
 
     public static String Obtem_Nacionalidade(String pesquisa) throws IOException {
-         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
+        String erLink="https://www.transfermarkt.pt/[a-z-]+/profil/spieler/[0-9]+";
+        
+         HttpRequestFunctions.httpRequest1("https://www.transfermarkt.pt/"+ pesquisa+ "/profil/spieler/28003","/", "jogadores.txt");
 
-        String er ="<title>[^\"]+</title>";
+        String er ="(<meta name=\"description\" content=\"[a-zA-Z\\s,0-9]+){1}:\\s([a-zA-Z\\s]+)([a-zA-Z\\w\\S\\s]+)/>";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
         
@@ -106,7 +108,7 @@ public class Wrappers {
 
             while (m.find()) {
                 ler.close();
-                return m.group(1);
+                return m.group(2);
             }
 
         }
@@ -114,7 +116,7 @@ public class Wrappers {
         return null;
     }
 
-    public static String Obtem_PePreferido(String pesquisa) throws IOException {
+   /* public static String Obtem_PePreferido(String pesquisa) throws IOException {
          HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
         String er ="<title>[^\"]+</title>";
