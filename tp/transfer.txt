@@ -34,47 +34,47 @@ window._sp_ = {
 <meta property="og:image" content="https://tmssl.akamaized.net/images/tm_logo.png" />
 <meta property="og:description" content="" />
 <meta property="og:title" content="Resultados da pesquisa" />
-<meta property="og:url" content="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
-<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk" />
+<meta property="og:url" content="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos" />
 <link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1620992499" />
 <link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1620992499" />
 <link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1620992499" />
@@ -367,7 +367,7 @@ googletag.enableServices();
 
                                             <div class="large-6 columns " id="schnellsuche-platz">
                             <form name="schnellsuche" id="schnellsuche" class="noclose" action="/schnellsuche/ergebnis/schnellsuche">
-                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="Igor_Lewczuk" />
+                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="Toni_Kroos" />
                                 <input type="image" class="header-suche-abschicken" src="/images/suche-grau.svg" alt="Pesquisar" />
                             </form>
                             <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
@@ -564,14 +564,14 @@ googletag.enableServices();
 <table class="items">
 <thead>
 <tr>
-<th id="yw0_c0">Nome / Equipa</th><th class="zentriert" id="yw0_c1">Posição</th><th class="zentriert" id="yw0_c2">Clube</th><th class="zentriert" id="yw0_c3"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk&amp;sort=age">Idade</a></th><th class="zentriert" id="yw0_c4">Nac. </th><th class="rechts" id="yw0_c5"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk&amp;sort=marktwert">Valor de mercado</a></th><th class="rechts" id="yw0_c6">Empresário</th></tr>
+<th id="yw0_c0">Nome / Equipa</th><th class="zentriert" id="yw0_c1">Posição</th><th class="zentriert" id="yw0_c2">Clube</th><th class="zentriert" id="yw0_c3"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos&amp;sort=age">Idade</a></th><th class="zentriert" id="yw0_c4">Nac. </th><th class="rechts" id="yw0_c5"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos&amp;sort=marktwert">Valor de mercado</a></th><th class="rechts" id="yw0_c6">Empresário</th></tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/63267-1479802208.jpg?lm=1" title="Nando" alt="Nando" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Nando" class="spielprofil_tooltip" id="63267" href="/nando/profil/spieler/63267">Nando</a></td></tr><tr><td><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></td></tr></table></td><td class="zentriert">PL</td><td class="zentriert"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td><td class="zentriert">54</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
+<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/31909-1519743952.jpg?lm=1" title="Toni Kroos" alt="Toni Kroos" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Toni Kroos" class="spielprofil_tooltip" id="31909" href="/toni-kroos/profil/spieler/31909">Toni Kroos</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="418" href="/real-madrid/startseite/verein/418">Real Madrid CF</a></td></tr></table></td><td class="zentriert">MC</td><td class="zentriert"><a class="vereinprofil_tooltip" id="418" href="/real-madrid/startseite/verein/418"><img src="https://tmssl.akamaized.net/images/wappen/tiny/418.png?lm=1580722449" title="&nbsp;" alt="Real Madrid CF" class="tiny_wappen" /></a></td><td class="zentriert">31</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525" title="Alemanha" alt="Alemanha" class="flaggenrahmen" /></td><td class="rechts hauptlink">50,00 M €</td><td class="rechts"><a href="/sports360-gmbh/beraterfirma/berater/199">Sports360 GmbH</a></td></tr>
 </tbody>
 </table>
-<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk"><span>63267</span></div>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos"><span>31909</span></div>
 </div>                </div>
                 <div class="table-footer">
                     <a href="/detailsuche/spielerdetail/suche">
@@ -683,8 +683,8 @@ var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){v
 /*<![CDATA[*/
 	function initCss() {
 	}
-	var aktuelleUrl = 'https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Igor_Lewczuk'
-	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fschnellsuche%2Fergebnis%2Fschnellsuche%3Fquery%3DIgor_Lewczuk';
+	var aktuelleUrl = 'https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Toni_Kroos'
+	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fschnellsuche%2Fergebnis%2Fschnellsuche%3Fquery%3DToni_Kroos';
 	var notificationUrl='/notifications/liste';
 	var privateNachrichtenUrl = '/privateNachrichten/liste'
 	var favoritenUrl = '/favoriten/userFavoriten'
