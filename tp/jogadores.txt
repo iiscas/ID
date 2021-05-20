@@ -1,752 +1,1251 @@
 <!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 7]>
+<html class="ie7 oldie" lang="pt"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="pt"> <![endif]-->
+<!--[if gt IE 8]><!-->
+
+<html class="no-js" lang="pt">
+<!--<![endif]-->
+
 <head>
-<meta charset="UTF-8"/>
-<title>Igor Lewczuk - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"43aa4363-88eb-4194-a560-67a90f0a70af","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Igor_Lewczuk","wgTitle":"Igor Lewczuk","wgCurRevisionId":1005787293,"wgRevisionId":1005787293,"wgArticleId":13363301,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 Polish-language sources (pl)","CS1 French-language sources (fr)","Articles with short description","Short description matches Wikidata","Wikipedia articles with PLWABN identifiers","Wikipedia articles with VIAF identifiers",
-"Wikipedia articles with WORLDCATID identifiers","All stub articles","1985 births","Living people","Association football defenders","Polish footballers","Poland international footballers","Znicz Pruszków players","Hetman Białystok players","Jagiellonia Białystok players","Piast Gliwice players","Ruch Chorzów players","Zawisza Bydgoszcz players","Legia Warsaw players","FC Girondins de Bordeaux players","Ligue 1 players","Ekstraklasa players","Sportspeople from Białystok","Polish expatriate footballers","Polish expatriate sportspeople in France","Expatriate footballers in France","Polish people of Belarusian descent","Polish football defender stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Igor_Lewczuk","wgRelevantArticleId":13363301,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,
-"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q3148296"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
-"ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-});});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.37.0-wmf.5"/>
-<meta name="referrer" content="origin"/>
-<meta name="referrer" content="origin-when-crossorigin"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Igor_Lewczuk_%282016%29.jpg/1200px-Igor_Lewczuk_%282016%29.jpg"/>
-<meta property="og:title" content="Igor Lewczuk - Wikipedia"/>
-<meta property="og:type" content="website"/>
-<link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Igor_Lewczuk"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Igor_Lewczuk&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Igor_Lewczuk&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Igor_Lewczuk"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Igor_Lewczuk rootpage-Igor_Lewczuk skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
-<div id="mw-head-base" class="noprint"></div>
-<div id="content" class="mw-body" role="main">
-	<a id="top"></a>
-	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-	<div class="mw-indicators mw-body-content">
-	</div>
-	<h1 id="firstHeading" class="firstHeading" >Igor Lewczuk</h1>
-	<div id="bodyContent" class="mw-body-content">
-		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
-		<div id="contentSub2"></div>
-		
-		<div id="jump-to-nav"></div>
-		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Polish footballer</div>
-<table class="infobox vcard" style="width:22em;line-height: 1.2em"><caption class="fn" style="line-height: 1.5em; text-align: center;">Igor Lewczuk</caption><tbody><tr><td colspan="4" style="text-align:center">
-<a href="/wiki/File:Igor_Lewczuk_(2016).jpg" class="image"><img alt="Igor Lewczuk (2016).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Igor_Lewczuk_%282016%29.jpg/220px-Igor_Lewczuk_%282016%29.jpg" decoding="async" width="220" height="370" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Igor_Lewczuk_%282016%29.jpg/330px-Igor_Lewczuk_%282016%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Igor_Lewczuk_%282016%29.jpg/440px-Igor_Lewczuk_%282016%29.jpg 2x" data-file-width="1743" data-file-height="2928" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Personal information</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Full name</th><td colspan="3" class="nickname" style="white-space: nowrap; vertical-align: baseline">
-<span style="white-space:normal;">Igor Lewczuk</span></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Date of birth</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
-<span style="display:none"> (<span class="bday">1985-05-30</span>) </span>30 May 1985<span class="noprint ForceAgeToShow"> (age&#160;35)</span></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Place of birth</th><td colspan="3" class="birthplace" style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Bia%C5%82ystok" title="Białystok">Białystok</a>, Poland</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Height</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
-1.89&#160;m (6&#160;ft 2&#160;in)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Position(s)</th><td colspan="3" class="role" style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Defender_(association_football)" title="Defender (association football)">Centre back</a></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Club information</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">Current team</div></th><td colspan="3" class="org" style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Legia_Warsaw" title="Legia Warsaw">Legia Warsaw</a></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Number</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
-5</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Senior career*</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Years</th><td style="white-space: nowrap; vertical-align: baseline">
-<b>Team</b></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-<b><abbr title="League appearances">Apps</abbr></b></td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-<b>(<abbr title="League goals">Gls</abbr>)</b></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2003–2006</span></th><td style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Hetman_Bia%C5%82ystok" title="Hetman Białystok">Hetman Białystok</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2006–2008</span></th><td style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Znicz_Pruszk%C3%B3w" title="Znicz Pruszków">Znicz Pruszków</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-32</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(3)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2008–2012</span></th><td style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Jagiellonia_Bia%C5%82ystok" title="Jagiellonia Białystok">Jagiellonia Białystok</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-50</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(1)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2010–2011</span></th><td style="white-space: nowrap; vertical-align: baseline">
-→ <a href="/wiki/Piast_Gliwice" title="Piast Gliwice">Piast Gliwice</a> (loan)</td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-13</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(0)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2011–2012</span></th><td style="white-space: nowrap; vertical-align: baseline">
-→ <a href="/wiki/Ruch_Chorz%C3%B3w" title="Ruch Chorzów">Ruch Chorzów</a> (loan)</td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-18</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(1)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2012–2013</span></th><td style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Ruch_Chorz%C3%B3w" title="Ruch Chorzów">Ruch Chorzów</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-19</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(0)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2013–2014</span></th><td style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Zawisza_Bydgoszcz" title="Zawisza Bydgoszcz">Zawisza Bydgoszcz</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-36</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(1)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2014–2016</span></th><td style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Legia_Warsaw" title="Legia Warsaw">Legia Warsaw</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-56</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(3)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2016–2019</span></th><td style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/FC_Girondins_de_Bordeaux" title="FC Girondins de Bordeaux">Bordeaux</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-38</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(1)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2019–</span></th><td style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Legia_Warsaw" title="Legia Warsaw">Legia Warsaw</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-26</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(1)</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">National team<sup>‡</sup></th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2014–</span></th><td style="white-space: nowrap; vertical-align: baseline">
-<a href="/wiki/Poland_national_football_team" title="Poland national football team">Poland</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
-2</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
-(0)</td></tr><tr><td colspan="4" style="text-align:center;color:darkslategray; font-size:95%">
-* Senior club appearances and goals counted for the domestic league only&#32;and correct as of 12:59, 5 July 2020 (UTC)<br />‡ National team caps and goals correct as of 09:35, 3 June 2019 (UTC)</td></tr></tbody></table>
-<p><b>Igor Lewczuk</b> (born 30 May 1985) is a Polish <a href="/wiki/Association_football" title="Association football">footballer</a> who plays as a <a href="/wiki/Defender_(association_football)" title="Defender (association football)">defender</a> for <a href="/wiki/Legia_Warsaw" title="Legia Warsaw">Legia Warsaw</a>.
-</p>
-<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Club"><span class="tocnumber">1.1</span> <span class="toctext">Club</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-3"><a href="#Career_statistics"><span class="tocnumber">2</span> <span class="toctext">Career statistics</span></a>
-<ul>
-<li class="toclevel-2 tocsection-4"><a href="#Club_2"><span class="tocnumber">2.1</span> <span class="toctext">Club</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#International"><span class="tocnumber">2.2</span> <span class="toctext">International</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-6"><a href="#Honours"><span class="tocnumber">3</span> <span class="toctext">Honours</span></a>
-<ul>
-<li class="toclevel-2 tocsection-7"><a href="#Club_3"><span class="tocnumber">3.1</span> <span class="toctext">Club</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
-</ul>
-</div>
+    
+<script type="text/javascript">
+    !function () { var e = function () { var e, t = "__tcfapiLocator", a = [], n = window; for (; n;) { try { if (n.frames[t]) { e = n; break } } catch (e) { } if (n === window.top) break; n = n.parent } e || (!function e() { var a = n.document, r = !!n.frames[t]; if (!r) if (a.body) { var i = a.createElement("iframe"); i.style.cssText = "display:none", i.name = t, a.body.appendChild(i) } else setTimeout(e, 5); return !r }(), n.__tcfapi = function () { for (var e, t = arguments.length, n = new Array(t), r = 0; r < t; r++)n[r] = arguments[r]; if (!n.length) return a; if ("setGdprApplies" === n[0]) n.length > 3 && 2 === parseInt(n[1], 10) && "boolean" == typeof n[3] && (e = n[3], "function" == typeof n[2] && n[2]("set", !0)); else if ("ping" === n[0]) { var i = { gdprApplies: e, cmpLoaded: !1, cmpStatus: "stub" }; "function" == typeof n[2] && n[2](i) } else a.push(n) }, n.addEventListener("message", (function (e) { var t = "string" == typeof e.data, a = {}; try { a = t ? JSON.parse(e.data) : e.data } catch (e) { } var n = a.__tcfapiCall; n && window.__tcfapi(n.command, n.version, (function (a, r) { var i = { __tcfapiReturn: { returnValue: a, success: r, callId: n.callId } }; t && (i = JSON.stringify(i)), e.source.postMessage(i, "*") }), n.parameter) }), !1)) }; "undefined" != typeof module ? module.exports = e : e() }();
+</script>
+<script>
+window._sp_ = {
+    config: {"accountId":1254,"propertyId":7434,"baseEndpoint":"https://cdn.privacy-mgmt.com"}}
+</script>
+<script src="https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js"></script>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="theme-color" content="#1a3151" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="shortcut icon" sizes="192x192" href="/android-chrome-192x192.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-152x152.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no" />
+<meta name="keywords" content="Michal Ogorek,Karriereende,,Polónia" />
+<meta name="description" content="Michal Ogorek ist ein ehemaliger Fußballspieler aus Polónia, (* 15/05/1985 in Warszawa, Polónia). Ogorek spielte zuletzt bei Marcovia 2000 Marki (Marki). Er spielte auf der Position Médio." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://img.a.transfermarkt.technology/portrait/big/default.jpg?lm=1" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="Michal Ogorek - Perfil de jogador " />
+<meta property="og:url" content="https://www.transfermarkt.pt/michal-ogorek/profil/spieler/38254" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/michal-ogorek/profil/spieler/38254" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/michal-ogorek/profil/spieler/38254" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/michal-ogorek/profil/spieler/38254" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/michal-ogorek/profil/spieler/38254" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/michal-ogorek/profil/spieler/38254" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/michal-ogorek/profil/spieler/38254" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/michal-ogorek/profil/spieler/38254" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/michal-ogorek/profil/spieler/38254" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/michal-ogorek/profil/spieler/38254" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/michal-ogorek/profil/spieler/38254" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/michal-ogorek/profil/spieler/38254" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/michal-ogorek/profil/spieler/38254" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/michal-ogorek/profil/spieler/38254" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/michal-ogorek/profil/spieler/38254" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/michal-ogorek/profil/spieler/38254" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/michal-ogorek/profil/spieler/38254" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/michal-ogorek/profil/spieler/38254" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/michal-ogorek/profil/spieler/38254" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/michal-ogorek/profil/spieler/38254" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/michal-ogorek/profil/spieler/38254" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/michal-ogorek/profil/spieler/38254" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/michal-ogorek/profil/spieler/38254" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/michal-ogorek/profil/spieler/38254" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/michal-ogorek/profil/spieler/38254" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/michal-ogorek/profil/spieler/38254" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/michal-ogorek/profil/spieler/38254" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/michal-ogorek/profil/spieler/38254" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/michal-ogorek/profil/spieler/38254" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/michal-ogorek/profil/spieler/38254" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/michal-ogorek/profil/spieler/38254" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/michal-ogorek/profil/spieler/38254" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/foundation-icons.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jui/css/base/jquery-ui.css?lm=1620992500" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/sprite-main.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/chosen.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.custom.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.tm-theme.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_werbung.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/shortclasses.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/print.css?_sn=1?lm=1620992499" media="print" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/spielerprofil.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/spielerprofil.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/desktop.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/domainspezifisch/desktop-pt.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/meintm.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/swiper.4.4.6.min.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/ldWidget.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/statistiken.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/gridview.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/relevante_news.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/fanshopBox.css?lm=1620992499" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/css/tooltipster.css?lm=1620992500" />
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jquery.ba-bbq.min.js?lm=1620992500"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/swiper.4.4.6.min.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/localStorage.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/foundation.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery-ui-1.10.4.custom.min.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/clipboard.min.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery.icheck.min.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/js/jquery.tooltipster.js?lm=1620992500"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+<!-- DFPV2 --->
+		var gptscript = document.createElement("script");
+			gptscript.type = "text/javascript";
+			gptscript.src = 'https://www.googletagservices.com/tag/js/gpt.js';
+			//gptscript.charset = "utf-8";
+			gptscript.async = true;
+			var gptfirstScript = document.getElementsByTagName("script")[0];
+			gptfirstScript.parentNode.insertBefore(gptscript, gptfirstScript);
 
-<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Club">Club</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit&amp;section=2" title="Edit section: Club">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In January 2011, he was loaned to <a href="/wiki/Piast_Gliwice" title="Piast Gliwice">Piast Gliwice</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
-</p><p>In June 2011, he was loaned to <a href="/wiki/Ruch_Chorz%C3%B3w" title="Ruch Chorzów">Ruch Chorzów</a> on a one-year deal.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
-</p><p>On 19 June 2014, Lewczuk signed three-year deal with <a href="/wiki/Legia_Warsaw" title="Legia Warsaw">Legia Warsaw</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
-</p><p>On 31 August 2016, French club <a href="/wiki/FC_Girondins_de_Bordeaux" title="FC Girondins de Bordeaux">Bordeaux</a> announced that Lewczuk would play for them for the next two seasons.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
-</p><p>On 12 June 2019, Lewczuk returned to <a href="/wiki/Legia_Warsaw" title="Legia Warsaw">Legia Warsaw</a> on a 1-year contract with an option for a further year.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Career_statistics">Career statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit&amp;section=3" title="Edit section: Career statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Club_2">Club</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit&amp;section=4" title="Edit section: Club">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<dl><dd><i>As of 3 June 2019.</i><sup id="cite_ref-Stats_6-0" class="reference"><a href="#cite_note-Stats-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></dd></dl>
-<table class="wikitable" style="text-align: center">
+		var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			googletag.cmd.push(function() {
+var rectangle1_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[300, 250]]).
+		addSize([640, 480], [[300, 250]]).
+		addSize([980, 690], [[300, 250]]).
+		addSize([1024, 768], [[300, 250]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_TopRectangle_300x250', [[300, 250]], 'Rectangle1').defineSizeMapping(rectangle1_mapping).addService(googletag.pubads());
+var rectangle2_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[300, 250], 'fluid']).
+		addSize([640, 480], [[300, 250], 'fluid']).
+		addSize([980, 690], [[300, 250], 'fluid']).
+		addSize([1024, 768], [[300, 250], [300, 600], 'fluid']).build();
+googletag.defineSlot('/58778164/TM_Desktop_BottomRectangle_300x250', [[300, 250], [300, 600], 'fluid'], 'Rectangle2').defineSizeMapping(rectangle2_mapping).addService(googletag.pubads());
+var skyscraper_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[160, 600], [120, 600]]).
+		addSize([640, 480], [[160, 600], [120, 600]]).
+		addSize([980, 690], [[160, 600], [120, 600]]).
+		addSize([1024, 768], [[160, 600], [300, 600], [120, 600]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_Skyscraper_300x600', [[160, 600], [120, 600], [300, 600]], 'Skyscraper').defineSizeMapping(skyscraper_mapping).addService(googletag.pubads());
+var billboard_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[468, 60], 'fluid']).
+		addSize([640, 480], [[468, 60], 'fluid']).
+		addSize([980, 690], [[970, 250], [970, 90], [970, 66], [728, 90]]).
+		addSize([1024, 768], [[970, 250], [970, 90], [970, 66], [728, 90]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_CenterLeaderboard_970x250', [[468, 60], [970, 90], [970, 250], [728, 90], 'fluid', [970, 66]], 'Billboard').defineSizeMapping(billboard_mapping).addService(googletag.pubads());
+var fullsize_contentad_mapping = googletag.sizeMapping().
+		addSize([0, 0], [468, 60]).
+		addSize([640, 480], [[728, 90], [468, 60]]).
+		addSize([980, 690], [[728, 90], [970, 90], [970, 250]]).
+		addSize([1024, 768], [[970, 250], [970, 90], [728, 90]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_BottomLeaderboard_970x250', [[468, 60], [728, 90], [970, 90], [970, 250]], 'BillboardFooter').defineSizeMapping(fullsize_contentad_mapping).addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/58778164/TM_Desktop_RichMedia_1x1', 'Richmedia').addService(googletag.pubads());
+googletag.pubads().setCentering(true);
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().setTargeting("URL","www.transfermarkt.pt")
+googletag.pubads().setTargeting("cg1", ["statistik"]);
+googletag.pubads().setTargeting("cg2", ["spieler"]);
+googletag.pubads().setTargeting("cg3", ["profil"]);
+googletag.pubads().setTargeting("cg4", ["38254"]);
+googletag.enableServices();
+})
+<!-- DFPV2-ENDE -->
+/*]]>*/
+</script>
+<title>Michal Ogorek - Perfil de jogador  | Transfermarkt</title>
+                <script type="module" src="https://tmsi.akamaized.net/js/globals-dev/tm-global-elements.esm.js?v=4"></script>
+            <script nomodule="" src="https://tmsi.akamaized.net/js/globals-dev/tm-global-elements.js?v=4"></script>
+<script type="text/javascript">
+   tmData = {
+       loggedIn : "0",
+       tmTraffic: "0",
+   };
+</script>
+<script>// Set to the same value as the web property used on the site
+		var gaProperty = 'UA-3816204-13';
 
-<tbody><tr>
-<th rowspan="2">Club
-</th>
-<th rowspan="2">Season
-</th>
-<th rowspan="2">League
-</th>
-<th colspan="2">League
-</th>
-<th colspan="2">Cup
-</th>
-<th colspan="2">Europe
-</th>
-<th colspan="2">Other
-</th>
-<th colspan="2">Total
-</th></tr>
-<tr>
-<th>Apps</th>
-<th>Goals</th>
-<th>Apps</th>
-<th>Goals</th>
-<th>Apps</th>
-<th>Goals</th>
-<th>Apps</th>
-<th>Goals</th>
-<th>Apps</th>
-<th>Goals
-</th></tr>
-<tr>
-<td rowspan="4"><a href="/wiki/Jagiellonia_Bia%C5%82ystok" title="Jagiellonia Białystok">Jagiellonia Białystok</a>
-</td>
-<td><a href="/wiki/2008%E2%80%9309_Ekstraklasa" title="2008–09 Ekstraklasa">2008–09</a>
-</td>
-<td rowspan="3"><a href="/wiki/Ekstraklasa" title="Ekstraklasa">Ekstraklasa</a>
-</td>
-<td>23</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td colspan="2">–</td>
-<td>2<sup id="cite_ref-Ekstraklasa_Cup_8-0" class="reference"><a href="#cite_note-Ekstraklasa_Cup-8">&#91;a&#93;</a></sup></td>
-<td>0</td>
-<td>26</td>
-<td>0
-</td></tr>
-<tr>
-<td><a href="/wiki/2009%E2%80%9310_Ekstraklasa" title="2009–10 Ekstraklasa">2009–10</a>
-</td>
-<td>26</td>
-<td>1</td>
-<td>6</td>
-<td>0</td>
-<td colspan="2">–</td>
-<td colspan="2">–</td>
-<td>32</td>
-<td>1
-</td></tr>
-<tr>
-<td><a href="/wiki/2010%E2%80%9311_Ekstraklasa" title="2010–11 Ekstraklasa">2010–11</a>
-</td>
-<td>1</td>
-<td>0</td>
-<td>2</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>4</td>
-<td>0
-</td></tr>
-<tr>
-<th colspan="2">Total</th>
-<th>50</th>
-<th>1</th>
-<th>9</th>
-<th>0</th>
-<th>1</th>
-<th>0</th>
-<th>2</th>
-<th>0</th>
-<th>62</th>
-<th>1
-</th></tr>
-<tr>
-<td><a href="/wiki/Piast_Gliwice" title="Piast Gliwice">Piast Gliwice</a>
-</td>
-<td><a href="/wiki/2010%E2%80%9311_I_liga" title="2010–11 I liga">2010–11</a>
-</td>
-<td><a href="/wiki/I_liga" title="I liga">I liga</a>
-</td>
-<td>13</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td colspan="2">–</td>
-<td colspan="2">–</td>
-<td>13</td>
-<td>0
-</td></tr>
-<tr>
-<td rowspan="3"><a href="/wiki/Ruch_Chorz%C3%B3w" title="Ruch Chorzów">Ruch Chorzów</a>
-</td>
-<td><a href="/wiki/2011%E2%80%9312_Ekstraklasa" title="2011–12 Ekstraklasa">2011–12</a>
-</td>
-<td rowspan="2"><a href="/wiki/Ekstraklasa" title="Ekstraklasa">Ekstraklasa</a>
-</td>
-<td>18</td>
-<td>1</td>
-<td>4</td>
-<td>0</td>
-<td colspan="2">–</td>
-<td colspan="2">–</td>
-<td>22</td>
-<td>1
-</td></tr>
-<tr>
-<td><a href="/wiki/2012%E2%80%9313_Ekstraklasa" title="2012–13 Ekstraklasa">2012–13</a>
-</td>
-<td>19</td>
-<td>0</td>
-<td>3</td>
-<td>0</td>
-<td>2</td>
-<td>0</td>
-<td colspan="2">–</td>
-<td>24</td>
-<td>0
-</td></tr>
-<tr>
-<th colspan="2">Total</th>
-<th>37</th>
-<th>1</th>
-<th>7</th>
-<th>0</th>
-<th>2</th>
-<th>0</th>
-<th colspan="2">–</th>
-<th>46</th>
-<th>1
-</th></tr>
-<tr>
-<td><a href="/wiki/Zawisza_Bydgoszcz" title="Zawisza Bydgoszcz">Zawisza Bydgoszcz</a>
-</td>
-<td><a href="/wiki/2013%E2%80%9314_Ekstraklasa" title="2013–14 Ekstraklasa">2013–14</a>
-</td>
-<td><a href="/wiki/Ekstraklasa" title="Ekstraklasa">Ekstraklasa</a>
-</td>
-<td>36</td>
-<td>1</td>
-<td>8</td>
-<td>0</td>
-<td colspan="2">–</td>
-<td colspan="2">–</td>
-<td>44</td>
-<td>1
-</td></tr>
-<tr>
-<td rowspan="4"><a href="/wiki/Legia_Warsaw" title="Legia Warsaw">Legia Warsaw</a>
-</td>
-<td><a href="/wiki/2014%E2%80%9315_Ekstraklasa" title="2014–15 Ekstraklasa">2014–15</a>
-</td>
-<td rowspan="3"><a href="/wiki/Ekstraklasa" title="Ekstraklasa">Ekstraklasa</a>
-</td>
-<td>22</td>
-<td>1</td>
-<td>4</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>1<sup id="cite_ref-SuperCup_9-0" class="reference"><a href="#cite_note-SuperCup-9">&#91;b&#93;</a></sup></td>
-<td>0</td>
-<td>28</td>
-<td>1
-</td></tr>
-<tr>
-<td><a href="/wiki/2015%E2%80%9316_Ekstraklasa" title="2015–16 Ekstraklasa">2015–16</a>
-</td>
-<td>29</td>
-<td>1</td>
-<td>6</td>
-<td>1</td>
-<td>8</td>
-<td>0</td>
-<td>1<sup id="cite_ref-SuperCup_9-1" class="reference"><a href="#cite_note-SuperCup-9">&#91;b&#93;</a></sup></td>
-<td>0</td>
-<td>44</td>
-<td>2
-</td></tr>
-<tr>
-<td><a href="/wiki/2016%E2%80%9317_Ekstraklasa" title="2016–17 Ekstraklasa">2016–17</a>
-</td>
-<td>5</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>6</td>
-<td>0</td>
-<td>1<sup id="cite_ref-SuperCup_9-2" class="reference"><a href="#cite_note-SuperCup-9">&#91;b&#93;</a></sup></td>
-<td>0</td>
-<td>24</td>
-<td>0
-</td></tr>
-<tr>
-<th colspan="2">Total</th>
-<th>56</th>
-<th>3</th>
-<th>11</th>
-<th>1</th>
-<th>15</th>
-<th>0</th>
-<th>3</th>
-<th>0</th>
-<th>85</th>
-<th>4
-</th></tr>
-<tr>
-<td rowspan="4"><a href="/wiki/FC_Girondins_de_Bordeaux" title="FC Girondins de Bordeaux">Bordeaux</a>
-</td>
-<td><a href="/wiki/2016%E2%80%9317_Ligue_1" title="2016–17 Ligue 1">2016–17</a>
-</td>
-<td rowspan="3"><a href="/wiki/Ligue_1" title="Ligue 1">Ligue 1</a>
-</td>
-<td>25</td>
-<td>1</td>
-<td>4</td>
-<td>0</td>
-<td colspan="2">–</td>
-<td>4<sup id="cite_ref-Coupe_de_la_Ligue_10-0" class="reference"><a href="#cite_note-Coupe_de_la_Ligue-10">&#91;c&#93;</a></sup></td>
-<td>0</td>
-<td>33</td>
-<td>1
-</td></tr>
-<tr>
-<td><a href="/wiki/2017%E2%80%9318_Ligue_1" title="2017–18 Ligue 1">2017–18</a>
-</td>
-<td>7</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>0</td>
-<td colspan="2">–</td>
-<td>9</td>
-<td>0
-</td></tr>
-<tr>
-<td><a href="/wiki/2018%E2%80%9319_Ligue_1" title="2018–19 Ligue 1">2018–19</a>
-</td>
-<td>6</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>7</td>
-<td>0</td>
-<td colspan="2">–</td>
-<td>13</td>
-<td>0
-</td></tr>
-<tr>
-<th colspan="2">Total</th>
-<th>38</th>
-<th>1</th>
-<th>4</th>
-<th>0</th>
-<th>2</th>
-<th>0</th>
-<th>11</th>
-<th>0</th>
-<th>55</th>
-<th>1
-</th></tr>
-<tr>
-<th colspan="3">Career total</th>
-<th>230</th>
-<th>7</th>
-<th>39</th>
-<th>1</th>
-<th>20</th>
-<th>0</th>
-<th>16</th>
-<th>0</th>
-<th>305</th>
-<th>8
-</th></tr></tbody></table>
-<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Ekstraklasa_Cup-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ekstraklasa_Cup_8-0">^</a></b></span> <span class="reference-text">Two appearances in <a href="/wiki/Ekstraklasa_Cup" title="Ekstraklasa Cup">Ekstraklasa Cup</a></span>
-</li>
-<li id="cite_note-SuperCup-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-SuperCup_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SuperCup_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SuperCup_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">One appearance in <a href="/wiki/Polish_SuperCup" title="Polish SuperCup">Polish SuperCup</a></span>
-</li>
-<li id="cite_note-Coupe_de_la_Ligue-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Coupe_de_la_Ligue_10-0">^</a></b></span> <span class="reference-text">Four appearances in <a href="/wiki/Coupe_de_la_Ligue" title="Coupe de la Ligue">Coupe de la Ligue</a></span>
-</li>
-</ol></div></div>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"/><div class="reflist reflist-lower-alpha">
-</div>
-<h3><span class="mw-headline" id="International">International</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit&amp;section=5" title="Edit section: International">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<dl><dd><i>As of 3 June 2019.</i><sup id="cite_ref-Stats_6-1" class="reference"><a href="#cite_note-Stats-6">&#91;6&#93;</a></sup></dd></dl>
-<table class="wikitable" style="text-align:center">
+		// Disable tracking if the opt-out cookie exists.
+		var disableStr = 'ga-disable-' + gaProperty;
+		if (document.cookie.indexOf(disableStr + '=true') > -1) {
+			window[disableStr] = true;
+		}
 
-<tbody><tr>
-<td colspan="3"><a href="/wiki/Poland_national_football_team" title="Poland national football team">Poland</a>
-</td></tr>
-<tr>
-<th>Year</th>
-<th>Apps</th>
-<th>Goals
-</th></tr>
-<tr>
-<td>2014</td>
-<td>2</td>
-<td>0
-</td></tr>
-<tr>
-<th>Total</th>
-<th>2</th>
-<th>0
-</th></tr></tbody></table>
-<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit&amp;section=6" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Club_3">Club</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit&amp;section=7" title="Edit section: Club">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p><b>Jagiellonia Białystok</b>
-</p>
-<ul><li><a href="/wiki/Polish_Cup" title="Polish Cup">Polish Cup</a> (1): <a href="/wiki/2009%E2%80%9310_Polish_Cup" title="2009–10 Polish Cup">2009–10</a></li></ul>
-<p><b>Zawisza Bydgoszcz</b>
-</p>
-<ul><li><a href="/wiki/Polish_Cup" title="Polish Cup">Polish Cup</a> (1): <a href="/wiki/2013%E2%80%9314_Polish_Cup" title="2013–14 Polish Cup">2013–14</a></li></ul>
-<p><b>Legia Warsaw</b>
-</p>
-<ul><li><a href="/wiki/Ekstraklasa" title="Ekstraklasa">Ekstraklasa</a> (1): <a href="/wiki/2015%E2%80%9316_Ekstraklasa" title="2015–16 Ekstraklasa">2015–16</a></li>
-<li><a href="/wiki/Polish_Cup" title="Polish Cup">Polish Cup</a> (2): <a href="/wiki/2014%E2%80%9315_Polish_Cup" title="2014–15 Polish Cup">2014–15</a>, <a href="/wiki/2015%E2%80%9316_Polish_Cup" title="2015–16 Polish Cup">2015–16</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"/><div class="reflist">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sport.onet.pl/pilka-nozna/ekstraklasa/igor-lewczuk-pilkarzem-piasta,1,4105495,wiadomosc.html">Igor Lewczuk piłkarzem Piasta</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110617113452/http://sport.onet.pl/pilka-nozna/ekstraklasa/igor-lewczuk-pilkarzem-piasta,1,4105495,wiadomosc.html">Archived</a> 2011-06-17 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> 12.01.2011, onet.pl</span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ruchchorzow.com.pl/?page=articles-news&amp;article_id=9422&amp;article_category=5&amp;category=news">Igor Lewczuk nowym piłkarzem Ruchu</a> 21.06.2011, ruchchorzow.com.pl</span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://eurosport.onet.pl/pilka-nozna/transfery/igor-lewczuk-oficjalnie-pilkarzem-legii-warszawa/rntn0">"Igor Lewczuk oficjalnie piłkarzem Legii Warszawa"</a> (in Polish). onet.pl. 19 June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">19 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Igor+Lewczuk+oficjalnie+pi%C5%82karzem+Legii+Warszawa&amp;rft.pub=onet.pl&amp;rft.date=2014-06-19&amp;rft_id=http%3A%2F%2Feurosport.onet.pl%2Fpilka-nozna%2Ftransfery%2Figor-lewczuk-oficjalnie-pilkarzem-legii-warszawa%2Frntn0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIgor+Lewczuk" class="Z3988"></span></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160901225047/http://www.girondins.com/transfert-igor-lewczuk-en-renfort.html">"Transfert - Igor Lewczuk en renfort&#160;!"</a> &#91;Transfer - Igor Lewczuk has joined&#93; (in French). FC Girondins de Bordeaux. 31 August 2016. Archived from <a rel="nofollow" class="external text" href="http://www.girondins.com/transfert-igor-lewczuk-en-renfort.html">the original</a> on 1 September 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Transfert+-+Igor+Lewczuk+en+renfort+%21&amp;rft.pub=FC+Girondins+de+Bordeaux&amp;rft.date=2016-08-31&amp;rft_id=http%3A%2F%2Fwww.girondins.com%2Ftransfert-igor-lewczuk-en-renfort.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIgor+Lewczuk" class="Z3988"></span></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://legia.com/aktualnosci/igor-lewczuk-wraca-do-legii-61669">IGOR LEWCZUK WRACA DO LEGII</a>, legia.com, 12 June 2019</span>
-</li>
-<li id="cite_note-Stats-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stats_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stats_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.90minut.pl/kariera.php?id=7829">"Igor Lewczuk"</a>. 90minut<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Igor+Lewczuk&amp;rft.pub=90minut&amp;rft_id=http%3A%2F%2Fwww.90minut.pl%2Fkariera.php%3Fid%3D7829&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIgor+Lewczuk" class="Z3988"></span></span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://int.soccerway.com/players/-igor-lewczuk/42500/">"Igor Lewczuk"</a>. Soccerway<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Igor+Lewczuk&amp;rft.pub=Soccerway&amp;rft_id=https%3A%2F%2Fint.soccerway.com%2Fplayers%2F-igor-lewczuk%2F42500%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIgor+Lewczuk" class="Z3988"></span></span>
-</li>
-</ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div role="navigation" class="navbox" aria-labelledby="Legia_Warsaw_–_current_squad" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#1F8234; color:#FFFFFF; border:1px solid #000000; width:87%;"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Legia_Warsaw_squad" title="Template:Legia Warsaw squad"><abbr title="View this template" style=";background:#1F8234; color:#FFFFFF; border:1px solid #000000; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Legia_Warsaw_squad" title="Template talk:Legia Warsaw squad"><abbr title="Discuss this template" style=";background:#1F8234; color:#FFFFFF; border:1px solid #000000; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Legia_Warsaw_squad&amp;action=edit"><abbr title="Edit this template" style=";background:#1F8234; color:#FFFFFF; border:1px solid #000000; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Legia_Warsaw_–_current_squad" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Legia_Warsaw" title="Legia Warsaw"><span style="color:#FFFFFF;">Legia Warsaw</span></a> <span style="color:#FFFFFF;"> &#8211; current squad</span></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><span class="agent vcard">1&#160;<span class="fn"><a href="/wiki/Artur_Boruc" title="Artur Boruc">Boruc</a></span></span></li>
-<li><span class="agent vcard">2&#160;<span class="fn"><a href="/wiki/Josip_Juranovi%C4%87" title="Josip Juranović">Juranović</a></span></span></li>
-<li><span class="agent vcard">3&#160;<span class="fn"><a href="/wiki/Mateusz_Ho%C5%82ownia" title="Mateusz Hołownia">Hołownia</a></span></span></li>
-<li><span class="agent vcard">4&#160;<span class="fn"><a href="/wiki/Mateusz_Wieteska" title="Mateusz Wieteska">Wieteska</a></span></span></li>
-<li><span class="agent vcard">5&#160;<span class="fn"><a class="mw-selflink selflink">Lewczuk</a></span></span></li>
-<li><span class="agent vcard">8&#160;<span class="fn"><a href="/wiki/Valerian_Gvilia" title="Valerian Gvilia">Gvilia</a></span></span></li>
-<li><span class="agent vcard">9&#160;<span class="fn"><a href="/wiki/Tom%C3%A1%C5%A1_Pekhart" title="Tomáš Pekhart">Pekhart</a></span></span></li>
-<li><span class="agent vcard">11&#160;<span class="fn"><a href="/wiki/Joel_Valencia" title="Joel Valencia">Valencia</a></span></span></li>
-<li><span class="agent vcard">16&#160;<span class="fn"><a href="/wiki/Lu%C3%ADs_Rocha_(footballer,_born_1993)" title="Luís Rocha (footballer, born 1993)">Rocha</a></span></span></li>
-<li><span class="agent vcard">17&#160;<span class="fn"><a href="/wiki/Mateusz_Cholewiak" title="Mateusz Cholewiak">Cholewiak</a></span></span></li>
-<li><span class="agent vcard">19&#160;<span class="fn"><a href="/wiki/Wojciech_Muzyk" title="Wojciech Muzyk">Muzyk</a></span></span></li>
-<li><span class="agent vcard">20&#160;<span class="fn"><a href="/wiki/Jos%C3%A9_Kant%C3%A9" title="José Kanté">Kanté</a></span></span></li>
-<li><span class="agent vcard">21&#160;<span class="fn"><a href="/wiki/Rafael_Lopes" title="Rafael Lopes">Lopes</a></span></span></li>
-<li><span class="agent vcard">22&#160;<span class="fn"><a href="/wiki/Pawe%C5%82_Wszo%C5%82ek" title="Paweł Wszołek">Wszołek</a></span></span></li>
-<li><span class="agent vcard">23&#160;<span class="fn"><a href="/wiki/Joel_Abu_Hanna" title="Joel Abu Hanna">Abu Hanna</a></span></span></li>
-<li><span class="agent vcard">24&#160;<span class="fn"><a href="/wiki/Andr%C3%A9_Martins_(footballer,_born_1990)" title="André Martins (footballer, born 1990)">Martins</a></span></span></li>
-<li><span class="agent vcard">25&#160;<span class="fn"><a href="/wiki/Filip_Mladenovi%C4%87" title="Filip Mladenović">Mladenović</a></span></span></li>
-<li><span class="agent vcard">29&#160;<span class="fn"><a href="/wiki/Marko_Ve%C5%A1ovi%C4%87" title="Marko Vešović">Vešović</a></span></span></li>
-<li><span class="agent vcard">30&#160;<span class="fn"><a href="/wiki/Kacper_Kostorz" title="Kacper Kostorz">Kostorz</a></span></span></li>
-<li><span class="agent vcard">33&#160;<span class="fn"><a href="/wiki/Rados%C5%82aw_Cierzniak" title="Radosław Cierzniak">Cierzniak</a></span></span></li>
-<li><span class="agent vcard">34&#160;<span class="fn"><a href="/wiki/I%C3%B1aki_Astiz" title="Iñaki Astiz">Astiz</a></span></span></li>
-<li><span class="agent vcard">55&#160;<span class="fn"><a href="/wiki/Artur_J%C4%99drzejczyk" title="Artur Jędrzejczyk">Jędrzejczyk</a>&#160;(<a href="/wiki/Captain_(association_football)" title="Captain (association football)">c</a>)</span></span></li>
-<li><span class="agent vcard">63&#160;<span class="fn"><a href="/wiki/Jakub_Kisiel" title="Jakub Kisiel">Kisiel</a></span></span></li>
-<li><span class="agent vcard">67&#160;<span class="fn"><a href="/wiki/Bartosz_Kapustka" title="Bartosz Kapustka">Kapustka</a></span></span></li>
-<li><span class="agent vcard">71&#160;<span class="fn"><a href="/wiki/Kacper_Skibicki" title="Kacper Skibicki">Skibicki</a></span></span></li>
-<li><span class="agent vcard">82&#160;<span class="fn"><a href="/wiki/Luquinhas" title="Luquinhas">Luquinhas</a></span></span></li>
-<li><span class="agent vcard">99&#160;<span class="fn"><a href="/wiki/Bartosz_Slisz" title="Bartosz Slisz">Slisz</a></span></span></li>
-<li><span class="agent vcard"><span class="fn"><a href="/wiki/Jasurbek_Yakhshiboev" title="Jasurbek Yakhshiboev">Yakhshiboev</a></span></span></li>
-<li><span class="nowrap">Manager: <a href="/wiki/Czes%C5%82aw_Michniewicz" title="Czesław Michniewicz">Michniewicz</a></span></li></ul>
-</div></td></tr></tbody></table></div>
-<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3148296#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3148296#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q3148296#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><span class="nowrap"><a href="/wiki/PLWABN_(identifier)" class="mw-redirect" title="PLWABN (identifier)">PLWABN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=1&amp;NU=1&amp;IM=4&amp;WI=9810580559205606">9810580559205606</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/9649147270489035700004">9649147270489035700004</a></span></span></li>
-<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/viaf-9649147270489035700004">viaf-9649147270489035700004</a></span></li></ul>
-</div></td></tr></tbody></table></div>
-<p><br />
-</p>
-<style data-mw-deduplicate="TemplateStyles:r1012311289">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}</style><div role="note" class="metadata plainlinks asbox stub"><table role="presentation"><tbody><tr class="noresize"><td><div style="position:relative; width:30px; height:30px; vertical-align: middle;"><div style="position:absolute; width:30px; height:30px; overflow:hidden; z-index:1;"><div style="margin-left:-0px; margin-top:-0px;"><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/48px-Flag_of_Poland.svg.png" decoding="async" width="48" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/72px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/96px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span></div></div><div style="position:absolute; width:30px; height:30px; z-index:2;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Soccerball_mask2.svg/30px-Soccerball_mask2.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Soccerball_mask2.svg/45px-Soccerball_mask2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Soccerball_mask2.svg/60px-Soccerball_mask2.svg.png 2x" data-file-width="195" data-file-height="195" /></div></div></td><td><p class="asbox-body">This biographical article related to a Polish association football defender is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Igor_Lewczuk&amp;action=edit">expanding it</a>.</p></td></tr></tbody></table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Poland-footy-defender-stub" title="Template:Poland-footy-defender-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Poland-footy-defender-stub" title="Template talk:Poland-footy-defender-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Poland-footy-defender-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></div>
+		// Opt-out function
+		function gaOptout() {
+			document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+			window[disableStr] = true;
+		}</script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3816204-13"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() { dataLayer.push(arguments); } 
+   gtag('set', 'linker', { 'domains': [/^transfermarkt\.(com|de|nl|it|at|ch|es|fr|com\.tr|pt|tv|pl|co\.uk)$/]});
+   gtag('js', new Date()); 
+   gtag('set',
+  {
+    'custom_map': {
+                    'dimension1': 'loggedIn',
+                    'dimension2': 'tmTraffic'
+                }
+  });
+        gtag('config', 'UA-3816204-13', {
+                'anonymize_ip': true,
+                'transport_type': 'beacon',
+                'content_group1': 'statistik',
+                'content_group2': 'spieler',
+                'content_group3': 'profil',
+                'content_group4': '38254',
+                'loggedIn': tmData.loggedIn,
+                'tmTraffic': tmData.tmTraffic
+            }); 
+   function tmEvent(category, action, label) {
+                gtag('event',
+                    action,
+                    {
+                        'event_category': category,
+                        'event_label': label
+                    }
+                );
+            }
 
-<!-- 
-NewPP limit report
-Parsed by mw1386
-Cached time: 20210516174031
-Cache expiry: 2592000
-Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.557 seconds
-Real time usage: 0.727 seconds
-Preprocessor visited node count: 3743/1000000
-Post‐expand include size: 60691/2097152 bytes
-Template argument size: 6667/2097152 bytes
-Highest expansion depth: 15/40
-Expensive parser function count: 3/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 20373/5000000 bytes
-Lua time usage: 0.257/10.000 seconds
-Lua memory usage: 6981531/52428800 bytes
-Number of Wikibase entities loaded: 1/400
--->
-<!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  641.839      1 -total
- 34.56%  221.792      1 Template:Infobox_football_biography
- 28.91%  185.539      1 Template:Infobox3cols
- 26.41%  169.534      3 Template:Reflist
- 16.61%  106.593      4 Template:Cite_web
- 11.07%   71.024      1 Template:Short_description
-  9.58%   61.473      1 Template:Poland-footy-defender-stub
-  9.28%   59.576      1 Template:Legia_Warsaw_squad
-  9.13%   58.587      1 Template:Asbox
-  8.67%   55.630      1 Template:Football_squad
--->
+            function tmTiming(value, name, event_category, event_label) {
+                gtag('event', 'timing_complete', {
+                    name,
+                    value,
+                    event_category,
+                    event_label
+                });
+            }
+            
+	</script><!--  SZM 2.0 (IVW/AGOF) -->
+<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>    <script type="text/javascript" src="https://tmssl.akamaized.net//ads/ads.js"></script>
+    <script type="text/javascript">
+        if (self == top) {
+            document.documentElement.style.display = 'block';
+        } else {
+            top.location = self.location;
+        }
+    </script>
+    <noscript>
+        <style>
+            html body *:not(.noscript) {
+                display: none;
+            }
+        </style>
+        <div class="noscript">
+            Um die Seite nutzen zu können, schalten Sie bitte Ihr Javascript ein.        </div>
+    </noscript>
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:13363301-0!canonical and timestamp 20210516174030 and revision id 1005787293. Serialized with JSON.
- -->
-</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Igor_Lewczuk&amp;oldid=1005787293">https://en.wikipedia.org/w/index.php?title=Igor_Lewczuk&amp;oldid=1005787293</a>"</div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1985_births" title="Category:1985 births">1985 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Association_football_defenders" title="Category:Association football defenders">Association football defenders</a></li><li><a href="/wiki/Category:Polish_footballers" title="Category:Polish footballers">Polish footballers</a></li><li><a href="/wiki/Category:Poland_international_footballers" title="Category:Poland international footballers">Poland international footballers</a></li><li><a href="/wiki/Category:Znicz_Pruszk%C3%B3w_players" title="Category:Znicz Pruszków players">Znicz Pruszków players</a></li><li><a href="/wiki/Category:Hetman_Bia%C5%82ystok_players" title="Category:Hetman Białystok players">Hetman Białystok players</a></li><li><a href="/wiki/Category:Jagiellonia_Bia%C5%82ystok_players" title="Category:Jagiellonia Białystok players">Jagiellonia Białystok players</a></li><li><a href="/wiki/Category:Piast_Gliwice_players" title="Category:Piast Gliwice players">Piast Gliwice players</a></li><li><a href="/wiki/Category:Ruch_Chorz%C3%B3w_players" title="Category:Ruch Chorzów players">Ruch Chorzów players</a></li><li><a href="/wiki/Category:Zawisza_Bydgoszcz_players" title="Category:Zawisza Bydgoszcz players">Zawisza Bydgoszcz players</a></li><li><a href="/wiki/Category:Legia_Warsaw_players" title="Category:Legia Warsaw players">Legia Warsaw players</a></li><li><a href="/wiki/Category:FC_Girondins_de_Bordeaux_players" title="Category:FC Girondins de Bordeaux players">FC Girondins de Bordeaux players</a></li><li><a href="/wiki/Category:Ligue_1_players" title="Category:Ligue 1 players">Ligue 1 players</a></li><li><a href="/wiki/Category:Ekstraklasa_players" title="Category:Ekstraklasa players">Ekstraklasa players</a></li><li><a href="/wiki/Category:Sportspeople_from_Bia%C5%82ystok" title="Category:Sportspeople from Białystok">Sportspeople from Białystok</a></li><li><a href="/wiki/Category:Polish_expatriate_footballers" title="Category:Polish expatriate footballers">Polish expatriate footballers</a></li><li><a href="/wiki/Category:Polish_expatriate_sportspeople_in_France" title="Category:Polish expatriate sportspeople in France">Polish expatriate sportspeople in France</a></li><li><a href="/wiki/Category:Expatriate_footballers_in_France" title="Category:Expatriate footballers in France">Expatriate footballers in France</a></li><li><a href="/wiki/Category:Polish_people_of_Belarusian_descent" title="Category:Polish people of Belarusian descent">Polish people of Belarusian descent</a></li><li><a href="/wiki/Category:Polish_football_defender_stubs" title="Category:Polish football defender stubs">Polish football defender stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_Polish-language_sources_(pl)" title="Category:CS1 Polish-language sources (pl)">CS1 Polish-language sources (pl)</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_PLWABN_identifiers" title="Category:Wikipedia articles with PLWABN identifiers">Wikipedia articles with PLWABN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" type="text/css" href="/css/ie.css"/><![endif]-->
+            <link rel="canonical" href="https://www.transfermarkt.pt/michal-ogorek/profil/spieler/38254">
+    <!-- no Tisoomi -->    <style>
+        @font-face {
+            font-family: 'OSL';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Open Sans Cond Light'), local('OpenSans-CondensedLight'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight300.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'OSB';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Open Sans Cond Light'), local('OpenSans-CondensedLight'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight300.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Source Sans Pro';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Source Sans Pro'), local('SourceSansPro-Regular'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Regular400.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Regular.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Source Sans Pro';
+            font-style: normal;
+            font-weight: bold;
+            src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Bold700.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Bold.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: lighter;
+            src:
+                url("https://tmsi.akamaized.net/fonts/Oswald-Light200.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/oswald_light.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: normal;
+            src:
+                url("https://tmsi.akamaized.net/fonts/Oswald-Regular400.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/oswald_regular.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: bold;
+            src:
+                url("https://tmsi.akamaized.net/fonts/Oswald-Bold700.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/oswald_bold.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: "socicon";
+            src: url("https://tmsi.akamaized.net/fonts/socicon.eot");
+            src: url("https://tmsi.akamaized.net/fonts/socicon.eot?#iefix") format("embedded-opentype"),
+                url("https://tmsi.akamaized.net/fonts/socicon.woff") format("woff"),
+                url("https://tmsi.akamaized.net/fonts/socicon.ttf") format("truetype"),
+                url("https://tmsi.akamaized.net/fonts/socicon.svg#socicon") format("svg");
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+    </style>
+    </head>
+<body x-ms-format-detection="none" style="overflow-y: scroll;" class="" itemscope itemtype="http://schema.org/WebPage">
+    <tm-language-hint></tm-language-hint>
+            <div id="navibalken" class="navibalken hide-for-small"></div>
+    <div id="main">
+                <div class="row" id="logobereich">
+            <div id="header" class="large-12 columns">
+                <div class="naviback hide-for-small hide-for-print"></div>
+                <div class="werbung-skyscraper-container hide-for-small">
+                    
+<div class="werbung werbung-skyscraper">
+	<!-- DFPV2 -->
+	<div id="Skyscraper" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Skyscraper'); });
+	</script>
 	</div>
 </div>
-<div id='mw-data-after-content'>
-	<div class="read-more-container"></div>
-</div>
+                </div>
 
-<div id="mw-navigation">
-	<h2>Navigation menu</h2>
-	<div id="mw-head">
-		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
-	 >
-	<h3 id="p-personal-label" class="vector-menu-heading">
-		<span>Personal tools</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Igor+Lewczuk" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Igor+Lewczuk" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
-		
-	</div>
-</nav>
+                <div class="werbung-skyscraperbtf-container hide-for-small">
+                                    </div>
+                <div class="row" style="margin: 0;">
+                    <div class="large-3 columns">
+                        <a href="/" class="hide-for-small">
+                            <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" title="Transfermarkt" alt="Transfermarkt">
+                        </a>
+                                                    <tm-domainswitcher open-list="false" tld="pt"></tm-domainswitcher>
+                                            </div>
 
-		<div id="left-navigation">
-			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
-	 >
-	<h3 id="p-namespaces-label" class="vector-menu-heading">
-		<span>Namespaces</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Igor_Lewczuk" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Igor_Lewczuk" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
-		
-	</div>
-</nav>
 
-			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
-	 >
-	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
-	<h3 id="p-variants-label" class="vector-menu-heading">
-		<span>Variants</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"></ul>
-		
-	</div>
-</nav>
+                        <div id="header-social-icons" class="large-3 columns flexCenter">
+		                <a name="SocMedia" href="https://www.facebook.com/Transfermarkt.pt" target="_blank" onclick="tmEvent('SM-Icons_Header','click','Facebook');
+"><span class="icon-facebook">&nbsp;</span></a>|
+                <a name="SocMedia" href="https://twitter.com/TMpt_news" target="_blank" onclick="tmEvent('SM-Icons_Header','click','Twitter');
+"><span class="icon-twitter">&nbsp;</span></a>|
+                <a name="SocMedia" href="http://instagram.com/transfermarkt_official" target="_blank" onclick="tmEvent('SM-Icons_Header','click','Instagram');
+"><span class="icon-instagram_grau">&nbsp;</span></a>|
+                <a name="SocMedia" href="/intern/rssguide" target="_blank" onclick="tmEvent('SM-Icons_Header','click','RSS');
+"><span class="icon-rss_feed_grau">&nbsp;</span></a>
+				    </div>
 
-		</div>
-		<div id="right-navigation">
-			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
-	 >
-	<h3 id="p-views-label" class="vector-menu-heading">
-		<span>Views</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Igor_Lewczuk">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Igor_Lewczuk&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Igor_Lewczuk&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
-		
-	</div>
-</nav>
 
-			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
-	 >
-	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
-	<h3 id="p-cactions-label" class="vector-menu-heading">
-		<span>More</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"></ul>
-		
-	</div>
-</nav>
-
-			<div id="p-search" role="search" >
-	<h3 >
-		<label for="searchInput">Search</label>
-	</h3>
-	<form action="/w/index.php" id="searchform">
-		<div id="simpleSearch" data-search-loc="header-navigation">
-			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
-			<input type="hidden" name="title" value="Special:Search"/>
-			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
-			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
-		</div>
-	</form>
-</div>
-
-		</div>
-	</div>
-	
-<div id="mw-panel">
-	<div id="p-logo" role="banner">
-		<a class="mw-wiki-logo" href="/wiki/Main_Page"
-			title="Visit the main page"></a>
-	</div>
-	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
-	 >
-	<h3 id="p-navigation-label" class="vector-menu-heading">
-		<span>Navigation</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
-		
-	</div>
-</nav>
-
-	<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
-	 >
-	<h3 id="p-interaction-label" class="vector-menu-heading">
-		<span>Contribute</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
-		
-	</div>
-</nav>
-<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
-	 >
-	<h3 id="p-tb-label" class="vector-menu-heading">
-		<span>Tools</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Igor_Lewczuk" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Igor_Lewczuk" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Igor_Lewczuk&amp;oldid=1005787293" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Igor_Lewczuk&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Igor_Lewczuk&amp;id=1005787293&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3148296" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
-		
-	</div>
-</nav>
-<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
-	 >
-	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
-		<span>Print/export</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Igor_Lewczuk&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Igor_Lewczuk&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
-		
-	</div>
-</nav>
-<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
-	 >
-	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
-		<span>In other projects</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Igor_Lewczuk" hreflang="en">Wikimedia Commons</a></li></ul>
-		
-	</div>
-</nav>
-
-	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
-	 >
-	<h3 id="p-lang-label" class="vector-menu-heading">
-		<span>Languages</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D8%BA%D9%88%D8%B1_%D9%84%D9%8A%D9%88%D8%B4%D9%88%D9%83" title="إغور ليوشوك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Igor_Lewczuk" title="Igor Lewczuk – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Igor_Lewczuk" title="Igor Lewczuk – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Igor_Lewczuk" title="Igor Lewczuk – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Igor_Lewczuk" title="Igor Lewczuk – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Igor_Lewczuk" title="Igor Lewczuk – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D8%AC%D9%88%D8%B1_%D9%84%D9%8A%D9%88%D8%B4%D9%88%D9%83" title="اجور ليوشوك – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AC%E3%83%B4%E3%83%81%E3%83%A5%E3%82%AF" title="イゴール・レヴチュク – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Igor_Lewczuk" title="Igor Lewczuk – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Igor_Lewczuk" title="Igor Lewczuk – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Igor_Lewczuk" title="Igor Lewczuk – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2%D1%87%D1%83%D0%BA,_%D0%98%D0%B3%D0%BE%D1%80" title="Левчук, Игор – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Igor_Lewczuk" title="Igor Lewczuk – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%B3%D0%BE%D1%80_%D0%9B%D0%B5%D0%B2%D1%87%D1%83%D0%BA" title="Ігор Левчук – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3148296#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
-	</div>
-</nav>
-
-</div>
-
-</div>
-<footer id="footer" class="mw-footer" role="contentinfo" >
-	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> This page was last edited on 9 February 2021, at 11:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
-	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+                                            <div class="large-6 columns " id="schnellsuche-platz">
+                            <form name="schnellsuche" id="schnellsuche" class="noclose" action="/schnellsuche/ergebnis/schnellsuche">
+                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="" />
+                                <input type="image" class="header-suche-abschicken" src="/images/suche-grau.svg" alt="Pesquisar" />
+                            </form>
+                            <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
+                                <span class="icon-detailsuche"></span>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+                <div class="row hide-on-print navihalter ">
+            <div class="page_wrapper">
+                <div class="large-12 columns megamenu_container megamenu_dark_bar megamenu_dark">
+                    <a href="/" class="sticky-logo hide-for-small">
+                        <span title="Transfermarkt" class="tm_svg"></span>
+                    </a>
+                        <!-- Begin Menu Container -->
+<ul class="megamenu  extra-domain " id="mainmenue" itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
+    <!-- Begin Mega Menu -->
+    <li id="mobile_hauptmenu_button">
+                <ul id="hauptmenuepunkte">
+                                    <li id="naviid_news"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('News','click','menu');
+">
+                            Notícias                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_transfers"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Transfers & Gerüchte','click','menu');
+">
+                            Transferências & rumores                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_marktwerte"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Marktwerte','click','menu');
+">
+                            Valores de mercado                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_wettbewerbe"class="aktiv megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Wettbewerbe','click','menu');
+">
+                            Competições                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_foren"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Foren','click','menu');
+">
+                            Fóruns                           </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_meintm"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('MeinTM','click','menu');
+">
+                            Meu TM                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_live" class="">
+                        <a href="/ticker/index/live" class="live-navilink"
+                           onClick="tmEvent('Live','click','menu');
+">Em direto                            <tm-live-match-counter auto-request="true" content='["Jogo em direto ", "Jogos em direto"]'></tm-live-match-counter>
+                        </a>
+                                            </li>
+                            </ul>
+    </li>
 </ul>
+                    <a href="/" id="logo_klein" class="show-for-small">
+                        <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" title="Transfermarkt" alt="Transfermarkt">
+                    </a>
+                                        <form name="schnellsuche" id="schnellsuche-sticky" class="noclose sticky-suche" action="/schnellsuche/ergebnis/schnellsuche">
+                        <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" />
+                        <input type="image" class="header-suche-abschicken" src="https://tmssl.akamaized.net//images/suchicon.png" alt="Pesquisar" />
+                    </form>
+                    <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
+                        <span class="icon-detailsuche"></span>
+                    </a>
+                    <a name="ToTop-Menu" id="arrow-up-xy" href="#" onClick="">
+                        <i class="fi-arrow-up"></i>
+                    </a>
+                    <div class="userbox ub-abgemeldet" id="login" onClick="tmEvent('login','click','sign_in_button');
+">
+    <a>
+        <span class="login-torso">
+            <i class="fi-torso"></i>
+        </span>
+        <span class="anmelden">Registar</span>
+    </a>
+</div>
+                </div>
+            </div>
+        </div>
 
-	<ul id="footer-places" >
-	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Igor_Lewczuk&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
-	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-</ul>
+        <div class="row popuphalter">
+                <div id="loginbox" class="small-12"></div>
+<div id="registerbox"></div>
+<div id="passwortVergessenBox"></div>
+        </div>
 
-	<ul id="footer-icons" class="noprint">
-	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
-	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
-</ul>
+                    <script>
+                function googleEvent(string) {
+                    //_gaq.push(['_trackEvent', string, 'click', 'menu']);
+                    tmEvent(string, 'click', 'menu');
+                }
+            </script>
+                            <div class="row">
+                    <div id="breadcrumb" class="large-12 columns" itemscope itemtype="https://schema.org/BreadcrumbList">
+                        <div class="breadcrumb-box">
+                            <div class="breadcrumb">
+                                
+<div id="quickselect-skeleton" class="ssc" style="height: 40px;">
+  <div class="ssc-wrapper flex" style="height: 100%; padding: 0">
+    <div class="ssc-square quickselect-element" style="width: 40px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 171.06px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 170.84px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 138.03px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 141.5px;"></div>
+  </div>
+</div>
 
-</footer>
+<tm-quick-select-bar
+    default-country="136"
+    default-competition=""
+    default-club="123"
+    default-player="38254"
+    dropdown-visible=""
+    translations='{&quot;home&quot;:&quot;Home&quot;,&quot;country&quot;:&quot;Pa\u00eds&quot;,&quot;competition&quot;:&quot;Competi\u00e7\u00e3o&quot;,&quot;club&quot;:&quot;Clube&quot;,&quot;player&quot;:&quot;Jogadores&quot;,&quot;attack&quot;:&quot;Avan\u00e7ado&quot;,&quot;midfield&quot;:&quot;M\u00e9dio&quot;,&quot;defense&quot;:&quot;Defesa&quot;,&quot;goalkeeper&quot;:&quot;Guarda-redes&quot;}'
+    >
+</tm-quick-select-bar>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    <div style="text-align:right"></div>
+        
+<div class="werbung werbung-billboard">
+	<!-- DFPV2 -->
+	<div id="Billboard" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Billboard'); });
+	</script>
+	</div>
+</div>
+        
+<div id="modalHolder"></div>
+        <style type="text/css">
+    .dataName {
+        font-size: 38px;
+    }
+    @media only screen and (max-width: 767px) {
+        .dataName {
+            font-size: 30px;
+            white-space: nowrap;
+            padding: 5px;
+        }
+    }
+</style>
+<div class="row">
+    <div class="large-12 columns">
+        <div class="dataHeader dataExtended" itemscope itemtype="https://schema.org/Person">
+						            <div class="dataMain">
+                <div class="dataTop">
+                    <div class="dataName">
+						 <h1 itemprop="name">Michal <b>Ogorek</b></h1>
 
+						
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.557","walltime":"0.727","ppvisitednodes":{"value":3743,"limit":1000000},"postexpandincludesize":{"value":60691,"limit":2097152},"templateargumentsize":{"value":6667,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20373,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  641.839      1 -total"," 34.56%  221.792      1 Template:Infobox_football_biography"," 28.91%  185.539      1 Template:Infobox3cols"," 26.41%  169.534      3 Template:Reflist"," 16.61%  106.593      4 Template:Cite_web"," 11.07%   71.024      1 Template:Short_description","  9.58%   61.473      1 Template:Poland-footy-defender-stub","  9.28%   59.576      1 Template:Legia_Warsaw_squad","  9.13%   58.587      1 Template:Asbox","  8.67%   55.630      1 Template:Football_squad"]},"scribunto":{"limitreport-timeusage":{"value":"0.257","limit":"10.000"},"limitreport-memusage":{"value":6981531,"limit":52428800}},"cachereport":{"origin":"mw1386","timestamp":"20210516174031","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Igor Lewczuk","url":"https:\/\/en.wikipedia.org\/wiki\/Igor_Lewczuk","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3148296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3148296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-09-20T23:13:08Z","dateModified":"2021-02-09T11:57:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Igor_Lewczuk_%282016%29.jpg","headline":"Polish footballer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":192,"wgHostname":"mw1407"});});</script>
-</body></html>
+						
+                    </div>
+					                </div>
+
+            </div>
+            <div class="dataContent">
+                <div class="dataBottom">
+                    <div class="dataDaten">
+													<p>
+								<span class="dataItem">Nasc./Idade:</span>
+								<span itemprop="birthDate" class="dataValue">
+									15/05/1985																			(36)
+																	</span>
+							</p>
+															<p class="hide-for-small">
+									<span class="dataItem">Local de nascimento:</span>
+									<span class="dataValue">
+										<img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /><span itemprop="birthPlace">Warszawa</span>
+									</span>
+								</p>
+																											<p>
+								<span class="dataItem">Nacionalidade:</span>
+								<span class="dataValue">
+									<img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /><span itemprop="nationality">Polónia</span>
+								</span>
+							</p>
+						
+                    </div>
+                    <div class="dataDaten">
+													<p>
+								<span class="dataItem">Altura:</span>
+								<span itemprop="height" class="dataValue">1,73 m</span>
+							</p>
+						                        <p>
+                            <span class="dataItem">Posição:</span>
+                            <span class="dataValue">
+								Médio                            </span>
+                        </p>
+												                    </div>
+                    <div class="dataDaten">
+						                    </div>
+                </div>
+            </div>
+
+            <div class="dataBild">
+								<img src="https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1" title="Michal Ogorek" alt="Michal Ogorek" class="" />            </div>
+            				<div class="dataZusatzbox">
+					<div class="dataZusatzImage"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/normquad/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="" /></a></div>
+					<div class="dataZusatzDaten">
+						<span class="hauptpunkt" itemprop="affiliation"><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></span><br />
+													<span class="show-for-small">desde:
+								01/01/2018							</span>
+																				<span class="dataItem">Último clube:</span>
+								<span class="dataValue"><a class="vereinprofil_tooltip" id="31761" href="/marcovia-2000-marki/startseite/verein/31761/saison_id/2014">Marcovia 2000 Marki</a></span>
+								<br />
+																							<span class="dataItem"><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a> desde:</span>
+								<span class="dataValue">
+									01/01/2018								</span>
+																		</div>
+				</div>
+						
+        </div>
+				    </div>
+</div>
+
+    <div class="row hide-on-print" id="subnavi">
+        <div class="page_wrapper subnavi">
+            <div class="large-12 columns">
+                <div class="subnavi_box" id="subnavigation">
+                    <div class="submenu-text show-for-small">
+                        <a name="SubNavi" title="Navigation">
+                            <span>≡ Sub-Navegação</span>
+                        </a>
+                    </div>
+                    <nav>
+                        <ul id="submenu">
+                                                        <li id="close_submenu" class="show-for-small">
+                                <div id="submenu-icon">
+                                    <span class="clicked"></span>
+                                    <span class="clicked"></span>
+                                </div>
+                                <a>Fechar Sub-Navegação</a>
+                            </li>
+                                                                <li id="perfil" data-name="perfil" class="first-button aktiv ">
+                                        <a name="SubNavi" href="/michal-ogorek/profil/spieler/38254" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','profil');
+">Perfil</a>
+                                                                            </li>
+                                                                        <li id="desempenho" data-name="desempenho" class="  ">
+                                        <a name="SubNavi" href="#subnavi" class="megamenu_drop" onClick="tmEvent('subnavigation_spieler','click','leistungsdaten');
+">Desempenho</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="/images/bx_loader.gif" /></div></div>                                    </li>
+                                                                        <li id="transferencias" data-name="transferencias" class="  ">
+                                        <a name="SubNavi" href="/michal-ogorek/transfers/spieler/38254" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','transfers');
+">Transferências</a>
+                                                                            </li>
+                                                                        <li id="rumores" data-name="rumores" class="  ">
+                                        <a name="SubNavi" href="/michal-ogorek/geruechte/spieler/38254" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','geruchte');
+">Rumores </a>
+                                                                            </li>
+                                                                        <li id="noticias" data-name="noticias" class="  ">
+                                        <a name="SubNavi" href="/michal-ogorek/news/spieler/38254" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','news');
+">Notícias</a>
+                                                                            </li>
+                                                                        <li id="palmares" data-name="palmares" class="  ">
+                                        <a name="SubNavi" href="/michal-ogorek/erfolge/spieler/38254" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','erfolge');
+">Palmarés</a>
+                                                                            </li>
+                                                                        <li id="carreira" data-name="carreira" class="  ">
+                                        <a name="SubNavi" href="#subnavi" class="megamenu_drop" onClick="tmEvent('subnavigation_spieler','click','karriere');
+">Carreira</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="/images/bx_loader.gif" /></div></div>                                    </li>
+                                                                        <li id="" data-name="subnavi-edit" class="  subnavi-edit">
+                                        <a name="SubNavi" href="#subnavi" class="megamenu_drop" onClick="tmEvent('subnavigation_spieler','click','edit');
+"></a>
+                                        <div class="dropdown_fullwidth gasthinweis" title="Login ou registar"><div><img src="/images/bx_loader.gif" /></div></div>                                    </li>
+                                                            </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var stickySubTop = $('#subnavigation').offset().top;
+        stickySubTop = stickySubTop - 60;
+        var main = $("#main");
+        $(document).ready(function () {
+            $(window).on('scroll load', function () {
+                if (!main.hasClass("stickySubnavigation")) {
+                    stickySubTop = $('#subnavigation').offset().top;
+                }
+                if ($(window).scrollTop() > stickySubTop) {
+                    main.addClass("stickySubnavigation");
+                } else {
+                    main.removeClass("stickySubnavigation");
+                }
+            });
+        });
+    </script>
+    <style>
+        .forum-anchor {
+            margin-top: -80px;
+        }
+    </style>
+
+    <div class="row">
+    <div class="large-8 columns">
+        <div class="box viewport-tracking" data-viewport="Steckbrief">
+    <div class="subkategorie-header">
+        <h2>Dados pessoais </h2>
+    </div>
+    <div class="row collapse">
+        <div class="large-6 large-push-6 small-12 columns">
+                        <div class="weitere-daten-spielerprofil">
+                            </div>
+        </div>
+        <div class="large-6 large-pull-6 small-12 columns spielerdatenundfakten">
+            <div class="blauerbalken show-for-small"><span>Informações e factos</span>
+            </div>
+            <div class="spielerdaten ">
+                <table class="auflistung">
+                                            <tr>
+                            <th>Nome no país de origem:</th>
+                            <td>Michał Ogórek</td>
+                        </tr>
+                                                <tr>
+                            <th>Data de nascimento:</th>
+                            <td><a href="/aktuell/waspassiertheute/aktuell/new/datum/1985-05-15">15/05/1985</a>                                </td>
+                        </tr>
+                                                <tr>
+                            <th>Local de nascimento:</th>
+                            <td>
+                                 <span >Warszawa&nbsp;&nbsp;<img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /></span>                            </td>
+                        </tr>
+                                                                                            <tr>
+                                <th>Idade:</th>
+                                <td>36</td>
+                            </tr>
+                                                                                        <tr>
+                            <th>Altura:</th>
+                            <td>1,73&nbsp;m</td>
+                        </tr>
+                                            <tr>
+                            <th>Nacionalidade:</th>
+                            <td>
+                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" />&nbsp;&nbsp;Polónia                            </td>
+                        </tr>
+                                        <tr>
+                        <th>Posição:</th>
+                        <td>
+                            Médio                        </td>
+                    </tr>
+                                                            <tr>
+                        <th>
+                            Clube atual:
+                        </th>
+                        <td>
+                            <a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a>                            <a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a>                        </td>
+                    </tr>
+                                            <tr>
+                            <th>Na equipa desde:</th>
+                            <td>
+                                01/01/2018                            </td>
+                        </tr>
+                        <tr>
+                            <th>Contrato até:</th>
+                            <td>-</td>
+                        </tr>
+                                                            </table>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="box transferhistorie viewport-tracking" data-viewport="Transferhistorie">
+    <div class="subkategorie-header">
+		<h2>Transferências        </h2>
+    </div>
+    <div class="responsive-table">
+        <table>
+            <thead>
+            <tr>
+                <th class="zentriert">Época</th>
+                <th class="zentriert">Data</th>
+                <th colspan="3">Origem</th>
+                <th colspan="3">Destino</th>
+                <th class="zelle-mw">VM</th>
+
+                <th class="zelle-abloese">Valor</th>
+                <th class="zentriert">&nbsp;</th>
+            </tr>
+            </thead>
+            <tbody>
+			                <tr class="zeile-transfer" >
+                    <td class="zentriert ">17/18</td>
+                    <td class="zentriert ">01/01/2018</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="31761" href="/marcovia-2000-marki/transfers/verein/31761/saison_id/2017"><img src="https://tmssl.akamaized.net/images/wappen/tiny/default.png?lm=1457423031" title="&nbsp;" alt="Marcovia 2000 Marki" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="31761" href="/marcovia-2000-marki/transfers/verein/31761/saison_id/2017">Marcovia 2000 Marki</a></td>
+                    <td class="no-border-rechts vereinswappen"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/transfers/verein/123/saison_id/2017"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a title="Fim de carreira" class="" id="123" href="/karriereende/transfers/verein/123/saison_id/2017">Fim de carreira</a></td>
+                    <td class="zelle-mw">-</td>
+
+                    <td class="zelle-abloese">-</td>
+                    <td class="zentriert ">
+                        <a href="/michal-ogorek/transfers/spieler/38254/transfer_id/2750816"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                    </td>
+                </tr>
+
+				                <tr class="zeile-transfer" >
+                    <td class="zentriert ">14/15</td>
+                    <td class="zentriert ">01/07/2014</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="65284" href="/naprzod-stare-babice/transfers/verein/65284/saison_id/2014"><img src="https://tmssl.akamaized.net/images/wappen/tiny/65284.png?lm=1579714614" title="&nbsp;" alt="Naprzód Stare Babice" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="65284" href="/naprzod-stare-babice/transfers/verein/65284/saison_id/2014">GKS Naprzód </a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="31761" href="/marcovia-2000-marki/transfers/verein/31761/saison_id/2014"><img src="https://tmssl.akamaized.net/images/wappen/tiny/default.png?lm=1457423031" title="&nbsp;" alt="Marcovia 2000 Marki" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="31761" href="/marcovia-2000-marki/transfers/verein/31761/saison_id/2014">Marcovia 2000 Marki</a></td>
+                    <td class="zelle-mw">-</td>
+
+                    <td class="zelle-abloese">custo zero</td>
+                    <td class="zentriert ">
+                        <a href="/michal-ogorek/transfers/spieler/38254/transfer_id/2040196"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                    </td>
+                </tr>
+
+				                <tr class="zeile-transfer" >
+                    <td class="zentriert ">08/09</td>
+                    <td class="zentriert ">01/01/2009</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="28913" href="/hutnik-warszawa/transfers/verein/28913/saison_id/2008"><img src="https://tmssl.akamaized.net/images/wappen/tiny/28913.png?lm=1460287663" title="&nbsp;" alt="Hutnik Warszawa" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="28913" href="/hutnik-warszawa/transfers/verein/28913/saison_id/2008">Hutnik Warszawa</a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="65284" href="/naprzod-stare-babice/transfers/verein/65284/saison_id/2008"><img src="https://tmssl.akamaized.net/images/wappen/tiny/65284.png?lm=1579714614" title="&nbsp;" alt="Naprzód Stare Babice" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="65284" href="/naprzod-stare-babice/transfers/verein/65284/saison_id/2008">GKS Naprzód </a></td>
+                    <td class="zelle-mw">-</td>
+
+                    <td class="zelle-abloese">?</td>
+                    <td class="zentriert ">
+                        <a href="/michal-ogorek/transfers/spieler/38254/transfer_id/583968"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                    </td>
+                </tr>
+
+				                <tr class="zeile-transfer" >
+                    <td class="zentriert ">08/09</td>
+                    <td class="zentriert ">01/07/2008</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="10192" href="/okecie-warszawa/transfers/verein/10192/saison_id/2008"><img src="https://tmssl.akamaized.net/images/wappen/tiny/10192.png?lm=1469136018" title="&nbsp;" alt="Okecie Warszawa" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="10192" href="/okecie-warszawa/transfers/verein/10192/saison_id/2008">Okecie</a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="28913" href="/hutnik-warszawa/transfers/verein/28913/saison_id/2008"><img src="https://tmssl.akamaized.net/images/wappen/tiny/28913.png?lm=1460287663" title="&nbsp;" alt="Hutnik Warszawa" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="28913" href="/hutnik-warszawa/transfers/verein/28913/saison_id/2008">Hutnik Warszawa</a></td>
+                    <td class="zelle-mw">-</td>
+
+                    <td class="zelle-abloese">?</td>
+                    <td class="zentriert ">
+                        <a href="/michal-ogorek/transfers/spieler/38254/transfer_id/583967"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                    </td>
+                </tr>
+
+				                <tr class="zeile-transfer" >
+                    <td class="zentriert ">07/08</td>
+                    <td class="zentriert ">01/01/2008</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="8681" href="/mazowsze-grojec/transfers/verein/8681/saison_id/2007"><img src="https://tmssl.akamaized.net/images/wappen/tiny/8681.png?lm=1474094933" title="&nbsp;" alt="Mazowsze Grójec" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="8681" href="/mazowsze-grojec/transfers/verein/8681/saison_id/2007">Mazowsze Grójec</a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="10192" href="/okecie-warszawa/transfers/verein/10192/saison_id/2007"><img src="https://tmssl.akamaized.net/images/wappen/tiny/10192.png?lm=1469136018" title="&nbsp;" alt="Okecie Warszawa" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="10192" href="/okecie-warszawa/transfers/verein/10192/saison_id/2007">Okecie</a></td>
+                    <td class="zelle-mw">-</td>
+
+                    <td class="zelle-abloese">?</td>
+                    <td class="zentriert ">
+                        <a href="/michal-ogorek/transfers/spieler/38254/transfer_id/583966"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                    </td>
+                </tr>
+
+				                <tr class="zeile-transfer" >
+                    <td class="zentriert ">07/08</td>
+                    <td class="zentriert ">01/07/2007</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="6628" href="/legia-warschau-ii/transfers/verein/6628/saison_id/2007"><img src="https://tmssl.akamaized.net/images/wappen/tiny/6628.png?lm=1463410132" title="&nbsp;" alt="Legia Warsaw II" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="6628" href="/legia-warschau-ii/transfers/verein/6628/saison_id/2007">Legia II</a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="8681" href="/mazowsze-grojec/transfers/verein/8681/saison_id/2007"><img src="https://tmssl.akamaized.net/images/wappen/tiny/8681.png?lm=1474094933" title="&nbsp;" alt="Mazowsze Grójec" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="8681" href="/mazowsze-grojec/transfers/verein/8681/saison_id/2007">Mazowsze Grójec</a></td>
+                    <td class="zelle-mw">-</td>
+
+                    <td class="zelle-abloese">?</td>
+                    <td class="zentriert ">
+                        <a href="/michal-ogorek/transfers/spieler/38254/transfer_id/138002"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                    </td>
+                </tr>
+
+				                <tr class="zeile-transfer" >
+                    <td class="zentriert ">04/05</td>
+                    <td class="zentriert ">01/03/2005</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="14801" href="/start-otwock/transfers/verein/14801/saison_id/2004"><img src="https://tmssl.akamaized.net/images/wappen/tiny/14801.png?lm=1445183396" title="&nbsp;" alt="Start Otwock" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="14801" href="/start-otwock/transfers/verein/14801/saison_id/2004">Otwock</a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="6628" href="/legia-warschau-ii/transfers/verein/6628/saison_id/2004"><img src="https://tmssl.akamaized.net/images/wappen/tiny/6628.png?lm=1463410132" title="&nbsp;" alt="Legia Warsaw II" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="6628" href="/legia-warschau-ii/transfers/verein/6628/saison_id/2004">Legia II</a></td>
+                    <td class="zelle-mw">-</td>
+
+                    <td class="zelle-abloese">?</td>
+                    <td class="zentriert ">
+                        <a href="/michal-ogorek/transfers/spieler/38254/transfer_id/134520"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                    </td>
+                </tr>
+
+				                <tr class="zeile-transfer" >
+                    <td class="zentriert ">04/05</td>
+                    <td class="zentriert ">01/07/2004</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="28913" href="/hutnik-warszawa/transfers/verein/28913/saison_id/2004"><img src="https://tmssl.akamaized.net/images/wappen/tiny/28913.png?lm=1460287663" title="&nbsp;" alt="Hutnik Warszawa" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="28913" href="/hutnik-warszawa/transfers/verein/28913/saison_id/2004">Hutnik Warszawa</a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="14801" href="/start-otwock/transfers/verein/14801/saison_id/2004"><img src="https://tmssl.akamaized.net/images/wappen/tiny/14801.png?lm=1445183396" title="&nbsp;" alt="Start Otwock" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/135.png?lm=1520611569" title="Polónia" alt="Polónia" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="14801" href="/start-otwock/transfers/verein/14801/saison_id/2004">Otwock</a></td>
+                    <td class="zelle-mw">-</td>
+
+                    <td class="zelle-abloese">?</td>
+                    <td class="zentriert ">
+                        <a href="/michal-ogorek/transfers/spieler/38254/transfer_id/583965"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                    </td>
+                </tr>
+
+				            </tbody>
+            <tfoot>
+            <tr>
+                <td class="rechts " colspan="9">Valor total                    :
+                </td>
+                <td class="rechts">0</td>
+                <td class="zentriert ">&nbsp;</td>
+            </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+
+<div class="box viewport-tracking" data-viewport="Leistungsdaten_Saison">
+    <div class="subkategorie-header">
+		<h2>
+            Dados desempenho carreira total         </h2>
+    </div>
+	<div id="yw0" class="grid-view">
+
+<span class="empty">Sem dados</span>
+<div class="keys" style="display:none" title="/michal-ogorek/profil/spieler/38254"></div>
+</div>    <div class="c2action-footer">
+		<a title="Michal Ogorek" class="" id="38254" href="/michal-ogorek/leistungsdaten/spieler/38254">Dados de desempenho completos</a>    </div>
+</div>
+<div id="recommender" class="box" >
+    <div class="OUTBRAIN" data-src="" data-widget-id="AR_1" data-ob-template="DE_Transfermarkt.de" ></div>
+	<script type="text/javascript" src="https://widgets.outbrain.com/outbrain.js"></script>
+</div>
+    </div>
+    <div class="large-4 columns">
+                
+<div class="werbung werbung-rectangle1">
+	<!-- DFPV2 -->
+	<div id="Rectangle1" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Rectangle1'); });
+	</script>
+	</div>
+</div>
+            <tm-compare-player
+                id="viewport-tracking"
+                headline="Comparar Michal Ogorek com ..."
+                data-viewport="Vergleiche_mit_"
+                player-id="38254"
+                player-full-name="Michal Ogorek"
+                search-player="Pesquisar jogador"
+                button-text="Comparar jogadores"
+                >
+            </tm-compare-player>
+            
+<div class="werbung werbung-rectangle2">
+	<!-- DFPV2 -->
+	<div id="Rectangle2" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Rectangle2'); });
+	</script>
+	</div>
+</div>
+    </div>
+    </div>
+        
+<div class="werbung werbung-fullsize_contentad">
+	<!-- DFPV2 -->
+	<div id="BillboardFooter" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('BillboardFooter'); });
+	</script>
+	</div>
+</div>
+                <div id="footer" class="row large-12 columns small-12">
+	        <a name="Footer" href="/"
+           class="footer-logo"><img src="/images/logo.png" alt="Transfermarkt"/></a>
+	    <a name="Footer"
+       href="/intern/impressum">Informação legal</a>
+    |
+    <a name="Footer"
+       href="/intern/datenschutz">Política de Privacidade</a>
+    |
+        <a name="Footer"
+       href="/intern/anb">Termos e Condições</a>
+    |
+    <a name="Footer"
+       href="/intern/tmteam">Equipa TM</a>
+    |
+	    <a name="Footer"
+       href="/intern/socialmedia">Redes Sociais</a>
+		    |
+
+    <a name="Footer"
+       href="/intern/faq"> Perguntas frequentes</a> |
+    <a name="Footer"
+       href="/intern/fehlermelden">Enviar mensagem de erro</a>
+</div>
+                <div id="menue_overlay" style="display: none;"></div>
+    </div>
+    
+	<!-- DFPV2 -->
+	<div id="Richmedia" style="z-index:1000000">
+	<script>
+		googletag.cmd.push(function() { googletag.display('Richmedia'); });
+	</script>
+	</div>
+    <!-- SZM VERSION="2.0" -->
+    <script type="text/javascript">
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+    </script>
+    <!--/SZM -->
+        <script type="module">
+var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){var e,n;[ASCDP.hasOwnProperty("adS"),null===(e=ASCDP.adS)||void 0===e?void 0:e.hasOwnProperty("reloadAds"),"function"==typeof(null===(n=ASCDP.adS)||void 0===n?void 0:n.reloadAds)].every(function(e){return e})&&ASCDP.adS.reloadAds()};export var TmTrackingAndAds=function(e,n){void 0===n&&(n=defaultOptions);var r=["tabelle","reiter","forum"].includes(e)?e:"";n.tracking&&(gtag("event","page_view",{page_path:"/jsContent"+window.location.pathname}),sendIvwData(r)),n.refreshAds&&"undefined"!=typeof ASCDP&&refreshAd()};window.tmTrackingAndAds=function(e,n){return TmTrackingAndAds(e,n)};</script>
+        <script>
+            $(document).on('ready ajaxSuccess', function() {
+                $(document).foundation();
+            });
+        </script>
+                <script type="text/javascript">
+	if(typeof(adet) == "boolean" && adet == false){
+		img_src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk";
+	} else {
+		img_src="/static/singlepictures/jku90whjlkjbwbta1g4b8h89fh8sgh8d";
+	}
+	var elem = document.createElement("img");
+	document.body.appendChild(elem);
+	elem.src = img_src;
+</script>
+
+    
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1620992499"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/micromodal.min.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/intersection-observer.min.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/lazyload.min.js?lm=1620992497"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+	function initCss() {
+	}
+	var aktuelleUrl = 'https://www.transfermarkt.pt/michal-ogorek/profil/spieler/38254'
+	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fmichal-ogorek%2Fprofil%2Fspieler%2F38254';
+	var notificationUrl='/notifications/liste';
+	var privateNachrichtenUrl = '/privateNachrichten/liste'
+	var favoritenUrl = '/favoriten/userFavoriten'
+	var favoritenHandleUrl = '/favoriten/handle'
+	var favoritEntfernenText = 'Remover favoritos'
+	var favoritHinzufuegenText = 'Adicionar favoritos'
+	var vereinUrl = '/verein/userbox';
+	var boxOpen = false;
+	var titleString='Michal Ogorek - Perfil de jogador  | Transfermarkt';
+	var naviController = 'spieler';
+	var naviAction = 'profil';
+	var naviPath = 'michal-ogorek/profil/spieler/38254';
+	var naviId = '38254';
+	var naviSaison = '';
+	var onlyDE = '';
+	var onlyMobile = '';
+	var onlyTablet = '';
+	var getUserID = '';
+
+function ReloadPixelImages(typ) {
+    if(typ == 'tabelle') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_t",
+"oc":"",
+"mg":"yes",
+"sc":"yes",
+"sv":"i2",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }else if(typ == 'reiter') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_r",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }else if(typ == 'forum') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_forum",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }else {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_s",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }
+    gtag('event', 'page_view', {page_path: "/jsContent" + window.location.pathname})
+    if(typeof ASCDP.adS.reloadAds == 'function' && typ != '') {
+        ASCDP.adS.reloadAds()
+    }
+}
+function sendIvwData(typ) {
+    if(typeof iom === 'object' && typeof iom.c === 'function') {
+        if(typ == 'tabelle') {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_t",
+"oc":"",
+"mg":"yes",
+"sc":"yes",
+"sv":"i2",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }else if(typ == 'reiter') {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_r",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }else if(typ == 'forum') {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_forum",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }else {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_s",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }
+    }
+}
+jQuery(function($) {
+jQuery('#yw0').yiiGridView({'ajaxUpdate':['yw0'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D'});
+
+          $(".spielprofil_tooltip").tooltipster({'position':'right','arrowColor':'white','delay':'100','speed':0,'contentAsHTML':true,'interactive':true,'content':'\x0A\x09\x09\x09\x3Cimg\x20src\x3D\x22https\x3A\x2F\x2Ftmssl.akamaized.net\x2F\x2Fimages\x2Fspinner.gif\x22\x20style\x3D\x22vertical\x2Dalign\x3A\x20middle\x3B\x22\x20\x2F\x3E\x0A\x09\x09','functionBefore':function(origin, continueTooltip) { continueTooltip(); id_array = origin.context.id.split("/"); var spieler_id = id_array[0]; $.post( "/spieler/_profilTooltip", { spieler_id : spieler_id }, function(data) { if(data) { origin.tooltipster("update", data); } }); }});
+          
+
+          $(".vereinprofil_tooltip").tooltipster({'position':'right','arrowColor':'white','delay':'100','speed':0,'contentAsHTML':true,'interactive':true,'content':'\x0A\x09\x09\x09\x3Cimg\x20src\x3D\x22https\x3A\x2F\x2Ftmssl.akamaized.net\x2F\x2Fimages\x2Fspinner.gif\x22\x20style\x3D\x22vertical\x2Dalign\x3A\x20middle\x3B\x22\x20\x2F\x3E\x0A\x09\x09','functionBefore':function(origin, continueTooltip) { continueTooltip(); id_array = origin.context.id.split("/"); var verein_id = id_array[0]; $.post( "/verein/_profilTooltip", { verein_id : verein_id }, function(data) { if(data) { origin.tooltipster("update", data); } }); }});
+          
+});
+/*]]>*/
+</script>
+</body>
+
+</html>

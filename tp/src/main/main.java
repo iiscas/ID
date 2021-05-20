@@ -14,14 +14,25 @@ public class main {
     public static void main(String[] args) throws IOException {
         // String nome="lionel-messi";
          String nome;
-        Scanner ler = new Scanner(new FileInputStream("C:\\Users\\isabe\\Documents\\GitHub\\ID\\tp\\src\\main\\p.txt"));
+        Scanner ler = new Scanner(new FileInputStream("players.txt"));
 
         //String novo=Wrappers.Obtem_Nacionalidade(nome);
         //System.out.println(novo);
         while (ler.hasNextLine()) {
             String linha=ler.nextLine();
-            nome = Wrappers.Obtem_Fotografia(linha);
+            //nome = Wrappers.Obtem_Fotografia(linha);
+            //nome = Wrappers.Obtem_Nome(linha);
+            //nome = Wrappers.Obtem_Nacionalidade(linha);
+            //nome = Wrappers.Obtem_ClubeAtual(linha);
+            //nome = Wrappers.Obtem_Empresario(linha);
+            //nome = Wrappers.Obtem_NomeCompleto(linha);
+            nome = Wrappers.Obtem_PePreferido(linha);
+            
             System.out.println(nome);
+            //System.out.println("\n");
+           // nome = Wrappers.getLinkZeroZero(linha);
+            //System.out.println(nome);
+            //System.out.println("\n");
         }
         /*
         String nome = Wrappers.getLinkZeroZero("Cristiano Ronaldo");

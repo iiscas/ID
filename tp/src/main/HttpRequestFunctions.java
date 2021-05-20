@@ -24,7 +24,7 @@ public class HttpRequestFunctions {
             
             if (!pesquisa.isEmpty()) {
                //Criar URL com palavra de pesquisa
-              System.out.println("LINK: " + link + URLEncoder.encode(pesquisa,"UTF-8").replace("+","_"));
+              //System.out.println("LINK: " + link + URLEncoder.encode(pesquisa,"UTF-8").replace("+","_"));
                url = new URL(link + URLEncoder.encode(pesquisa,"UTF-8").replace("+","_")); //alterar replace se necessário
             }
             else{

@@ -20,7 +20,7 @@ public class Wrappers {
         String link = "https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=";
         HttpRequestFunctions.httpRequest1(link, nome, "transfer.txt");
 
-        String er = "href=\"/([a-z-]+/profil/spieler/[0-9]+)\">";
+        String er = "href=\"(/[^/]*/profil/spieler/[^\"]*)\"";
 
         Pattern p = Pattern.compile(er);
         Matcher m;
@@ -29,51 +29,22 @@ public class Wrappers {
         while (ler.hasNextLine()) {
 
             String linha = ler.nextLine();
-            m = p.matcher(link);
+            m = p.matcher(linha);
 
             if (m.find()) {
+
                 ler.close();
-                System.out.println("https://www.transfermarkt.pt/" + m.group(1));
-                return "https://www.transfermarkt.pt/" + m.group(1);
+
+                return "https://www.transfermarkt.pt" + m.group(1);
             }
         }
-        
-        
-        ler.close();
-        return null;
 
-    }
-     public static String getLinkZeroZero(String nome) throws IOException {
-
-        String link = "https://www.google.com/search?q=";
-        
-        HttpRequestFunctions.httpRequest1(link, nome + "zerozero", "zerozero_google.txt");
-
-        String er = "href=\"(https://www\\.zerozero\\.pt/jogador\\.php\\?id=[0-9]+)";
-
-        Pattern p = Pattern.compile(er);
-        Matcher m;
-        Scanner ler = new Scanner(new FileInputStream("zerozero_google.txt"));
-
-        while (ler.hasNextLine()) {
-
-            String linha = ler.nextLine();
-            m = p.matcher(link);
-
-            if (m.find()) {
-                ler.close();
-                System.out.println(m.group(1));
-                return  m.group(1);
-            }
-        }
-        
-        
         ler.close();
         return null;
 
     }
 
-    public static String Obtem_Nome(String pesquisa) throws FileNotFoundException, IOException {
+    public static String Obtem_Alcunha(String pesquisa) throws FileNotFoundException, IOException {
 
         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.html");
 
@@ -98,32 +69,53 @@ public class Wrappers {
         return null;
     }
 
-    /*public static String Obtem_Alcunha(String pesquisa) throws IOException {
-         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
+    public static String Obtem_NomeCompleto(String pesquisa) throws IOException {
 
-        String er ="<h1[a-zA-Z\\s=\\\"]+>"+pesquisa+"</h1>";
+        String link = getLinkTransfer(pesquisa);
+        //System.out.println(link);
+
+        HttpRequestFunctions.httpRequest1("https://pt.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
+
+        String er = "<th style=\\\"[a-z\\-\\:\\s\\;]+\\\">Nome completo";
+        String er1 = "</th>";
+        String er2 = "<td[^>]*>([a-zA-ZÀ-ÿ\\s]+)";
+
         Pattern p = Pattern.compile(er);
+        Pattern p1 = Pattern.compile(er1);
+        Pattern p2 = Pattern.compile(er2);
+
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
-        Matcher m;
+
+        Matcher m, m1, m2;
 
         while (ler.hasNextLine()) {
 
             String linha = ler.nextLine();
+
             m = p.matcher(linha);
 
-            while (m.find()) {
-                ler.close();
-                return m.group(1);
+            if (m.find()) {
+                linha = ler.nextLine();
+                m1 = p1.matcher(linha);
+
+                if (m1.find()) {
+                    linha = ler.nextLine();
+                    m2 = p2.matcher(linha);
+
+                    if (m2.find()) {
+                        ler.close();
+                        return m2.group(1);
+                    }
+                }
             }
 
         }
         ler.close();
         return null;
-    }*/
+    }
+
     public static String Obtem_Fotografia(String pesquisa) throws IOException {
-        
-        
+
         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
         String er = "<meta property=\"og:image\" content=\"https://upload.wikimedia.org/wikipedia/commons/[a-zA-Z0-9]+[/]+[a-zA-Z0-9]+[/]([a-zA-Z0-9\\S]+)\"/>";
@@ -149,26 +141,33 @@ public class Wrappers {
 
     public static String Obtem_Nacionalidade(String pesquisa) throws IOException {
         //funciona bem pelo regex supostamente
-        
+
         String link = getLinkTransfer(pesquisa);
+        //System.out.println(link);
 
-        
-        HttpRequestFunctions.httpRequest1(link, "", "jogadores.html");
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
-        String er = "<meta name=\\\"description\\\" content=\\\"[a-zA-Z\\s,0-9]+:\\s([a-zA-Z]+)\\b";
+        String er = "<meta name=\\\"description\\\" content=\\\"[a-zA-Z\\s,0-9]+:\\s([a-zA-ZÀ-ÿ]+)\\b";
+        String er1 = "&nbsp;&nbsp;([^<]*)</td>";
+
         Pattern p = Pattern.compile(er);
-        Scanner ler = new Scanner(new FileInputStream("jogadores.html"));
+        Pattern p1 = Pattern.compile(er1);
+        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
 
-        Matcher m;
+        Matcher m, m1;
 
         while (ler.hasNextLine()) {
 
             String linha = ler.nextLine();
             m = p.matcher(linha);
+            m1 = p1.matcher(linha);
 
-            while (m.find()) {
+            if (m.find()) {
                 ler.close();
-                return m.group(2);
+                return m.group(1);
+            } else if (m1.find()) {
+                ler.close();
+                return m1.group(1);
             }
 
         }
@@ -177,26 +176,36 @@ public class Wrappers {
     }
 
     public static String Obtem_PePreferido(String pesquisa) throws IOException {
-        
-        //supostamente a regex esta bem
-        
-       String link = getLinkZeroZero(pesquisa);
-        HttpRequestFunctions.httpRequest2(link,"", "zerozero_google.txt");
 
-        String er = "<span>Pé preferencial<\\/span>([a-zA-Z]+)<\\/div>";
+        String link = getLinkTransfer(pesquisa);
+        //System.out.println(link);
+
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+
+        String er = "\\s+<th>Pé:</th>";
+        String er1 = "\\s+<td>([^<]+)</td>";
+
         Pattern p = Pattern.compile(er);
+        Pattern p1 = Pattern.compile(er1);
+
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
 
-        Matcher m;
+        Matcher m, m1;
 
         while (ler.hasNextLine()) {
 
             String linha = ler.nextLine();
             m = p.matcher(linha);
 
-            while (m.find()) {
-                ler.close();
-                return m.group(1);
+            if (m.find()) {
+                
+                linha = ler.nextLine();
+                m1 = p1.matcher(linha);
+                System.out.println(linha);
+                if (m1.find()) {
+                    ler.close();
+                    return m1.group(1);
+                }
             }
 
         }
@@ -206,66 +215,124 @@ public class Wrappers {
 
     public static String Obtem_Posicao(String pesquisa) throws IOException {
 
-        
-        String link = getLinkZeroZero(pesquisa);
-        HttpRequestFunctions.httpRequest2(link,"", "zerozero_google.txt");
+        //done
+        String link = getLinkTransfer(pesquisa);
+        //System.out.println(link);
 
-        String er = "<span>Posição</span><tr><td class=\"label\"></td><td>([^<]+)</td>";
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+
+        String er = "<span class=\\\"dataItem\\\">Posição:</span>";
+        String er1 = "[\\s]*<span class=\\\"dataValue\\\">[\\s]*";
+        String er2 = "\\s+([À-ÿA-Z-a-z\\s]+)\\b\\s+</span>";
+
         Pattern p = Pattern.compile(er);
+        Pattern p1 = Pattern.compile(er1);
+        Pattern p2 = Pattern.compile(er2);
+
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
 
-        Matcher m;
+        Matcher m, m1, m2;
 
         while (ler.hasNextLine()) {
 
             String linha = ler.nextLine();
             m = p.matcher(linha);
 
-            while (m.find()) {
-                ler.close();
-                return m.group(1);
+            if (m.find()) {
+                linha = ler.nextLine();
+                m1 = p1.matcher(linha);
+
+                if (m1.find()) {
+
+                    linha = ler.nextLine();
+                    m2 = p2.matcher(linha);
+
+                    if (m2.find()) {
+                        ler.close();
+                        return m2.group(1);
+                    }
+                }
+
             }
 
         }
+
         ler.close();
         return null;
     }
 
-    public static String Obtem_ClubeATual(String pesquisa) throws IOException {
-        HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
+    public static String Obtem_ClubeAtual(String pesquisa) throws IOException {
 
-        String er = "<span>Clube atual<\\/span><div class=\"micrologo_and_text\"><div class=\\\"image\\\"><a href=\"\\/pais.php\\?id=[0-9]+\\\"><img src=[a-zA-ZÀ-ÿ\\s\\w\\d\\:\\/\\-\\_\\\"\\.\\=\\;]+><\\/a><\\/div><div class=\"text\">([a-zA-Z\\s])+<\\/div>";
+        //done
+        String link = getLinkTransfer(pesquisa);
+        //System.out.println(link);
+
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+
+        String er = "Clube atual:";
+        String er1 = "\\s+</th>";
+        String er2 = "\\s+<td>";
+        String er3 = "\\s+<a title=\\\"[a-zA-Z\\s\\-]+\\\" class=\\\"+[a-zA-Z0-9\\s\\\"=/><:\\.\\-]+\\?[a-z=0-9\\\"\\s]+([a-zA-Z-\\s]+)\\\"";
+        String er4 = "<a class=\\\"[a-zA-Z\\s\\-\\_]+\\\" id=\\\"+[a-zA-Z0-9\\s\\\"=/><:\\.\\-]+\\?[a-z=0-9\\\"\\s]+[a-zA-Z-\\s=\\\"\\&]+\\;\\\"\\salt=\\\"([À-ÿA-Za-z\\s\\-]+)\\\"";
+
         Pattern p = Pattern.compile(er);
+        Pattern p1 = Pattern.compile(er1);
+        Pattern p2 = Pattern.compile(er2);
+        Pattern p3 = Pattern.compile(er3);
+        Pattern p4 = Pattern.compile(er4);
+
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
 
-        Matcher m;
+        Matcher m, m1, m2, m3, m4;
 
         while (ler.hasNextLine()) {
 
             String linha = ler.nextLine();
             m = p.matcher(linha);
 
-            while (m.find()) {
-                ler.close();
-                return m.group(1);
-            }
+            if (m.find()) {
+                linha = ler.nextLine();
+                m1 = p1.matcher(linha);
 
+                if (m1.find()) {
+
+                    linha = ler.nextLine();
+                    m2 = p2.matcher(linha);
+
+                    if (m2.find()) {
+                        linha = ler.nextLine();
+                        m3 = p3.matcher(linha);
+                        m4 = p4.matcher(linha);
+
+                        if (m3.find()) {
+                            ler.close();
+                            return m3.group(1);
+                        } else if (m4.find()) {
+                            ler.close();
+                            return m4.group(1);
+                        }
+                    }
+
+                }
+
+            }
         }
         ler.close();
         return null;
     }
-    
+
     public static String Obtem_ClubeAnterior(String pesquisa) {
         return null;
     }
 
     public static String Obtem_Selecao(String pesquisa) throws IOException {
-         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
-        String er ="<title>[^\"]+</title>";
+        HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
+
+        String er = "<title>[^\"]+</title>";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
+
         Matcher m;
 
         while (ler.hasNextLine()) {
@@ -284,12 +351,12 @@ public class Wrappers {
     }
 
     public static String Obtem_Premios(String pesquisa) throws IOException {
-         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
+        HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
-        String er ="<title>[^\"]+</title>";
+        String er = "<title>[^\"]+</title>";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
+
         Matcher m;
 
         while (ler.hasNextLine()) {
@@ -308,12 +375,12 @@ public class Wrappers {
     }
 
     public static String Obtem_EstadoAtual(String pesquisa) throws FileNotFoundException, IOException {
-         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
+        HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
-        String er ="<title>[^\"]+</title>";
+        String er = "<title>[^\"]+</title>";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
+
         Matcher m;
 
         while (ler.hasNextLine()) {
@@ -332,52 +399,105 @@ public class Wrappers {
     }
 
     public static String Obtem_Empresario(String pesquisa) throws FileNotFoundException, IOException {
-        String link = getLinkZeroZero(pesquisa);
-        HttpRequestFunctions.httpRequest2(link,"", "zerozero_google.txt");
 
-        String er ="<span>Agente</span><a href=[a-z0-9\\s\\.\\?=\\\"]+>([a-zA-Z\\s]+)</a>";
+        String link = getLinkTransfer(pesquisa);
+        String retornar = "Informação indisponível";
+        //System.out.println(link);
+
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+
+        String er = "<th>Empresários:</th>";
+        String er1 = "\\s+<td>";
+        String er2 = "\\s+<a href=\\\"[^>]*>([À-ÿ0-9A-Za-z\\.\\s\\']+)</a>";
+
         Pattern p = Pattern.compile(er);
+        Pattern p1 = Pattern.compile(er1);
+        Pattern p2 = Pattern.compile(er2);
+
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
-        Matcher m;
+
+        Matcher m, m1, m2;
 
         while (ler.hasNextLine()) {
 
             String linha = ler.nextLine();
             m = p.matcher(linha);
 
-            while (m.find()) {
-                ler.close();
-                return m.group(1);
+            if (m.find()) {
+                linha = ler.nextLine();
+                m1 = p1.matcher(linha);
+
+                if (m1.find()) {
+
+                    linha = ler.nextLine();
+                    m2 = p2.matcher(linha);
+
+                    if (m2.find()) {
+                        ler.close();
+                        return m2.group(1);
+                    }
+                }
             }
 
         }
+
         ler.close();
-        return null;
+        return retornar;
     }
 
     public static String Obtem_Idade(String pesquisa) throws IOException {
-        
-       String link = getLinkTransfer(pesquisa);
 
-        
-        HttpRequestFunctions.httpRequest1(link, "", "jogadores.html");
+        String link = getLinkTransfer(pesquisa);
 
-        String er ="<meta name=\\\"description\\\" content=\\\"[a-zA-Z\\s,]+([0-9]+)[a-zA-Z\\s,]+\\b";
-        
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+
+        String er = "<meta name=\\\"description\\\" content=\\\"[a-zA-Z\\s,]+([0-9]+)[a-zA-Z\\s,]+\\b";
+        String er1 = "<th>Idade:</th>";
+        String er2 = "<td>([0-9]+)</td>";
+        String er3 = "<span class=\\\"dataItem\\\">Falecido:</span>";
+        String er4 = "<span itemprop=\\\"deathDate\\\" class=\\\"dataValue\\\">[0-9\\s\\.]+\\s\\(([0-9]+)\\)</span>";
+
         Pattern p = Pattern.compile(er);
+        Pattern p1 = Pattern.compile(er1);
+        Pattern p2 = Pattern.compile(er2);
+        Pattern p3 = Pattern.compile(er3);
+        Pattern p4 = Pattern.compile(er4);
+
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
-        Matcher m;
+
+        Matcher m, m1, m2, m3, m4;
 
         while (ler.hasNextLine()) {
 
             String linha = ler.nextLine();
             m = p.matcher(linha);
+            m1 = p1.matcher(linha);
+            m3 = p3.matcher(linha);
 
-            while (m.find()) {
+            if (m.find()) {
                 ler.close();
                 return m.group(1);
+
+            } else if (m1.find()) {
+
+                linha = ler.nextLine();
+                m2 = p2.matcher(linha);
+
+                if (m2.find()) {
+
+                    ler.close();
+                    return m2.group(1);
+                }
+            } else if (m3.find()) {
+
+                linha = ler.nextLine();
+                m4 = p4.matcher(linha);
+
+                if (m4.find()) {
+
+                    ler.close();
+                    return m4.group(1);
+                }
             }
 
         }
@@ -385,37 +505,37 @@ public class Wrappers {
         return null;
     }
 
-    public static int Obtem_Ranking(String pesquisa) throws IOException {
-         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
-
-        String er ="<title>[^\"]+</title>";
-        Pattern p = Pattern.compile(er);
-        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
-        Matcher m;
-
-        while (ler.hasNextLine()) {
-
-            String linha = ler.nextLine();
-            m = p.matcher(linha);
-
-            while (m.find()) {
-                ler.close();
-                return m.group(1);
-            }
-
-        }
-        ler.close();
-        return null;
-    }
-
-    public static double Obtem_ValorContrato(String pesquisa) throws IOException {
+    public static String Obtem_Ranking(String pesquisa) throws IOException {
         HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
-        String er ="<title>[^\"]+</title>";
+        String er = "<title>[^\"]+</title>";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
+
+        Matcher m;
+
+        while (ler.hasNextLine()) {
+
+            String linha = ler.nextLine();
+            m = p.matcher(linha);
+
+            while (m.find()) {
+                ler.close();
+                return m.group(1);
+            }
+
+        }
+        ler.close();
+        return null;
+    }
+
+    public static String Obtem_ValorContrato(String pesquisa) throws IOException {
+        HttpRequestFunctions.httpRequest1("https://en.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
+
+        String er = "<title>[^\"]+</title>";
+        Pattern p = Pattern.compile(er);
+        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
+
         Matcher m;
 
         while (ler.hasNextLine()) {
@@ -434,14 +554,14 @@ public class Wrappers {
     }
 
     public static String Obtem_DataNascimento(String pesquisa) throws IOException {
-         String link = getLinkZeroZero(pesquisa);
-        HttpRequestFunctions.httpRequest2(link,"", "zerozero_google.txt");
+        String link = getLinkZeroZero(pesquisa);
+        HttpRequestFunctions.httpRequest2(link, "", "zerozero_google.txt");
 
-        String er ="<span>Nascimento</span>([0-9-]+)<span class=\\\"small\\\">";
+        String er = "<span>Nascimento</span>([0-9-]+)<span class=\\\"small\\\">";
 
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-        
+
         Matcher m;
 
         while (ler.hasNextLine()) {
@@ -459,5 +579,5 @@ public class Wrappers {
         return null;
 
     }
-    
+
 }
