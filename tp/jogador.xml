@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jogadores>
+     <jogador>
+          <nomecompleto>Cristiano Ronaldo dos Santos Aveiro</nomecompleto>
+          <alcunha>Cristiano Ronaldo</alcunha>
+          <nacionalidade>Portugal</nacionalidade>
+          <foto>Cristiano_Ronaldo_Signature.png</foto>
+          <datanascimento>5 de fevereiro de 1985</datanascimento>
+          <idade>36</idade>
+          <altura>1,85 m</altura>
+          <peso>nenhum</peso>
+          <pepreferido>direito</pepreferido>
+          <estadoatual>nenhum</estadoatual>
+          <posicao>Ponta de Lança</posicao>
+          <valorcontrato>50,00 M €</valorcontrato>
+          <selecao>Portugal</selecao>
+          <clubesanteriores>Real Madrid</clubesanteriores>
+          <clubesanteriores>Juventus</clubesanteriores>
+          <clubesanteriores>Man Utd.</clubesanteriores>
+          <clubesanteriores>Real Madrid</clubesanteriores>
+          <clubeatual>Juventus FC</clubeatual>
+          <trofeus>Melhor jogador do mundo</trofeus>
+          <trofeus>Vencedor Ballon d'Or</trofeus>
+          <trofeus>O Futebolista do Ano da Europa</trofeus>
+          <trofeus>Melhor marcador</trofeus>
+     </jogador>
+</jogadores>

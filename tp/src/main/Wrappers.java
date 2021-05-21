@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package main;
 
 import java.util.ArrayList;
@@ -43,6 +38,29 @@ public class Wrappers {
         ler.close();
         return null;
 
+    }
+
+    public static String getLinkZeroZero(String nome) throws IOException {
+        String link = "https://www.zerozero.pt/search.php?inputString=" + nome.replace(" ", "+") + "&op=all";
+        HttpRequestFunctions.httpRequest2(link, "", "zero.txt");
+
+        String ER1 = "<a href=\"(jogador\\.php\\?id=[0-9]+&search=1)\">";
+        Pattern p1 = Pattern.compile(ER1);
+
+        Matcher m1;
+
+        Scanner input = new Scanner(new FileInputStream("zero.txt"));
+        while (input.hasNextLine()) {
+            String linha = input.nextLine();
+            m1 = p1.matcher(linha);
+
+            if (m1.find()) {
+                input.close();
+                return "https://www.zerozero.pt/" + m1.group(1);
+            }
+        }
+        input.close();
+        return null;
     }
 
     public static String Obtem_Alcunha(String pesquisa) throws FileNotFoundException, IOException {
@@ -373,34 +391,14 @@ public class Wrappers {
         return null;
     }
 
-    public static String Obtem_Premios(String pesquisa) throws IOException {
-        HttpRequestFunctions.httpRequest1("https://pt.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
-
-        String er = "<title>[^\"]+</title>";
-        Pattern p = Pattern.compile(er);
-        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
-
-        Matcher m;
-
-        while (ler.hasNextLine()) {
-
-            String linha = ler.nextLine();
-            m = p.matcher(linha);
-
-            while (m.find()) {
-                ler.close();
-                return m.group(1);
-            }
-
-        }
-        ler.close();
-        return null;
-    }
-
     public static String Obtem_EstadoAtual(String pesquisa) throws FileNotFoundException, IOException {
-        HttpRequestFunctions.httpRequest1("https://pt.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
-        String er = "<title>[^\"]+</title>";
+//        String link = getLinkZeroZero(pesquisa);
+        String estado="nenhum";
+        /*HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+
+        String er = "<span>Situação</span>([a-zA-Z\\s]+)[^>]+>";
+
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
 
@@ -414,11 +412,13 @@ public class Wrappers {
             while (m.find()) {
                 ler.close();
                 return m.group(1);
+               
             }
 
         }
-        ler.close();
-        return null;
+*/
+        //ler.close();
+        return estado;
     }
 
     public static String Obtem_Empresario(String pesquisa) throws FileNotFoundException, IOException {
@@ -509,7 +509,7 @@ public class Wrappers {
                 if (m2.find()) {
 
                     ler.close();
-                    
+
                     return Integer.parseInt(m2.group(1));
                 }
             } else if (m3.find()) {
@@ -656,25 +656,95 @@ public class Wrappers {
         return null;
     }
 
-    public static Jogador novoJogador(String nome){
+    public static ArrayList<String> Obtem_Trofeus(String pesquisa) throws IOException {
+
+        ArrayList<String> Trofeus = new ArrayList<String>();
+
+        String link = getLinkTransfer(pesquisa);
+
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+
+        String er = "<img src=\\\"[^\\\"]+\\\"\\stitle=\\\"([^\\\"]+)\\\"\\salt=\\\"[^\\\"]+\\\"\\sclass=\\\"dataErfolgImage\\\" />";
+
+        Pattern p = Pattern.compile(er);
+        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
+
+        Matcher m;
+        int i = 0;
+        while (ler.hasNextLine() && i < 4) {
+
+            String linha = ler.nextLine();
+            m = p.matcher(linha);
+            //System.out.println(linha);
+
+            if (m.find()) {
+
+                Trofeus.add(m.group(1));
+                //System.out.println(linha);
+                i++;
+            }
+
+        }
+
+        ler.close();
+        return Trofeus;
+    }
+
+    public static String Obtem_Peso(String pesquisa) throws IOException {
+
+       // String link = getLinkZeroZero(pesquisa);
+        String peso="nenhum";
+
+        /*HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+
+        String er = "<span>Peso</span>([0-9\\skg]+)</div>";
+
+        Pattern p = Pattern.compile(er);
+        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
+
+        Matcher m;
+
+        while (ler.hasNextLine()) {
+
+            String linha = ler.nextLine();
+            m = p.matcher(linha);
+
+            while (m.find()) {
+                ler.close();
+                return m.group(1);
+
+            }
+
+        }
+        ler.close();
+        */return peso;
+
+    }
+
+    public static Jogador novoJogador(String nome) throws IOException {
         Jogador a;
-        String a =Obtem_Alcunha();
-        Obtem_Altura(); 
-        Obtem_ClubeAnterior();
-        Obtem_ClubeAtual();
-        Obtem_DataNascimento();
-        Obtem_Empresario();
-        Obtem_EstadoAtual(); 
-        Obtem_Fotografia();
-        Obtem_Idade();
-        Obtem_Nacionalidade();
-        Obtem_NomeCompleto();
-        Obtem_PePreferido();
-        Obtem_Posicao();
-        Obtem_Premios();
-        Obtem_Ranking();
-        Obtem_Selecao();
-        Obtem_ValorContrato();
+
+        String alcunha = Obtem_Alcunha(nome);
+        String altura = Obtem_Altura(nome);
+        String clubeAtual = Obtem_ClubeAtual(nome);
+        String data = Obtem_DataNascimento(nome);
+        String agente = Obtem_Empresario(nome);
+        String estado = Obtem_EstadoAtual(nome);
+        String foto = Obtem_Fotografia(nome);
+        int idade = Obtem_Idade(nome);
+        String nac = Obtem_Nacionalidade(nome);
+        String nCompleto = Obtem_NomeCompleto(nome);
+        String pe = Obtem_PePreferido(nome);
+        String pos = Obtem_Posicao(nome);
+        String rank = Obtem_Ranking(nome);
+        String sel = Obtem_Selecao(nome);
+        String contrato = Obtem_ValorContrato(nome);
+        String peso = Obtem_Peso(nome);
+        ArrayList<String> clubeAnt = Obtem_ClubeAnterior(nome);
+        ArrayList<String> trofeus = Obtem_Trofeus(nome);
+
+        a = new Jogador(alcunha,nCompleto, altura, data, peso,agente, estado, foto, nac, pe, pos, rank, clubeAtual,sel, contrato, clubeAnt, trofeus, idade);
+        return a;
 
     }
 }

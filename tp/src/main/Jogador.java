@@ -1,89 +1,32 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package main;
 
-import java.time.LocalDate;
 import java.util.ArrayList;
 
-/**
- *
- * @author isabe
- */
 public class Jogador {
 
-    String nome, alcunha, fotografia, nacionalidade, pePref, posicao, clubeAtual,dataNascimento;
-    String valorContrato,selecao, premios, estadoAtual,ranking,  empresário;
-    ArrayList<String>  clubesAnteriores;
+    String alcunha, nomeCompleto, altura, dataNasc, peso, empresario, estadoAtual, foto, nacionalidade, pe, posicao, ranking, clubeAtual, selecao, contrato;
+    ArrayList<String> clubesAnteriores, trofeus;
     int idade;
 
-    public Jogador(String nome, String alcunha, String fotografia, String nacionalidade, String pePref, String posicao, String clubeAtual, String dataNascimento, String valorContrato, String selecao, String premios, String estadoAtual, String ranking, String empresário, ArrayList<String> clubesAnteriores, int idade) {
-        this.nome = nome;
+    public Jogador(String alcunha, String nomeCompleto, String altura, String dataNasc, String peso, String empresario, String estadoAtual, String foto, String nacionalidade, String pe, String posicao, String ranking, String clubeAtual, String selecao, String contrato, ArrayList<String> clubesAnteriores, ArrayList<String> trofeus, int idade) {
         this.alcunha = alcunha;
-        this.fotografia = fotografia;
-        this.nacionalidade = nacionalidade;
-        this.pePref = pePref;
-        this.posicao = posicao;
-        this.clubeAtual = clubeAtual;
-        this.dataNascimento = dataNascimento;
-        this.valorContrato = valorContrato;
-        this.selecao = selecao;
-        this.premios = premios;
+        this.nomeCompleto = nomeCompleto;
+        this.altura = altura;
+        this.dataNasc = dataNasc;
+        this.peso = peso;
+        this.empresario = empresario;
         this.estadoAtual = estadoAtual;
-        this.ranking = ranking;
-        this.empresário = empresário;
-        this.clubesAnteriores = clubesAnteriores;
-        this.idade = idade;
-    }
-
-    public String getNome() {
-        return nome;
-    }
-
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
-    public String getAlcunha() {
-        return alcunha;
-    }
-
-    public void setAlcunha(String alcunha) {
-        this.alcunha = alcunha;
-    }
-
-    public String getFotografia() {
-        return fotografia;
-    }
-
-    public void setFotografia(String fotografia) {
-        this.fotografia = fotografia;
-    }
-
-    public String getNacionalidade() {
-        return nacionalidade;
-    }
-
-    public void setNacionalidade(String nacionalidade) {
+        this.foto = foto;
         this.nacionalidade = nacionalidade;
-    }
-
-    public String getPePref() {
-        return pePref;
-    }
-
-    public void setPePref(String pePref) {
-        this.pePref = pePref;
-    }
-
-    public String getPosicao() {
-        return posicao;
-    }
-
-    public void setPosicao(String posicao) {
+        this.pe = pe;
         this.posicao = posicao;
+        this.ranking = ranking;
+        this.clubeAtual = clubeAtual;
+        this.selecao = selecao;
+        this.contrato = contrato;
+        this.clubesAnteriores = clubesAnteriores;
+        this.trofeus = trofeus;
+        this.idade = idade;
     }
 
     public String getClubeAtual() {
@@ -94,36 +37,52 @@ public class Jogador {
         this.clubeAtual = clubeAtual;
     }
 
-    public String getDataNascimento() {
-        return dataNascimento;
+    public String getPeso() {
+        return peso;
     }
 
-    public void setDataNascimento(String dataNascimento) {
-        this.dataNascimento = dataNascimento;
+    public void setPeso(String peso) {
+        this.peso = peso;
     }
 
-    public String getValorContrato() {
-        return valorContrato;
+    public String getAlcunha() {
+        return alcunha;
     }
 
-    public void setValorContrato(String valorContrato) {
-        this.valorContrato = valorContrato;
+    public void setAlcunha(String alcunha) {
+        this.alcunha = alcunha;
     }
 
-    public String getSelecao() {
-        return selecao;
+    public String getNomeCompleto() {
+        return nomeCompleto;
     }
 
-    public void setSelecao(String selecao) {
-        this.selecao = selecao;
+    public void setNomeCompleto(String nomeCompleto) {
+        this.nomeCompleto = nomeCompleto;
     }
 
-    public String getPremios() {
-        return premios;
+    public String getAltura() {
+        return altura;
     }
 
-    public void setPremios(String premios) {
-        this.premios = premios;
+    public void setAltura(String altura) {
+        this.altura = altura;
+    }
+
+    public String getDataNasc() {
+        return dataNasc;
+    }
+
+    public void setDataNasc(String dataNasc) {
+        this.dataNasc = dataNasc;
+    }
+
+    public String getEmpresario() {
+        return empresario;
+    }
+
+    public void setEmpresario(String empresario) {
+        this.empresario = empresario;
     }
 
     public String getEstadoAtual() {
@@ -134,6 +93,38 @@ public class Jogador {
         this.estadoAtual = estadoAtual;
     }
 
+    public String getFoto() {
+        return foto;
+    }
+
+    public void setFoto(String foto) {
+        this.foto = foto;
+    }
+
+    public String getNacionalidade() {
+        return nacionalidade;
+    }
+
+    public void setNacionalidade(String nacionalidade) {
+        this.nacionalidade = nacionalidade;
+    }
+
+    public String getPe() {
+        return pe;
+    }
+
+    public void setPe(String pe) {
+        this.pe = pe;
+    }
+
+    public String getPosicao() {
+        return posicao;
+    }
+
+    public void setPosicao(String posicao) {
+        this.posicao = posicao;
+    }
+
     public String getRanking() {
         return ranking;
     }
@@ -142,12 +133,20 @@ public class Jogador {
         this.ranking = ranking;
     }
 
-    public String getEmpresário() {
-        return empresário;
+    public String getSelecao() {
+        return selecao;
     }
 
-    public void setEmpresário(String empresário) {
-        this.empresário = empresário;
+    public void setSelecao(String selecao) {
+        this.selecao = selecao;
+    }
+
+    public String getContrato() {
+        return contrato;
+    }
+
+    public void setContrato(String contrato) {
+        this.contrato = contrato;
     }
 
     public ArrayList<String> getClubesAnteriores() {
@@ -158,6 +157,14 @@ public class Jogador {
         this.clubesAnteriores = clubesAnteriores;
     }
 
+    public ArrayList<String> getTrofeus() {
+        return trofeus;
+    }
+
+    public void setTrofeus(ArrayList<String> trofeus) {
+        this.trofeus = trofeus;
+    }
+
     public int getIdade() {
         return idade;
     }
@@ -165,6 +172,5 @@ public class Jogador {
     public void setIdade(int idade) {
         this.idade = idade;
     }
-    
 
 }
