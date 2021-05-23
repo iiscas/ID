@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jogadores>
-     <jogador>
-          <nomecompleto>Cristiano Ronaldo dos Santos Aveiro</nomecompleto>
-          <alcunha>Cristiano Ronaldo</alcunha>
+     <jogador nome="Cristiano Ronaldo ">
+          <nomeCompleto>Cristiano Ronaldo dos Santos Aveiro</nomeCompleto>
           <nacionalidade>Portugal</nacionalidade>
           <foto>Cristiano_Ronaldo_Signature.png</foto>
-          <datanascimento>5 de fevereiro de 1985</datanascimento>
+          <dataNascimento>5 de fevereiro de 1985</dataNascimento>
           <idade>36</idade>
           <altura>1,85 m</altura>
           <peso>nenhum</peso>
-          <pepreferido>direito</pepreferido>
-          <estadoatual>nenhum</estadoatual>
+          <pePreferido>direito</pePreferido>
+          <estadoAtual>nenhum</estadoAtual>
           <posicao>Ponta de Lança</posicao>
-          <valorcontrato>50,00 M €</valorcontrato>
+          <valorContrato>50,00 M €</valorContrato>
           <selecao>Portugal</selecao>
-          <clubesanteriores>Real Madrid</clubesanteriores>
-          <clubesanteriores>Juventus</clubesanteriores>
-          <clubesanteriores>Man Utd.</clubesanteriores>
-          <clubesanteriores>Real Madrid</clubesanteriores>
-          <clubeatual>Juventus FC</clubeatual>
-          <trofeus>Melhor jogador do mundo</trofeus>
-          <trofeus>Vencedor Ballon d'Or</trofeus>
-          <trofeus>O Futebolista do Ano da Europa</trofeus>
-          <trofeus>Melhor marcador</trofeus>
+          <clubeAtual>Juventus FC</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor jogador do mundo</trofeu>
+               <trofeu>Vencedor Ballon d'Or</trofeu>
+               <trofeu>O Futebolista do Ano da Europa</trofeu>
+               <trofeu>Melhor marcador</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>Real Madrid</clubeAnterior>
+               <clubeAnterior>Juventus</clubeAnterior>
+               <clubeAnterior>Man Utd.</clubeAnterior>
+               <clubeAnterior>Real Madrid</clubeAnterior>
+          </clubesAnterirores>
      </jogador>
 </jogadores>

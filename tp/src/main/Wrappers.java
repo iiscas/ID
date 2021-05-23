@@ -366,35 +366,47 @@ public class Wrappers {
     public static String Obtem_Selecao(String pesquisa) throws IOException {
 
         String link = getLinkTransfer(pesquisa);
+        String selecao = "Não convocado";
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
+        String er0 = "<th colspan=\"[0-9]+\" >Seleção nacional</th>";
         String er = "<a class=[^>]*>([^<]+)</a>";
 
-        Pattern p = Pattern.compile(er);
-        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
+        Pattern p1 = Pattern.compile(er);
+        Pattern p0 = Pattern.compile(er0);
+        Matcher m0, m1;
 
-        Matcher m;
+        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
 
         while (ler.hasNextLine()) {
 
             String linha = ler.nextLine();
-            m = p.matcher(linha);
+            m0 = p0.matcher(linha);
 
-            while (m.find()) {
-                ler.close();
-                return m.group(1);
+            if (m0.find()) {
+                while (ler.hasNextLine()) {
+
+                    linha = ler.nextLine();
+                    m1 = p1.matcher(linha);
+                  
+                    if (m1.find()) {
+                        
+                        ler.close();
+                        return m1.group(1);
+                    }
+                }
             }
 
         }
         ler.close();
-        return null;
+        return selecao;
     }
 
     public static String Obtem_EstadoAtual(String pesquisa) throws FileNotFoundException, IOException {
 
 //        String link = getLinkZeroZero(pesquisa);
-        String estado="nenhum";
+        String estado = "nenhum";
         /*HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
         String er = "<span>Situação</span>([a-zA-Z\\s]+)[^>]+>";
@@ -416,7 +428,7 @@ public class Wrappers {
             }
 
         }
-*/
+         */
         //ler.close();
         return estado;
     }
@@ -692,8 +704,8 @@ public class Wrappers {
 
     public static String Obtem_Peso(String pesquisa) throws IOException {
 
-       // String link = getLinkZeroZero(pesquisa);
-        String peso="nenhum";
+        // String link = getLinkZeroZero(pesquisa);
+        String peso = "nenhum";
 
         /*HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
@@ -717,7 +729,8 @@ public class Wrappers {
 
         }
         ler.close();
-        */return peso;
+         */
+        return peso;
 
     }
 
@@ -743,7 +756,7 @@ public class Wrappers {
         ArrayList<String> clubeAnt = Obtem_ClubeAnterior(nome);
         ArrayList<String> trofeus = Obtem_Trofeus(nome);
 
-        a = new Jogador(alcunha,nCompleto, altura, data, peso,agente, estado, foto, nac, pe, pos, rank, clubeAtual,sel, contrato, clubeAnt, trofeus, idade);
+        a = new Jogador(alcunha, nCompleto, altura, data, peso, agente, estado, foto, nac, pe, pos, rank, clubeAtual, sel, contrato, clubeAnt, trofeus, idade);
         return a;
 
     }

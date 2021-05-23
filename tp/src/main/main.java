@@ -5,13 +5,14 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
+import net.sf.saxon.s9api.SaxonApiException;
 import org.jdom2.Document;
 
 public class main {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, SaxonApiException {
 
-        //String nome;
+        String nome;
         Scanner ler = new Scanner(new FileInputStream("players.txt"));
         //ArrayList<String> Clubes = new ArrayList<String>();
         //ArrayList<String> Trofeus = new ArrayList<String>();
@@ -27,7 +28,7 @@ public class main {
             //nome = Wrappers.Obtem_Empresario(linha);
             // nome = Wrappers.Obtem_NomeCompleto(linha);
             // nome = Wrappers.Obtem_Alcunha(linha);
-            // nome = Wrappers.Obtem_Selecao(linha);
+             nome = Wrappers.Obtem_Selecao(linha);
             // nome=Wrappers.Obtem_Ranking(linha);
             // nome=Wrappers.Obtem_ValorContrato(linha);
             //nome=Wrappers.Obtem_Numero(linha);
@@ -38,13 +39,18 @@ public class main {
             //Trofeus = Wrappers.Obtem_Trofeus(linha);
             //nome = Wrappers.Obtem_Peso(linha);
             //nome=Wrappers.Obtem_EstadoAtual(linha);
-            nome = Wrappers.getLinkZeroZero(linha); //nao está a encontrar os links de todos
+            //nome = Wrappers.getLinkZeroZero(linha); //nao está a encontrar os links de todos
             System.out.println(nome);
             //System.out.println("\n");
             // nome = Wrappers.getLinkZeroZero(linha);
             //System.out.println(nome);
             //System.out.println("\n");
-         */
+         }
+         
+             /*  nome = Wrappers.Obtem_Selecao("Cristiano Ronaldo");
+               String nome1=Wrappers.Obtem_Selecao("Wilson Manafá");
+                System.out.println(nome);
+                 System.out.println(nome1);
       /*  ArrayList<Jogador> all = new ArrayList();
         while (ler.hasNextLine()) {
             String nome = ler.nextLine();
@@ -62,18 +68,23 @@ public class main {
             //grava o ficheiro XML em disco
             XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
         }
-*/
+         */
         Jogador a;
-        a= Wrappers.novoJogador("Cristiano Ronaldo");
-        
-            System.out.println(a.getNacionalidade());
-             System.out.println(a.getAlcunha());
-             
+        a = Wrappers.novoJogador("Cristiano Ronaldo");
+        Jogador b;
+        b = Wrappers.novoJogador("Bruno Fernandes");
+
         Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
-            //Chama a função para adicionar o livro ao XML
-            doc = ModeloXML.adicionaJogador(a, doc);
-            
-            //grava o ficheiro XML em disco
+        //Chama a função para adicionar o livro ao XML
+         doc = ModeloXML.adicionaJogador(a, doc);
+         //doc = ModeloXML.adicionaJogador(b, doc);
+        //doc = ModeloXML.removeJogadorNome(b.alcunha, doc);
+         //doc = ModeloXML.alteraIdade(a.alcunha, 36,doc);
+         //doc = ModeloXML.alteraNacionalidade(a.alcunha,"Espanha",doc);
+          //doc = ModeloXML.alteraClubeAtual(a.alcunha,"FC PORTO",doc);
+          //doc = ModeloXML.alteraEstado(a.alcunha,"Em pausa",doc);
+        //grava o ficheiro XML em disco
+        if(doc!=null)
             XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
     }
 
