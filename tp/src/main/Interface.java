@@ -5,6 +5,13 @@
  */
 package main;
 
+import java.io.IOException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javax.swing.JOptionPane;
+import net.sf.saxon.s9api.SaxonApiException;
+import org.jdom2.Document;
+
 /**
  *
  * @author isabe
@@ -29,23 +36,362 @@ public class Interface extends javax.swing.JFrame {
 
         buttonGroup1 = new javax.swing.ButtonGroup();
         buttonGroup2 = new javax.swing.ButtonGroup();
+        addJogador = new javax.swing.JDialog();
+        jLabel2 = new javax.swing.JLabel();
+        addJogButton = new javax.swing.JButton();
+        jTextField9 = new javax.swing.JTextField();
+        remJogador = new javax.swing.JDialog();
+        jLabel3 = new javax.swing.JLabel();
+        remJogButton = new javax.swing.JButton();
+        jTextField10 = new javax.swing.JTextField();
+        newIdade = new javax.swing.JDialog();
+        jLabel4 = new javax.swing.JLabel();
+        nIdadeButton = new javax.swing.JButton();
+        jLabel5 = new javax.swing.JLabel();
+        jTextField1 = new javax.swing.JTextField();
+        jTextField2 = new javax.swing.JTextField();
+        newNacionalidade = new javax.swing.JDialog();
+        jLabel6 = new javax.swing.JLabel();
+        nNacionalidadeButton = new javax.swing.JButton();
+        jLabel7 = new javax.swing.JLabel();
+        jTextField7 = new javax.swing.JTextField();
+        jTextField8 = new javax.swing.JTextField();
+        newClube = new javax.swing.JDialog();
+        jLabel8 = new javax.swing.JLabel();
+        nClubeButton = new javax.swing.JButton();
+        jLabel9 = new javax.swing.JLabel();
+        jTextField3 = new javax.swing.JTextField();
+        jTextField4 = new javax.swing.JTextField();
+        newEstado = new javax.swing.JDialog();
+        jLabel10 = new javax.swing.JLabel();
+        nEstadoButton = new javax.swing.JButton();
+        jLabel11 = new javax.swing.JLabel();
+        jTextField5 = new javax.swing.JTextField();
+        jTextField6 = new javax.swing.JTextField();
         jPanel1 = new javax.swing.JPanel();
         jSeparator1 = new javax.swing.JSeparator();
         jLabel1 = new javax.swing.JLabel();
+        jScrollPane1 = new javax.swing.JScrollPane();
+        output = new javax.swing.JTextArea();
         jMenuBar1 = new javax.swing.JMenuBar();
-        jMenu1 = new javax.swing.JMenu();
-        jMenuItem1 = new javax.swing.JMenuItem();
+        geral = new javax.swing.JMenu();
+        VerXML = new javax.swing.JMenuItem();
         jMenuItem2 = new javax.swing.JMenuItem();
         Sair = new javax.swing.JMenuItem();
-        jMenu2 = new javax.swing.JMenu();
-        jMenu3 = new javax.swing.JMenu();
-        jMenu4 = new javax.swing.JMenu();
+        alterarDados = new javax.swing.JMenu();
+        adicionarJog = new javax.swing.JMenuItem();
+        eliminarJog = new javax.swing.JMenuItem();
+        mudarIdade = new javax.swing.JMenuItem();
+        mudarNacion = new javax.swing.JMenuItem();
+        mudarClube = new javax.swing.JMenuItem();
+        mudarEstado = new javax.swing.JMenuItem();
+        efetuarPesquisas = new javax.swing.JMenu();
+        pesquisarNome = new javax.swing.JMenuItem();
+        pesquisarClube = new javax.swing.JMenuItem();
+        pesquisarNacion = new javax.swing.JMenuItem();
+        pesquisarPos = new javax.swing.JMenuItem();
+        pesquisarSituacao = new javax.swing.JMenuItem();
+        pesquisarIntervaloIdade = new javax.swing.JMenuItem();
+        pesquisarSelecao = new javax.swing.JMenuItem();
+        gerarOutputs = new javax.swing.JMenu();
+
+        jLabel2.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel2.setText("Nome do jogador a adicionar");
+
+        addJogButton.setText("OK");
+        addJogButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                addJogButtonActionPerformed(evt);
+            }
+        });
+
+        jTextField9.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField9ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout addJogadorLayout = new javax.swing.GroupLayout(addJogador.getContentPane());
+        addJogador.getContentPane().setLayout(addJogadorLayout);
+        addJogadorLayout.setHorizontalGroup(
+            addJogadorLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, addJogadorLayout.createSequentialGroup()
+                .addGap(0, 0, Short.MAX_VALUE)
+                .addComponent(jLabel2)
+                .addGap(96, 96, 96))
+            .addGroup(addJogadorLayout.createSequentialGroup()
+                .addGroup(addJogadorLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(addJogadorLayout.createSequentialGroup()
+                        .addGap(151, 151, 151)
+                        .addComponent(addJogButton, javax.swing.GroupLayout.PREFERRED_SIZE, 73, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(addJogadorLayout.createSequentialGroup()
+                        .addGap(76, 76, 76)
+                        .addComponent(jTextField9, javax.swing.GroupLayout.PREFERRED_SIZE, 243, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addContainerGap(81, Short.MAX_VALUE))
+        );
+        addJogadorLayout.setVerticalGroup(
+            addJogadorLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(addJogadorLayout.createSequentialGroup()
+                .addGap(48, 48, 48)
+                .addComponent(jLabel2)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(jTextField9, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(20, 20, 20)
+                .addComponent(addJogButton)
+                .addContainerGap(22, Short.MAX_VALUE))
+        );
+
+        jLabel3.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel3.setText("Nome do jogador a remover");
+
+        remJogButton.setText("OK");
+        remJogButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                remJogButtonActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout remJogadorLayout = new javax.swing.GroupLayout(remJogador.getContentPane());
+        remJogador.getContentPane().setLayout(remJogadorLayout);
+        remJogadorLayout.setHorizontalGroup(
+            remJogadorLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, remJogadorLayout.createSequentialGroup()
+                .addGap(0, 0, Short.MAX_VALUE)
+                .addComponent(jLabel3)
+                .addGap(96, 96, 96))
+            .addGroup(remJogadorLayout.createSequentialGroup()
+                .addGap(151, 151, 151)
+                .addComponent(remJogButton, javax.swing.GroupLayout.PREFERRED_SIZE, 73, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, remJogadorLayout.createSequentialGroup()
+                .addContainerGap(86, Short.MAX_VALUE)
+                .addComponent(jTextField10, javax.swing.GroupLayout.PREFERRED_SIZE, 235, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(75, 75, 75))
+        );
+        remJogadorLayout.setVerticalGroup(
+            remJogadorLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(remJogadorLayout.createSequentialGroup()
+                .addGap(48, 48, 48)
+                .addComponent(jLabel3)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(jTextField10, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(20, 20, 20)
+                .addComponent(remJogButton)
+                .addContainerGap(22, Short.MAX_VALUE))
+        );
+
+        jLabel4.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel4.setText("Nome do jogador ");
+
+        nIdadeButton.setText("OK");
+        nIdadeButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                nIdadeButtonActionPerformed(evt);
+            }
+        });
+
+        jLabel5.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel5.setText("Nova idade");
+
+        javax.swing.GroupLayout newIdadeLayout = new javax.swing.GroupLayout(newIdade.getContentPane());
+        newIdade.getContentPane().setLayout(newIdadeLayout);
+        newIdadeLayout.setHorizontalGroup(
+            newIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(newIdadeLayout.createSequentialGroup()
+                .addGroup(newIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(newIdadeLayout.createSequentialGroup()
+                        .addGap(151, 151, 151)
+                        .addComponent(nIdadeButton, javax.swing.GroupLayout.PREFERRED_SIZE, 73, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(newIdadeLayout.createSequentialGroup()
+                        .addContainerGap()
+                        .addGroup(newIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel4)
+                            .addComponent(jLabel5))
+                        .addGap(36, 36, 36)
+                        .addGroup(newIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(jTextField2, javax.swing.GroupLayout.DEFAULT_SIZE, 212, Short.MAX_VALUE)
+                            .addComponent(jTextField1))))
+                .addContainerGap(38, Short.MAX_VALUE))
+        );
+        newIdadeLayout.setVerticalGroup(
+            newIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(newIdadeLayout.createSequentialGroup()
+                .addGap(21, 21, 21)
+                .addGroup(newIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel4)
+                    .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(18, 18, 18)
+                .addGroup(newIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel5)
+                    .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(40, 40, 40)
+                .addComponent(nIdadeButton)
+                .addContainerGap(20, Short.MAX_VALUE))
+        );
+
+        jLabel6.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel6.setText("Nome do jogador ");
+
+        nNacionalidadeButton.setText("OK");
+        nNacionalidadeButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                nNacionalidadeButtonActionPerformed(evt);
+            }
+        });
+
+        jLabel7.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel7.setText("Nova nacionalidade");
+
+        javax.swing.GroupLayout newNacionalidadeLayout = new javax.swing.GroupLayout(newNacionalidade.getContentPane());
+        newNacionalidade.getContentPane().setLayout(newNacionalidadeLayout);
+        newNacionalidadeLayout.setHorizontalGroup(
+            newNacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(newNacionalidadeLayout.createSequentialGroup()
+                .addGroup(newNacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(newNacionalidadeLayout.createSequentialGroup()
+                        .addGap(151, 151, 151)
+                        .addComponent(nNacionalidadeButton, javax.swing.GroupLayout.PREFERRED_SIZE, 73, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(newNacionalidadeLayout.createSequentialGroup()
+                        .addContainerGap()
+                        .addGroup(newNacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel6)
+                            .addComponent(jLabel7))
+                        .addGap(26, 26, 26)
+                        .addGroup(newNacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(jTextField7)
+                            .addComponent(jTextField8, javax.swing.GroupLayout.DEFAULT_SIZE, 212, Short.MAX_VALUE))))
+                .addContainerGap(38, Short.MAX_VALUE))
+        );
+        newNacionalidadeLayout.setVerticalGroup(
+            newNacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(newNacionalidadeLayout.createSequentialGroup()
+                .addGap(21, 21, 21)
+                .addGroup(newNacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel6)
+                    .addComponent(jTextField7, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(18, 18, 18)
+                .addGroup(newNacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel7)
+                    .addComponent(jTextField8, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(40, 40, 40)
+                .addComponent(nNacionalidadeButton)
+                .addContainerGap(20, Short.MAX_VALUE))
+        );
+
+        jLabel8.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel8.setText("Nome do jogador ");
+
+        nClubeButton.setText("OK");
+        nClubeButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                nClubeButtonActionPerformed(evt);
+            }
+        });
+
+        jLabel9.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel9.setText("Novo clube");
+
+        javax.swing.GroupLayout newClubeLayout = new javax.swing.GroupLayout(newClube.getContentPane());
+        newClube.getContentPane().setLayout(newClubeLayout);
+        newClubeLayout.setHorizontalGroup(
+            newClubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(newClubeLayout.createSequentialGroup()
+                .addGroup(newClubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(newClubeLayout.createSequentialGroup()
+                        .addGap(151, 151, 151)
+                        .addComponent(nClubeButton, javax.swing.GroupLayout.PREFERRED_SIZE, 73, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(newClubeLayout.createSequentialGroup()
+                        .addContainerGap()
+                        .addGroup(newClubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel8)
+                            .addComponent(jLabel9))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 25, Short.MAX_VALUE)
+                        .addGroup(newClubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(jTextField3, javax.swing.GroupLayout.DEFAULT_SIZE, 216, Short.MAX_VALUE)
+                            .addComponent(jTextField4))))
+                .addGap(45, 45, 45))
+        );
+        newClubeLayout.setVerticalGroup(
+            newClubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(newClubeLayout.createSequentialGroup()
+                .addGap(28, 28, 28)
+                .addGroup(newClubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel8)
+                    .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(19, 19, 19)
+                .addGroup(newClubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jTextField4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel9))
+                .addGap(32, 32, 32)
+                .addComponent(nClubeButton)
+                .addContainerGap(20, Short.MAX_VALUE))
+        );
+
+        jLabel10.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel10.setText("Nome do jogador ");
+
+        nEstadoButton.setText("OK");
+        nEstadoButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                nEstadoButtonActionPerformed(evt);
+            }
+        });
+
+        jLabel11.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
+        jLabel11.setText("Novo estado");
+
+        jTextField6.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField6ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout newEstadoLayout = new javax.swing.GroupLayout(newEstado.getContentPane());
+        newEstado.getContentPane().setLayout(newEstadoLayout);
+        newEstadoLayout.setHorizontalGroup(
+            newEstadoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(newEstadoLayout.createSequentialGroup()
+                .addGap(151, 151, 151)
+                .addComponent(nEstadoButton, javax.swing.GroupLayout.PREFERRED_SIZE, 73, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+            .addGroup(newEstadoLayout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(newEstadoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel11)
+                    .addGroup(newEstadoLayout.createSequentialGroup()
+                        .addComponent(jLabel10)
+                        .addGap(0, 0, Short.MAX_VALUE)))
+                .addGap(25, 25, 25)
+                .addGroup(newEstadoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jTextField5, javax.swing.GroupLayout.DEFAULT_SIZE, 195, Short.MAX_VALUE)
+                    .addComponent(jTextField6))
+                .addGap(104, 104, 104))
+        );
+        newEstadoLayout.setVerticalGroup(
+            newEstadoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(newEstadoLayout.createSequentialGroup()
+                .addGap(21, 21, 21)
+                .addGroup(newEstadoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel10)
+                    .addComponent(jTextField5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(18, 18, 18)
+                .addGroup(newEstadoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel11)
+                    .addComponent(jTextField6, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(40, 40, 40)
+                .addComponent(nEstadoButton)
+                .addContainerGap(20, Short.MAX_VALUE))
+        );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setFont(new java.awt.Font("Montserrat Medium", 0, 24)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Montserrat", 0, 24)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Informação sobre jogadores de futebol");
+
+        output.setColumns(20);
+        output.setRows(5);
+        jScrollPane1.setViewportView(output);
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -53,12 +399,14 @@ public class Interface extends javax.swing.JFrame {
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(53, 53, 53)
-                .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 614, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(66, Short.MAX_VALUE))
+                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 625, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 614, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(55, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jLabel1)
-                .addGap(130, 130, 130))
+                .addGap(139, 139, 139))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -67,18 +415,25 @@ public class Interface extends javax.swing.JFrame {
                 .addComponent(jLabel1)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(408, Short.MAX_VALUE))
+                .addGap(18, 18, 18)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 295, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(29, Short.MAX_VALUE))
         );
 
-        jMenu1.setText("Opções Gerais");
-        jMenu1.addActionListener(new java.awt.event.ActionListener() {
+        geral.setText("Opções Gerais");
+        geral.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenu1ActionPerformed(evt);
+                geralActionPerformed(evt);
             }
         });
 
-        jMenuItem1.setText("Ver conteúdo do ficheiro");
-        jMenu1.add(jMenuItem1);
+        VerXML.setText("Ver conteúdo do ficheiro");
+        VerXML.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                VerXMLActionPerformed(evt);
+            }
+        });
+        geral.add(VerXML);
 
         jMenuItem2.setText("Validar modelo de dados");
         jMenuItem2.addActionListener(new java.awt.event.ActionListener() {
@@ -86,7 +441,7 @@ public class Interface extends javax.swing.JFrame {
                 jMenuItem2ActionPerformed(evt);
             }
         });
-        jMenu1.add(jMenuItem2);
+        geral.add(jMenuItem2);
 
         Sair.setText("Sair");
         Sair.addActionListener(new java.awt.event.ActionListener() {
@@ -94,18 +449,104 @@ public class Interface extends javax.swing.JFrame {
                 SairActionPerformed(evt);
             }
         });
-        jMenu1.add(Sair);
+        geral.add(Sair);
 
-        jMenuBar1.add(jMenu1);
+        jMenuBar1.add(geral);
 
-        jMenu2.setText("Alterar Dados");
-        jMenuBar1.add(jMenu2);
+        alterarDados.setText("Alterar Dados");
 
-        jMenu3.setText("Efetuar Pesquisas");
-        jMenuBar1.add(jMenu3);
+        adicionarJog.setText("Adicionar Jogador");
+        adicionarJog.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                adicionarJogActionPerformed(evt);
+            }
+        });
+        alterarDados.add(adicionarJog);
 
-        jMenu4.setText("Gerar Outputs");
-        jMenuBar1.add(jMenu4);
+        eliminarJog.setText("Eliminar Jogador");
+        eliminarJog.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                eliminarJogActionPerformed(evt);
+            }
+        });
+        alterarDados.add(eliminarJog);
+
+        mudarIdade.setText("Mudar idade");
+        mudarIdade.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                mudarIdadeActionPerformed(evt);
+            }
+        });
+        alterarDados.add(mudarIdade);
+
+        mudarNacion.setText("Mudar nacionalidade");
+        mudarNacion.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                mudarNacionActionPerformed(evt);
+            }
+        });
+        alterarDados.add(mudarNacion);
+
+        mudarClube.setText("Mudar clube atual");
+        mudarClube.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                mudarClubeActionPerformed(evt);
+            }
+        });
+        alterarDados.add(mudarClube);
+
+        mudarEstado.setText("Mudar estado");
+        mudarEstado.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                mudarEstadoActionPerformed(evt);
+            }
+        });
+        alterarDados.add(mudarEstado);
+
+        jMenuBar1.add(alterarDados);
+
+        efetuarPesquisas.setText("Efetuar Pesquisas");
+
+        pesquisarNome.setText("Nome Jogador");
+        pesquisarNome.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                pesquisarNomeActionPerformed(evt);
+            }
+        });
+        efetuarPesquisas.add(pesquisarNome);
+
+        pesquisarClube.setText("Por Clube");
+        efetuarPesquisas.add(pesquisarClube);
+
+        pesquisarNacion.setText("Por Nacionalidade");
+        efetuarPesquisas.add(pesquisarNacion);
+
+        pesquisarPos.setText("Por Posição");
+        pesquisarPos.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                pesquisarPosActionPerformed(evt);
+            }
+        });
+        efetuarPesquisas.add(pesquisarPos);
+
+        pesquisarSituacao.setText("Por Situação");
+        efetuarPesquisas.add(pesquisarSituacao);
+
+        pesquisarIntervaloIdade.setText("Por Intervalo de Idade");
+        pesquisarIntervaloIdade.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                pesquisarIntervaloIdadeActionPerformed(evt);
+            }
+        });
+        efetuarPesquisas.add(pesquisarIntervaloIdade);
+
+        pesquisarSelecao.setText("Por Seleção");
+        efetuarPesquisas.add(pesquisarSelecao);
+
+        jMenuBar1.add(efetuarPesquisas);
+
+        gerarOutputs.setText("Gerar Outputs");
+        jMenuBar1.add(gerarOutputs);
 
         setJMenuBar(jMenuBar1);
 
@@ -115,21 +556,21 @@ public class Interface extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, Short.MAX_VALUE))
+                .addContainerGap(28, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, Short.MAX_VALUE))
+                .addGap(0, 17, Short.MAX_VALUE))
         );
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jMenu1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenu1ActionPerformed
+    private void geralActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_geralActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jMenu1ActionPerformed
+    }//GEN-LAST:event_geralActionPerformed
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
         // TODO add your handling code here:
@@ -139,6 +580,238 @@ public class Interface extends javax.swing.JFrame {
         // TODO add your handling code here:
         System.exit(0);
     }//GEN-LAST:event_SairActionPerformed
+
+    private void mudarIdadeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mudarIdadeActionPerformed
+        newIdade.setSize(400, 250);
+        newIdade.setLocation(200, 200);
+        newIdade.setTitle("Alterar idade do jogador");
+        newIdade.setVisible(true);
+    }//GEN-LAST:event_mudarIdadeActionPerformed
+
+    private void mudarClubeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mudarClubeActionPerformed
+        newClube.setSize(400, 250);
+        newClube.setLocation(200, 200);
+        newClube.setTitle("Alterar clube do jogador");
+        newClube.setVisible(true);
+    }//GEN-LAST:event_mudarClubeActionPerformed
+
+    private void pesquisarNomeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarNomeActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_pesquisarNomeActionPerformed
+
+    private void pesquisarPosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarPosActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_pesquisarPosActionPerformed
+
+    private void pesquisarIntervaloIdadeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarIntervaloIdadeActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_pesquisarIntervaloIdadeActionPerformed
+
+    private void VerXMLActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_VerXMLActionPerformed
+
+        // TODO add your handling code here:
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+        if (doc == null) {
+            output.setText("Ficheiro não existe");
+        } else {
+            String t = XMLJDomFunctions.escreverDocumentoString(doc);
+
+            output.setText(t);
+        }
+
+    }//GEN-LAST:event_VerXMLActionPerformed
+
+    private void adicionarJogActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_adicionarJogActionPerformed
+        addJogador.setSize(400, 250);
+        addJogador.setLocation(200, 200);
+        addJogador.setTitle("Adicionar jogador");
+        addJogador.setVisible(true);
+    }//GEN-LAST:event_adicionarJogActionPerformed
+
+    private void eliminarJogActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_eliminarJogActionPerformed
+        remJogador.setSize(400, 250);
+        remJogador.setLocation(200, 200);
+        remJogador.setTitle("Remover jogador");
+        remJogador.setVisible(true);
+    }//GEN-LAST:event_eliminarJogActionPerformed
+
+    private void addJogButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addJogButtonActionPerformed
+        try {
+           
+            Jogador x = Wrappers.novoJogador(jTextField9.getText());
+            
+            Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+            doc = ModeloXML.adicionaJogador(x, doc);
+            addJogador.setVisible(false);
+           
+            if (doc != null) {
+                XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
+                JOptionPane.showMessageDialog(this,
+                        "Jogador adicionado com sucesso",
+                        "Informação",
+                        JOptionPane.INFORMATION_MESSAGE);
+            } else {
+                JOptionPane.showMessageDialog(this,
+                        "Jogador já existe",
+                        "Informação",
+                        JOptionPane.INFORMATION_MESSAGE);
+            }
+        } catch (IOException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_addJogButtonActionPerformed
+
+    private void remJogButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_remJogButtonActionPerformed
+       
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+        String x = jTextField10.getText();
+        doc = ModeloXML.removeJogadorNome(x, doc);
+        remJogador.setVisible(false);
+        
+        if (doc != null) {
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
+
+            JOptionPane.showMessageDialog(this,
+                    "Jogador removido com sucesso",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        } else {
+            JOptionPane.showMessageDialog(this,
+                    "Jogador não existe",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        }
+    }//GEN-LAST:event_remJogButtonActionPerformed
+
+    private void nIdadeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nIdadeButtonActionPerformed
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+
+        String nome = jTextField1.getText();
+        //System.out.println(nome);
+        int idade = Integer.parseInt(jTextField2.getText());
+        //System.out.println(estado);
+
+        doc = ModeloXML.alteraIdade(nome, idade, doc);
+        newIdade.setVisible(false);
+
+        if (doc != null) {
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
+
+            JOptionPane.showMessageDialog(this,
+                    "Idade alterada com sucesso",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        } else {
+            JOptionPane.showMessageDialog(this,
+                    "Jogador não existe",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        }
+    }//GEN-LAST:event_nIdadeButtonActionPerformed
+
+    private void nNacionalidadeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nNacionalidadeButtonActionPerformed
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+
+        String nome = jTextField7.getText();
+        //System.out.println(nome);
+        String nacionalidade = (jTextField8.getText());
+        //System.out.println(estado);
+
+        doc = ModeloXML.alteraNacionalidade(nome, nacionalidade, doc);
+        newNacionalidade.setVisible(false);
+
+        if (doc != null) {
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
+
+            JOptionPane.showMessageDialog(this,
+                    "Nacionalidade alterada com sucesso",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        } else {
+            JOptionPane.showMessageDialog(this,
+                    "Jogador não existe",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        }
+    }//GEN-LAST:event_nNacionalidadeButtonActionPerformed
+
+    private void nClubeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nClubeButtonActionPerformed
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+
+        String nome = jTextField3.getText();
+        //System.out.println(nome);
+        String clube = (jTextField4.getText());
+        //System.out.println(estado);
+
+        doc = ModeloXML.alteraClubeAtual(nome, clube, doc);
+        newClube.setVisible(false);
+
+        if (doc != null) {
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
+
+            JOptionPane.showMessageDialog(this,
+                    "Clube alterado com sucesso",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        } else {
+            JOptionPane.showMessageDialog(this,
+                    "Jogador não existe",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        }
+    }//GEN-LAST:event_nClubeButtonActionPerformed
+
+    private void nEstadoButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nEstadoButtonActionPerformed
+
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+
+        String nome = jTextField1.getText();
+        //System.out.println(nome);
+        String estado = (jTextField2.getText());
+        //System.out.println(estado);
+
+        doc = ModeloXML.alteraEstado(nome, estado, doc);
+        newEstado.setVisible(false);
+
+        if (doc != null) {
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
+
+            JOptionPane.showMessageDialog(this,
+                    "Estado alterado com sucesso",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        } else {
+            JOptionPane.showMessageDialog(this,
+                    "Jogador não existe",
+                    "Informação",
+                    JOptionPane.INFORMATION_MESSAGE);
+        }
+    }//GEN-LAST:event_nEstadoButtonActionPerformed
+
+    private void mudarEstadoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mudarEstadoActionPerformed
+
+        newEstado.setSize(400, 250);
+        newEstado.setLocation(200, 200);
+        newEstado.setTitle("Alterar estado do jogador");
+        newEstado.setVisible(true);
+    }//GEN-LAST:event_mudarEstadoActionPerformed
+
+    private void mudarNacionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mudarNacionActionPerformed
+        newNacionalidade.setSize(400, 250);
+        newNacionalidade.setLocation(200, 200);
+        newNacionalidade.setTitle("Alterar nacionalidade do jogador");
+        newNacionalidade.setVisible(true);
+    }//GEN-LAST:event_mudarNacionActionPerformed
+
+    private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField6ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField6ActionPerformed
+
+    private void jTextField9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField9ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField9ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -178,17 +851,64 @@ public class Interface extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JMenuItem Sair;
+    private javax.swing.JMenuItem VerXML;
+    private javax.swing.JButton addJogButton;
+    private javax.swing.JDialog addJogador;
+    private javax.swing.JMenuItem adicionarJog;
+    private javax.swing.JMenu alterarDados;
     private javax.swing.ButtonGroup buttonGroup1;
     private javax.swing.ButtonGroup buttonGroup2;
+    private javax.swing.JMenu efetuarPesquisas;
+    private javax.swing.JMenuItem eliminarJog;
+    private javax.swing.JMenu geral;
+    private javax.swing.JMenu gerarOutputs;
     private javax.swing.JLabel jLabel1;
-    private javax.swing.JMenu jMenu1;
-    private javax.swing.JMenu jMenu2;
-    private javax.swing.JMenu jMenu3;
-    private javax.swing.JMenu jMenu4;
+    private javax.swing.JLabel jLabel10;
+    private javax.swing.JLabel jLabel11;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel5;
+    private javax.swing.JLabel jLabel6;
+    private javax.swing.JLabel jLabel7;
+    private javax.swing.JLabel jLabel8;
+    private javax.swing.JLabel jLabel9;
     private javax.swing.JMenuBar jMenuBar1;
-    private javax.swing.JMenuItem jMenuItem1;
     private javax.swing.JMenuItem jMenuItem2;
     private javax.swing.JPanel jPanel1;
+    private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JSeparator jSeparator1;
+    private javax.swing.JTextField jTextField1;
+    private javax.swing.JTextField jTextField10;
+    private javax.swing.JTextField jTextField2;
+    private javax.swing.JTextField jTextField3;
+    private javax.swing.JTextField jTextField4;
+    private javax.swing.JTextField jTextField5;
+    private javax.swing.JTextField jTextField6;
+    private javax.swing.JTextField jTextField7;
+    private javax.swing.JTextField jTextField8;
+    private javax.swing.JTextField jTextField9;
+    private javax.swing.JMenuItem mudarClube;
+    private javax.swing.JMenuItem mudarEstado;
+    private javax.swing.JMenuItem mudarIdade;
+    private javax.swing.JMenuItem mudarNacion;
+    private javax.swing.JButton nClubeButton;
+    private javax.swing.JButton nEstadoButton;
+    private javax.swing.JButton nIdadeButton;
+    private javax.swing.JButton nNacionalidadeButton;
+    private javax.swing.JDialog newClube;
+    private javax.swing.JDialog newEstado;
+    private javax.swing.JDialog newIdade;
+    private javax.swing.JDialog newNacionalidade;
+    private javax.swing.JTextArea output;
+    private javax.swing.JMenuItem pesquisarClube;
+    private javax.swing.JMenuItem pesquisarIntervaloIdade;
+    private javax.swing.JMenuItem pesquisarNacion;
+    private javax.swing.JMenuItem pesquisarNome;
+    private javax.swing.JMenuItem pesquisarPos;
+    private javax.swing.JMenuItem pesquisarSelecao;
+    private javax.swing.JMenuItem pesquisarSituacao;
+    private javax.swing.JButton remJogButton;
+    private javax.swing.JDialog remJogador;
     // End of variables declaration//GEN-END:variables
 }

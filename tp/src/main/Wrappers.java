@@ -134,7 +134,7 @@ public class Wrappers {
     public static String Obtem_Fotografia(String pesquisa) throws IOException {
 
         HttpRequestFunctions.httpRequest1("https://pt.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
-
+        String foto="Nao disponivel";
         String er = "<meta property=\"og:image\" content=\"https://upload.wikimedia.org/wikipedia/commons/[a-zA-Z0-9]+[/]+[a-zA-Z0-9]+[/]([a-zA-Z0-9\\S]+)\"/>";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
@@ -153,7 +153,7 @@ public class Wrappers {
 
         }
         ler.close();
-        return null;
+        return foto;
     }
 
     public static String Obtem_Nacionalidade(String pesquisa) throws IOException {
@@ -389,9 +389,9 @@ public class Wrappers {
 
                     linha = ler.nextLine();
                     m1 = p1.matcher(linha);
-                  
+
                     if (m1.find()) {
-                        
+
                         ler.close();
                         return m1.group(1);
                     }
@@ -405,11 +405,12 @@ public class Wrappers {
 
     public static String Obtem_EstadoAtual(String pesquisa) throws FileNotFoundException, IOException {
 
-//        String link = getLinkZeroZero(pesquisa);
-        String estado = "nenhum";
-        /*HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+        String link = getLinkZeroZero(pesquisa);
+        String estado = "Não está no ativo";
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
-        String er = "<span>Situação</span>([a-zA-Z\\s]+)[^>]+>";
+        String er ="<span>Situação</span>([a-zA-Z\\s]+)[^>]+>";
+
 
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
@@ -424,12 +425,12 @@ public class Wrappers {
             while (m.find()) {
                 ler.close();
                 return m.group(1);
-               
+
             }
 
         }
-         */
-        //ler.close();
+
+        ler.close();
         return estado;
     }
 
@@ -704,10 +705,10 @@ public class Wrappers {
 
     public static String Obtem_Peso(String pesquisa) throws IOException {
 
-        // String link = getLinkZeroZero(pesquisa);
+        String link = getLinkZeroZero(pesquisa);
         String peso = "nenhum";
 
-        /*HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
         String er = "<span>Peso</span>([0-9\\skg]+)</div>";
 
@@ -729,7 +730,7 @@ public class Wrappers {
 
         }
         ler.close();
-         */
+         
         return peso;
 
     }

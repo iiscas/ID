@@ -113,7 +113,7 @@ public class ModeloXML {
         boolean found = false;
         for (int i = 0; i < Jogadores.size(); i++) {
 
-            Element Jogador = (Element) Jogadores.get(i); //obtem livro i da Lista
+            Element Jogador = (Element) Jogadores.get(i); 
 
             if (Jogador.getAttributeValue("nome").equals(nome)) {
                 Jogador.getParent().removeContent(Jogador);

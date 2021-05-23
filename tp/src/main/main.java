@@ -11,7 +11,7 @@ import org.jdom2.Document;
 public class main {
 
     public static void main(String[] args) throws IOException, SaxonApiException {
-
+/*
         String nome;
         Scanner ler = new Scanner(new FileInputStream("players.txt"));
         //ArrayList<String> Clubes = new ArrayList<String>();
@@ -69,16 +69,17 @@ public class main {
             XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
         }
          */
-        Jogador a;
-        a = Wrappers.novoJogador("Cristiano Ronaldo");
+
+        /*Jogador a;
+        a = Wrappers.novoJogador("Luís Figo");
         Jogador b;
         b = Wrappers.novoJogador("Bruno Fernandes");
-
+*/
         Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
         //Chama a função para adicionar o livro ao XML
-         doc = ModeloXML.adicionaJogador(a, doc);
+         //doc = ModeloXML.adicionaJogador(a, doc);
          //doc = ModeloXML.adicionaJogador(b, doc);
-        //doc = ModeloXML.removeJogadorNome(b.alcunha, doc);
+        doc = ModeloXML.removeJogadorNome("Luís Figo", doc);
          //doc = ModeloXML.alteraIdade(a.alcunha, 36,doc);
          //doc = ModeloXML.alteraNacionalidade(a.alcunha,"Espanha",doc);
           //doc = ModeloXML.alteraClubeAtual(a.alcunha,"FC PORTO",doc);
@@ -87,5 +88,10 @@ public class main {
         if(doc!=null)
             XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
     }
-
+/*
+    ArrayList<String> j=new ArrayList();
+    j=PesquisasXPATH.PesquisaJogadorNome("Cristiano Ronaldo");
+    System.out.println(j);
+  */  
 }
+

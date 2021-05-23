@@ -27,4 +27,58 @@
                <clubeAnterior>Real Madrid</clubeAnterior>
           </clubesAnterirores>
      </jogador>
+     <jogador nome="Bruno Fernandes ">
+          <nomeCompleto>Bruno Miguel Borges Fernandes</nomeCompleto>
+          <nacionalidade>Portugal</nacionalidade>
+          <foto>Bruno_Fernandes_Portugal%2C_2018.jpg</foto>
+          <dataNascimento>8 de setembro de 1994</dataNascimento>
+          <idade>26</idade>
+          <altura>1,79 m</altura>
+          <peso>nenhum</peso>
+          <pePreferido>direito</pePreferido>
+          <estadoAtual>nenhum</estadoAtual>
+          <posicao>Médio Ofensivo</posicao>
+          <valorContrato>90,00 M €</valorContrato>
+          <selecao>Portugal</selecao>
+          <clubeAtual>Manchester United FC</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor marcador</trofeu>
+               <trofeu>Jogador da época</trofeu>
+               <trofeu>Futebolista do ano</trofeu>
+               <trofeu>Vencedor da Taça de Portugal</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>Sporting CP</clubeAnterior>
+               <clubeAnterior>Man Utd.</clubeAnterior>
+               <clubeAnterior>UC Sampdoria</clubeAnterior>
+               <clubeAnterior>Sporting CP</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
+     <jogador nome="Wilson Manafá ">
+          <nomeCompleto>Wilson Migueis Manafá Jancó</nomeCompleto>
+          <nacionalidade>Guiné Bissau</nacionalidade>
+          <foto />
+          <dataNascimento>23 de julho de 1994</dataNascimento>
+          <idade>26</idade>
+          <altura>1,74 m</altura>
+          <peso>73 kg</peso>
+          <pePreferido>direito</pePreferido>
+          <estadoAtual>nenhum</estadoAtual>
+          <posicao>Lateral Direito</posicao>
+          <valorContrato>7,00 M €</valorContrato>
+          <selecao>Não convocado</selecao>
+          <clubeAtual>Futebol Clube do Porto</clubeAtual>
+          <trofeus>
+               <trofeu>Campeão de Portugal</trofeu>
+               <trofeu>Vencedor da Taça de Portugal</trofeu>
+               <trofeu>Vencedor da Supertaça de Portugal</trofeu>
+               <trofeu>Campeão da Segunda Liga</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>Portimonense</clubeAnterior>
+               <clubeAnterior>FC Porto</clubeAnterior>
+               <clubeAnterior>Varzim</clubeAnterior>
+               <clubeAnterior>Portimonense</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
 </jogadores>
