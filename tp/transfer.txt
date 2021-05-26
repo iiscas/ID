@@ -34,81 +34,80 @@ window._sp_ = {
 <meta property="og:image" content="https://tmssl.akamaized.net/images/tm_logo.png" />
 <meta property="og:description" content="" />
 <meta property="og:title" content="Resultados da pesquisa" />
-<meta property="og:url" content="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes" />
-<link rel="next" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes&amp;Spieler_page=2" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/foundation-icons.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jui/css/base/jquery-ui.css?lm=1620992500" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/sprite-main.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/chosen.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.custom.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.tm-theme.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_werbung.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/shortclasses.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/print.css?_sn=1?lm=1620992499" media="print" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/desktop.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/domainspezifisch/desktop-pt.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/gridview.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/paginator.css?lm=1620992499" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/css/tooltipster.css?lm=1620992500" />
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jquery.ba-bbq.min.js?lm=1620992500"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/jquery.scrollTo.min.js?lm=1620992500"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/elinkpagermobile.js?lm=1620992500"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/localStorage.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/foundation.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery-ui-1.10.4.custom.min.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/clipboard.min.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery.icheck.min.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/js/jquery.tooltipster.js?lm=1620992500"></script>
+<meta property="og:url" content="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1622034422" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1622034422" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1622034421" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/foundation-icons.css?lm=1622034421" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jui/css/base/jquery-ui.css?lm=1622034426" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1622034421" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/sprite-main.css?lm=1622034421" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/chosen.css?lm=1622034421" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.custom.css?lm=1622034421" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.tm-theme.css?lm=1622034421" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_werbung.css?lm=1622034422" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/shortclasses.css?lm=1622034421" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/print.css?_sn=1?lm=1622034421" media="print" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/desktop.css?lm=1622034421" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/domainspezifisch/desktop-pt.css?lm=1622034422" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/gridview.css?lm=1622034422" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/paginator.css?lm=1622034422" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/css/tooltipster.css?lm=1622034426" />
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jquery.ba-bbq.min.js?lm=1622034426"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/jquery.scrollTo.min.js?lm=1622034426"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/elinkpagermobile.js?lm=1622034426"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/localStorage.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/foundation.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery-ui-1.10.4.custom.min.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/clipboard.min.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery.icheck.min.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/js/jquery.tooltipster.js?lm=1622034426"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 <!-- DFPV2 --->
@@ -368,7 +367,7 @@ googletag.enableServices();
 
                                             <div class="large-6 columns " id="schnellsuche-platz">
                             <form name="schnellsuche" id="schnellsuche" class="noclose" action="/schnellsuche/ergebnis/schnellsuche">
-                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="Bruno_Fernandes" />
+                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="Luís_Figo" />
                                 <input type="image" class="header-suche-abschicken" src="/images/suche-grau.svg" alt="Pesquisar" />
                             </form>
                             <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
@@ -558,44 +557,21 @@ googletag.enableServices();
     <div class="row">
         <div class="large-12 columns">
             <div class="box">
-                <div class="table-header">Resultados de pesquisa para jogador(es)                    - 12 Resultados</div>
+                <div class="table-header">Resultados de pesquisa para jogador(es)                    - 1 Resultados</div>
                 <div class="responsive-table">
 					<div id="yw0" class="grid-view">
 <div class="summary"></div>
 <table class="items">
 <thead>
 <tr>
-<th id="yw0_c0">Nome / Equipa</th><th class="zentriert" id="yw0_c1">Posição</th><th class="zentriert" id="yw0_c2">Clube</th><th class="zentriert" id="yw0_c3"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes&amp;sort=age">Idade</a></th><th class="zentriert" id="yw0_c4">Nac. </th><th class="rechts" id="yw0_c5"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes&amp;sort=marktwert">Valor de mercado</a></th><th class="rechts" id="yw0_c6">Empresário</th></tr>
+<th id="yw0_c0">Nome / Equipa</th><th class="zentriert" id="yw0_c1">Posição</th><th class="zentriert" id="yw0_c2">Clube</th><th class="zentriert" id="yw0_c3"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo&amp;sort=age">Idade</a></th><th class="zentriert" id="yw0_c4">Nac. </th><th class="rechts" id="yw0_c5"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo&amp;sort=marktwert">Valor de mercado</a></th><th class="rechts" id="yw0_c6">Empresário</th></tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/240306-1580389882.jpg?lm=1" title="Bruno Fernandes" alt="Bruno Fernandes" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Bruno Fernandes" class="spielprofil_tooltip" id="240306" href="/bruno-fernandes/profil/spieler/240306">Bruno Fernandes</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="985" href="/manchester-united/startseite/verein/985">Manchester United FC</a></td></tr></table></td><td class="zentriert">MO</td><td class="zentriert"><a class="vereinprofil_tooltip" id="985" href="/manchester-united/startseite/verein/985"><img src="https://tmssl.akamaized.net/images/wappen/tiny/985.png?lm=1457975903" title="&nbsp;" alt="Manchester United FC" class="tiny_wappen" /></a></td><td class="zentriert">26</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">90,00 M €</td><td class="rechts"><a href="/mrp-positionumber/beraterfirma/berater/4408">MRP.POSITIONUMBER</a></td></tr>
-<tr class="even">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/V_m_s_34083_2008_1.jpg?lm=1" title="Sérgio Rebordão" alt="Sérgio Rebordão" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Sérgio Rebordão" class="spielprofil_tooltip" id="34083" href="/sergio-rebordao/profil/spieler/34083">Sérgio Rebordão</a></td></tr><tr><td><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></td></tr></table></td><td class="zentriert">MDe</td><td class="zentriert"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td><td class="zentriert">40</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"><a href="/marcelo-lombilla/beraterfirma/berater/509">Marcelo Lombilla</a></td></tr>
-<tr class="odd">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Marinho" alt="Marinho" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Marinho" class="spielprofil_tooltip" id="34084" href="/marinho/profil/spieler/34084">Marinho</a></td></tr><tr><td><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></td></tr></table></td><td class="zentriert">DC</td><td class="zentriert"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td><td class="zentriert">41</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
-<tr class="even">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/s_25158_16650_2010_1.jpg?lm=1" title="Bruno Fernandes" alt="Bruno Fernandes" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Bruno Fernandes" class="spielprofil_tooltip" id="25158" href="/bruno-fernandes/profil/spieler/25158">Bruno Fernandes</a></td></tr><tr><td><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></td></tr></table></td><td class="zentriert">DC</td><td class="zentriert"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td><td class="zentriert">42</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/60.png?lm=1520611569" title="Guiné Bissau" alt="Guiné Bissau" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"><a href="/familienangehorige/beraterfirma/berater/1207">Familiar</a></td></tr>
-<tr class="odd">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/53073-1489481640.jpg?lm=1" title="Bruno" alt="Bruno" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Bruno" class="spielprofil_tooltip" id="53073" href="/bruno/profil/spieler/53073">Bruno</a></td></tr><tr><td><a title="Clube desconhecido" class="" id="75" href="/unbekannt/startseite/verein/75">Clube desconhecido</a></td></tr></table></td><td class="zentriert">GR</td><td class="zentriert"><a title="Clube desconhecidoClube desconhecido" class="" id="75" href="/unbekannt/startseite/verein/75"><img src="https://tmssl.akamaized.net/images/wappen/tiny/75.png?lm=1456997316" title="Clube desconhecido" alt="Clube desconhecido" class="tiny_wappen" /></a></td><td class="zentriert">36</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
-<tr class="even">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/s_186459_21829_2012_1.jpg?lm=1" title="Bruno Nunes" alt="Bruno Nunes" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Bruno Nunes" class="spielprofil_tooltip" id="186459" href="/bruno-nunes/profil/spieler/186459">Bruno Nunes</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="3973" href="/brasiliense-futebol-clube-df-/startseite/verein/3973">Brasiliense Futebol Clube (DF)</a></td></tr></table></td><td class="zentriert">PL</td><td class="zentriert"><a class="vereinprofil_tooltip" id="3973" href="/brasiliense-futebol-clube-df-/startseite/verein/3973"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3973.png?lm=1455824776" title="&nbsp;" alt="Brasiliense Futebol Clube (DF)" class="tiny_wappen" /></a></td><td class="zentriert">30</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
-<tr class="odd">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Bruno Fernandes" alt="Bruno Fernandes" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Bruno Fernandes" class="spielprofil_tooltip" id="14230" href="/bruno-fernandes/profil/spieler/14230">Bruno Fernandes</a></td></tr><tr><td><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></td></tr></table></td><td class="zentriert">GR</td><td class="zentriert"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td><td class="zentriert">40</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
-<tr class="even">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/s_14273_1301_2009_1.jpg?lm=1" title="Bruno" alt="Bruno" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Bruno" class="spielprofil_tooltip" id="14273" href="/bruno/profil/spieler/14273">Bruno</a></td></tr><tr><td><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></td></tr></table></td><td class="zentriert">MC</td><td class="zentriert"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td><td class="zentriert">46</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"><a href="/ohne-berater/beraterfirma/berater/96">sem agente</a></td></tr>
-<tr class="odd">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Bruno Fernandes" alt="Bruno Fernandes" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Bruno Fernandes" class="spielprofil_tooltip" id="428253" href="/bruno-fernandes/profil/spieler/428253">Bruno Fernandes</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="24994" href="/merelinense-fc/startseite/verein/24994">Merelinense FC</a></td></tr></table></td><td class="zentriert">EE</td><td class="zentriert"><a class="vereinprofil_tooltip" id="24994" href="/merelinense-fc/startseite/verein/24994"><img src="https://tmssl.akamaized.net/images/wappen/tiny/24994.png?lm=1424210558" title="&nbsp;" alt="Merelinense FC" class="tiny_wappen" /></a></td><td class="zentriert">23</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
-<tr class="even">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Bruno Fernandes do Vale" alt="Bruno Fernandes do Vale" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Bruno Fernandes do Vale" class="spielprofil_tooltip" id="626531" href="/bruno-fernandes-do-vale/profil/spieler/626531">Bruno Fernandes do Vale</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="40268" href="/fc-blo-waiss-izeg/startseite/verein/40268">FC Blo-Wäiss Izeg</a></td></tr></table></td><td class="zentriert">Defesa</td><td class="zentriert"><a class="vereinprofil_tooltip" id="40268" href="/fc-blo-waiss-izeg/startseite/verein/40268"><img src="https://tmssl.akamaized.net/images/wappen/tiny/40268.png?lm=1569949533" title="&nbsp;" alt="FC Blo-Wäiss Izeg" class="tiny_wappen" /></a></td><td class="zentriert">24</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/99.png?lm=1520611569" title="Luxemburgo" alt="Luxemburgo" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
+<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/3446-1570440028.jpg?lm=1" title="Luís Figo" alt="Luís Figo" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Luís Figo" class="spielprofil_tooltip" id="3446" href="/luis-figo/profil/spieler/3446">Luís Figo</a></td></tr><tr><td><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></td></tr></table></td><td class="zentriert">ED</td><td class="zentriert"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td><td class="zentriert">48</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
 </tbody>
 </table>
-<div class="pager"><ul id="yw1" class="yiiPager"><li  class="erste-seite hidden" title="Página &nbsp;&nbsp;"><span>&nbsp;&nbsp;</span></li>
-<li  class="vorherige-seite hidden" title="Página &nbsp;&nbsp;"><span>&nbsp;&nbsp;</span></li>
-<li  class="page selected" title="Página 1"><a href="/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes">1</a></li>
-<li  class="page" title="Página 2"><a href="/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes&amp;Spieler_page=2">2</a></li>
-<li  class="naechste-seite" title="Para a página seguinte"><a href="/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes&amp;Spieler_page=2">&nbsp;&nbsp;</a></li>
-<li  class="letzte-seite" title="Para a última página (página 2)"><a href="/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes&amp;Spieler_page=2">&nbsp;&nbsp;</a></li></ul></div><div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes"><span>240306</span><span>34083</span><span>34084</span><span>25158</span><span>53073</span><span>186459</span><span>14230</span><span>14273</span><span>428253</span><span>626531</span></div>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo"><span>3446</span></div>
 </div>                </div>
                 <div class="table-footer">
                     <a href="/detailsuche/spielerdetail/suche">
@@ -607,59 +583,43 @@ googletag.enableServices();
 	    <div class="row">
         <div class="large-12 columns">
             <div class="box">
-                <div class="table-header">Resultados de pesquisa para empresários                    - 5 Resultados</div>
+                <div class="table-header">Resultados de pesquisa para Treinadores & Funcionários                    - 1 Resultados</div>
                 <div class="responsive-table">
 					<div id="yw2" class="grid-view">
 <div class="summary"></div>
 <table class="items">
 <thead>
 <tr>
-<th class="zentriert" id="yw2_c0">Premium Service</th><th class="zentriert" id="yw2_c1">Agência</th><th class="zentriert" id="yw2_c2">Licença</th><th id="yw2_c3">Empresário</th></tr>
+<th id="yw2_c0">Nome</th><th class="zentriert" id="yw2_c1">Clube</th><th class="zentriert" id="yw2_c2">Idade</th><th class="zentriert" id="yw2_c3">Nac. </th><th class="zentriert" id="yw2_c4">Função</th><th class="zentriert" id="yw2_c5">Contrato até</th></tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td class="zentriert"><span class="icon-berater-adresseintrag icons_sprite" title="Ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=D20 Sports>
-													<tr>
-														<td rowspan=2>
-															<a href="/berater/beraterfirma?id=4235"><img src="https://tmssl.akamaized.net/images/berater_logo/small/758234_1558469175.png?lm=1558469175" title="D20 Sports" alt="-" class="berater-logorahmen" /></a>
-														</td>
-														<td class=hauptlink><a href="/d20-sports/beraterfirma/berater/4235">D20 Sports</a></td></tr>
-												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_agent_small.png" title="Agente de jogadores" /></td><td>Bruno Tiago Fernandes De Andrade</td></tr>
-<tr class="even">
-<td class="zentriert"><span class="icon-berater-keinadresseintrag icons_sprite" title="Não ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=Synergy Sports Group>
-													<tr>
-														<td rowspan=2>
-															<a href="/berater/beraterfirma?id=6876"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="Synergy Sports Group" alt="-" class="berater-logorahmen" /></a>
-														</td>
-														<td class=hauptlink><a href="/synergy-sports-group/beraterfirma/berater/6876">Synergy Sports Group</a></td></tr>
-												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_agent_small.png" title="Agente de jogadores" /></td><td>Charles Kaikai</td></tr>
-<tr class="odd">
-<td class="zentriert"><span class="icon-berater-keinadresseintrag icons_sprite" title="Não ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=MFTP Sports Business>
-													<tr>
-														<td rowspan=2>
-															<a href="/berater/beraterfirma?id=7603"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="MFTP Sports Business" alt="-" class="berater-logorahmen" /></a>
-														</td>
-														<td class=hauptlink><a href="/mftp-sports-business/beraterfirma/berater/7603">MFTP Sports Business</a></td></tr>
-												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_agent_small.png" title="Agente de jogadores" /></td><td>Fernando Alves Fernandes</td></tr>
-<tr class="even">
-<td class="zentriert"><span class="icon-berater-keinadresseintrag icons_sprite" title="Não ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=ASSA SPORT TALENT BITOLA>
-													<tr>
-														<td rowspan=2>
-															<a href="/berater/beraterfirma?id=3871"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="ASSA SPORT TALENT BITOLA" alt="-" class="berater-logorahmen" /></a>
-														</td>
-														<td class=hauptlink><a href="/assa-sport-talent-bitola/beraterfirma/berater/3871">ASSA SPORT TALENT BITOLA</a></td></tr>
-												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_lawyer_small.png" title="Advogado" /></td><td>Zoran Veljanovski</td></tr>
-<tr class="odd">
-<td class="zentriert"><span class="icon-berater-keinadresseintrag icons_sprite" title="Não ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=Top Sport Group Assessoria e Marketing>
-													<tr>
-														<td rowspan=2>
-															<a href="/berater/beraterfirma?id=1311"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="Top Sport Group Assessoria e Marketing" alt="-" class="berater-logorahmen" /></a>
-														</td>
-														<td class=hauptlink><a href="/top-sport-group-assessoria-e-marketing/beraterfirma/berater/1311">Top Sport Group Assessoria e Marketing</a></td></tr>
-												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_agent_small.png" title="Agente de jogadores" /></td><td>Bernardo Fernandes Da Silva</td></tr>
+<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/13636-1603961607.jpg?lm=1" title="Luís Figo" alt="Luís Figo" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Luís Figo" id="0" href="/luis-figo/profil/trainer/13636">Luís Figo</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="30827" href="/uefa-exekutivkomitee/startseite/verein/30827">UEFA-Comissão Executiva</a></td></tr></table></td><td class="zentriert"><a class="vereinprofil_tooltip" id="30827" href="/uefa-exekutivkomitee/startseite/verein/30827"><img src="https://tmssl.akamaized.net/images/wappen/tiny/30827.png?lm=1403628065" title="&nbsp;" alt="UEFA-Comissão Executiva" class="tiny_wappen" /></a></td><td class="zentriert">48</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts">Consultor de gestão</td><td class="rechts">-</td></tr>
 </tbody>
 </table>
-<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes"><span>4235</span><span>6876</span><span>7603</span><span>3871</span><span>1311</span></div>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo"><span>13636</span></div>
+</div>                </div>
+            </div>
+        </div>
+    </div>
+	    <div class="row">
+        <div class="large-12 columns">
+            <div class="box">
+                <div class="table-header"> Resultados da pesquisa para Clubes                    - 1 Resultados</div>
+                <div class="responsive-table">
+					<div id="yw4" class="grid-view">
+<div class="summary"></div>
+<table class="items">
+<thead>
+<tr>
+<th id="yw4_c0">&nbsp;</th><th id="yw4_c1"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo&amp;sort=verein">Clube</a></th><th class="zentriert" id="yw4_c2">País</th><th class="zentriert" id="yw4_c3">Plantel</th><th class="zentriert" id="yw4_c4"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo&amp;sort=gesamtmarktwert">Valor de mercado total</a></th><th class="zentriert" id="yw4_c5">Transferências</th><th class="zentriert" id="yw4_c6">Estádio</th><th class="zentriert" id="yw4_c7">Fórum</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="zentriert suche-vereinswappen"><img src="https://tmssl.akamaized.net/images/wappen/small/default.png?lm=1457423031" title="&nbsp;" alt="Luis Figo Football Academy" class="" /></td><td><table class="inline-table"><tr><td class="hauptlink"><a class="vereinprofil_tooltip" id="56710" href="/luis-figo-football-academy/startseite/verein/56710">Luis Figo Football Academy</a></td></tr><tr><td></td></tr></table></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/34.png?lm=1520611569" title="China" alt="China" class="flaggenrahmen" /></td><td class="zentriert"><a title="Plantel Luis Figo Football Academy" href="/luis-figo-football-academy/kader/verein/56710">0</a></td><td class="rechts">-</td><td class="zentriert"><a href="/luis-figo-football-academy/transfers/verein/56710" title="Transferências Luis Figo Football Academy"><span class="icons_sprite icon-transfer-grey">&nbsp;</span></a></td><td class="zentriert"><a href="/luis-figo-football-academy/stadion/verein/56710" title="Estádio Luis Figo Football Academy"><span class="icons_sprite icon-stadion-grey">&nbsp;</span></a></td><td class="zentriert"></td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo"><span>56710</span></div>
 </div>                </div>
             </div>
         </div>
@@ -759,16 +719,16 @@ var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){v
 </script>
 
     
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1620992499"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/micromodal.min.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/intersection-observer.min.js?lm=1620992497"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/lazyload.min.js?lm=1620992497"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1622034425"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/micromodal.min.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/intersection-observer.min.js?lm=1622034416"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/lazyload.min.js?lm=1622034416"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 	function initCss() {
 	}
-	var aktuelleUrl = 'https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Bruno_Fernandes'
-	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fschnellsuche%2Fergebnis%2Fschnellsuche%3Fquery%3DBruno_Fernandes';
+	var aktuelleUrl = 'https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo'
+	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fschnellsuche%2Fergebnis%2Fschnellsuche%3Fquery%3DLu%C3%ADs_Figo';
 	var notificationUrl='/notifications/liste';
 	var privateNachrichtenUrl = '/privateNachrichten/liste'
 	var favoritenUrl = '/favoriten/userFavoriten'
@@ -898,7 +858,8 @@ iom.c(iam_data,1);
 }
 jQuery(function($) {
 jQuery('#yw0').yiiGridView({'ajaxUpdate':['yw0'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'Spieler_page'});
-jQuery('#yw2').yiiGridView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'page'});
+jQuery('#yw2').yiiGridView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'Trainer_page'});
+jQuery('#yw4').yiiGridView({'ajaxUpdate':['yw4'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'Verein_page'});
 
           $(".spielprofil_tooltip").tooltipster({'position':'right','arrowColor':'white','delay':'100','speed':0,'contentAsHTML':true,'interactive':true,'content':'\x0A\x09\x09\x09\x3Cimg\x20src\x3D\x22https\x3A\x2F\x2Ftmssl.akamaized.net\x2F\x2Fimages\x2Fspinner.gif\x22\x20style\x3D\x22vertical\x2Dalign\x3A\x20middle\x3B\x22\x20\x2F\x3E\x0A\x09\x09','functionBefore':function(origin, continueTooltip) { continueTooltip(); id_array = origin.context.id.split("/"); var spieler_id = id_array[0]; $.post( "/spieler/_profilTooltip", { spieler_id : spieler_id }, function(data) { if(data) { origin.tooltipster("update", data); } }); }});
           

@@ -10,6 +10,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import net.sf.saxon.s9api.SaxonApiException;
+import net.sf.saxon.s9api.XdmValue;
 import org.jdom2.Document;
 
 /**
@@ -68,6 +69,36 @@ public class Interface extends javax.swing.JFrame {
         jLabel11 = new javax.swing.JLabel();
         jTextField5 = new javax.swing.JTextField();
         jTextField6 = new javax.swing.JTextField();
+        XPATH_nome = new javax.swing.JDialog();
+        jLabel12 = new javax.swing.JLabel();
+        jTextField11 = new javax.swing.JTextField();
+        jButton1 = new javax.swing.JButton();
+        XPATH_clube = new javax.swing.JDialog();
+        jLabel13 = new javax.swing.JLabel();
+        jTextField12 = new javax.swing.JTextField();
+        jButton2 = new javax.swing.JButton();
+        XPATH_nacionalidade = new javax.swing.JDialog();
+        jLabel14 = new javax.swing.JLabel();
+        jTextField13 = new javax.swing.JTextField();
+        jButton3 = new javax.swing.JButton();
+        XPATH_posicao = new javax.swing.JDialog();
+        jLabel15 = new javax.swing.JLabel();
+        jTextField14 = new javax.swing.JTextField();
+        jButton4 = new javax.swing.JButton();
+        XPATH_situacao = new javax.swing.JDialog();
+        jLabel16 = new javax.swing.JLabel();
+        jTextField15 = new javax.swing.JTextField();
+        jButton5 = new javax.swing.JButton();
+        XPATH_intervaloIdade = new javax.swing.JDialog();
+        jLabel18 = new javax.swing.JLabel();
+        jLabel19 = new javax.swing.JLabel();
+        jTextField17 = new javax.swing.JTextField();
+        jTextField18 = new javax.swing.JTextField();
+        jButton7 = new javax.swing.JButton();
+        XPATH_selecao = new javax.swing.JDialog();
+        jLabel17 = new javax.swing.JLabel();
+        jTextField16 = new javax.swing.JTextField();
+        jButton6 = new javax.swing.JButton();
         jPanel1 = new javax.swing.JPanel();
         jSeparator1 = new javax.swing.JSeparator();
         jLabel1 = new javax.swing.JLabel();
@@ -76,7 +107,8 @@ public class Interface extends javax.swing.JFrame {
         jMenuBar1 = new javax.swing.JMenuBar();
         geral = new javax.swing.JMenu();
         VerXML = new javax.swing.JMenuItem();
-        jMenuItem2 = new javax.swing.JMenuItem();
+        validarDTD = new javax.swing.JMenuItem();
+        validarXSD = new javax.swing.JMenuItem();
         Sair = new javax.swing.JMenuItem();
         alterarDados = new javax.swing.JMenu();
         adicionarJog = new javax.swing.JMenuItem();
@@ -383,6 +415,305 @@ public class Interface extends javax.swing.JFrame {
                 .addContainerGap(20, Short.MAX_VALUE))
         );
 
+        jLabel12.setText("Palavra de pesquisa:");
+
+        jTextField11.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField11ActionPerformed(evt);
+            }
+        });
+
+        jButton1.setText("OK");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout XPATH_nomeLayout = new javax.swing.GroupLayout(XPATH_nome.getContentPane());
+        XPATH_nome.getContentPane().setLayout(XPATH_nomeLayout);
+        XPATH_nomeLayout.setHorizontalGroup(
+            XPATH_nomeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_nomeLayout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jLabel12)
+                .addGap(18, 18, 18)
+                .addGroup(XPATH_nomeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jTextField11, javax.swing.GroupLayout.PREFERRED_SIZE, 221, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(XPATH_nomeLayout.createSequentialGroup()
+                        .addGap(27, 27, 27)
+                        .addComponent(jButton1)))
+                .addContainerGap(42, Short.MAX_VALUE))
+        );
+        XPATH_nomeLayout.setVerticalGroup(
+            XPATH_nomeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_nomeLayout.createSequentialGroup()
+                .addGap(67, 67, 67)
+                .addGroup(XPATH_nomeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel12)
+                    .addComponent(jTextField11, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 38, Short.MAX_VALUE)
+                .addComponent(jButton1)
+                .addGap(32, 32, 32))
+        );
+
+        jLabel13.setText("Palavra de pesquisa:");
+
+        jTextField12.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField12ActionPerformed(evt);
+            }
+        });
+
+        jButton2.setText("OK");
+        jButton2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton2ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout XPATH_clubeLayout = new javax.swing.GroupLayout(XPATH_clube.getContentPane());
+        XPATH_clube.getContentPane().setLayout(XPATH_clubeLayout);
+        XPATH_clubeLayout.setHorizontalGroup(
+            XPATH_clubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_clubeLayout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jLabel13)
+                .addGap(18, 18, 18)
+                .addGroup(XPATH_clubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jTextField12, javax.swing.GroupLayout.PREFERRED_SIZE, 221, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(XPATH_clubeLayout.createSequentialGroup()
+                        .addGap(27, 27, 27)
+                        .addComponent(jButton2)))
+                .addContainerGap(42, Short.MAX_VALUE))
+        );
+        XPATH_clubeLayout.setVerticalGroup(
+            XPATH_clubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_clubeLayout.createSequentialGroup()
+                .addGap(67, 67, 67)
+                .addGroup(XPATH_clubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel13)
+                    .addComponent(jTextField12, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 38, Short.MAX_VALUE)
+                .addComponent(jButton2)
+                .addGap(32, 32, 32))
+        );
+
+        jLabel14.setText("Palavra de pesquisa:");
+
+        jTextField13.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField13ActionPerformed(evt);
+            }
+        });
+
+        jButton3.setText("OK");
+        jButton3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton3ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout XPATH_nacionalidadeLayout = new javax.swing.GroupLayout(XPATH_nacionalidade.getContentPane());
+        XPATH_nacionalidade.getContentPane().setLayout(XPATH_nacionalidadeLayout);
+        XPATH_nacionalidadeLayout.setHorizontalGroup(
+            XPATH_nacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_nacionalidadeLayout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jLabel14)
+                .addGap(18, 18, 18)
+                .addGroup(XPATH_nacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, 221, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(XPATH_nacionalidadeLayout.createSequentialGroup()
+                        .addGap(27, 27, 27)
+                        .addComponent(jButton3)))
+                .addContainerGap(42, Short.MAX_VALUE))
+        );
+        XPATH_nacionalidadeLayout.setVerticalGroup(
+            XPATH_nacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_nacionalidadeLayout.createSequentialGroup()
+                .addGap(67, 67, 67)
+                .addGroup(XPATH_nacionalidadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel14)
+                    .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 38, Short.MAX_VALUE)
+                .addComponent(jButton3)
+                .addGap(32, 32, 32))
+        );
+
+        jLabel15.setText("Palavra de pesquisa:");
+
+        jTextField14.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField14ActionPerformed(evt);
+            }
+        });
+
+        jButton4.setText("OK");
+        jButton4.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton4ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout XPATH_posicaoLayout = new javax.swing.GroupLayout(XPATH_posicao.getContentPane());
+        XPATH_posicao.getContentPane().setLayout(XPATH_posicaoLayout);
+        XPATH_posicaoLayout.setHorizontalGroup(
+            XPATH_posicaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_posicaoLayout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jLabel15)
+                .addGap(18, 18, 18)
+                .addGroup(XPATH_posicaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jTextField14, javax.swing.GroupLayout.PREFERRED_SIZE, 221, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(XPATH_posicaoLayout.createSequentialGroup()
+                        .addGap(27, 27, 27)
+                        .addComponent(jButton4)))
+                .addContainerGap(42, Short.MAX_VALUE))
+        );
+        XPATH_posicaoLayout.setVerticalGroup(
+            XPATH_posicaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_posicaoLayout.createSequentialGroup()
+                .addGap(67, 67, 67)
+                .addGroup(XPATH_posicaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel15)
+                    .addComponent(jTextField14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 38, Short.MAX_VALUE)
+                .addComponent(jButton4)
+                .addGap(32, 32, 32))
+        );
+
+        jLabel16.setText("Palavra de pesquisa:");
+
+        jTextField15.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField15ActionPerformed(evt);
+            }
+        });
+
+        jButton5.setText("OK");
+        jButton5.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton5ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout XPATH_situacaoLayout = new javax.swing.GroupLayout(XPATH_situacao.getContentPane());
+        XPATH_situacao.getContentPane().setLayout(XPATH_situacaoLayout);
+        XPATH_situacaoLayout.setHorizontalGroup(
+            XPATH_situacaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_situacaoLayout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jLabel16)
+                .addGap(18, 18, 18)
+                .addGroup(XPATH_situacaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jTextField15, javax.swing.GroupLayout.PREFERRED_SIZE, 221, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(XPATH_situacaoLayout.createSequentialGroup()
+                        .addGap(27, 27, 27)
+                        .addComponent(jButton5)))
+                .addContainerGap(42, Short.MAX_VALUE))
+        );
+        XPATH_situacaoLayout.setVerticalGroup(
+            XPATH_situacaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_situacaoLayout.createSequentialGroup()
+                .addGap(67, 67, 67)
+                .addGroup(XPATH_situacaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel16)
+                    .addComponent(jTextField15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 38, Short.MAX_VALUE)
+                .addComponent(jButton5)
+                .addGap(32, 32, 32))
+        );
+
+        jLabel18.setText("Idade minima");
+
+        jLabel19.setText("Idade máxima");
+
+        jButton7.setText("OK");
+        jButton7.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton7ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout XPATH_intervaloIdadeLayout = new javax.swing.GroupLayout(XPATH_intervaloIdade.getContentPane());
+        XPATH_intervaloIdade.getContentPane().setLayout(XPATH_intervaloIdadeLayout);
+        XPATH_intervaloIdadeLayout.setHorizontalGroup(
+            XPATH_intervaloIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_intervaloIdadeLayout.createSequentialGroup()
+                .addGroup(XPATH_intervaloIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(XPATH_intervaloIdadeLayout.createSequentialGroup()
+                        .addGap(52, 52, 52)
+                        .addGroup(XPATH_intervaloIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel18)
+                            .addComponent(jLabel19))
+                        .addGap(41, 41, 41)
+                        .addGroup(XPATH_intervaloIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(jTextField17, javax.swing.GroupLayout.DEFAULT_SIZE, 100, Short.MAX_VALUE)
+                            .addComponent(jTextField18)))
+                    .addGroup(XPATH_intervaloIdadeLayout.createSequentialGroup()
+                        .addGap(132, 132, 132)
+                        .addComponent(jButton7)))
+                .addContainerGap(113, Short.MAX_VALUE))
+        );
+        XPATH_intervaloIdadeLayout.setVerticalGroup(
+            XPATH_intervaloIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_intervaloIdadeLayout.createSequentialGroup()
+                .addGap(23, 23, 23)
+                .addGroup(XPATH_intervaloIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel18)
+                    .addComponent(jTextField17, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(25, 25, 25)
+                .addGroup(XPATH_intervaloIdadeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel19)
+                    .addComponent(jTextField18, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(18, 18, 18)
+                .addComponent(jButton7)
+                .addContainerGap(21, Short.MAX_VALUE))
+        );
+
+        jLabel17.setText("Palavra de pesquisa:");
+
+        jTextField16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField16ActionPerformed(evt);
+            }
+        });
+
+        jButton6.setText("OK");
+        jButton6.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton6ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout XPATH_selecaoLayout = new javax.swing.GroupLayout(XPATH_selecao.getContentPane());
+        XPATH_selecao.getContentPane().setLayout(XPATH_selecaoLayout);
+        XPATH_selecaoLayout.setHorizontalGroup(
+            XPATH_selecaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_selecaoLayout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jLabel17)
+                .addGap(18, 18, 18)
+                .addGroup(XPATH_selecaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jTextField16, javax.swing.GroupLayout.PREFERRED_SIZE, 221, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(XPATH_selecaoLayout.createSequentialGroup()
+                        .addGap(27, 27, 27)
+                        .addComponent(jButton6)))
+                .addContainerGap(42, Short.MAX_VALUE))
+        );
+        XPATH_selecaoLayout.setVerticalGroup(
+            XPATH_selecaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XPATH_selecaoLayout.createSequentialGroup()
+                .addGap(67, 67, 67)
+                .addGroup(XPATH_selecaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel17)
+                    .addComponent(jTextField16, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 38, Short.MAX_VALUE)
+                .addComponent(jButton6)
+                .addGap(32, 32, 32))
+        );
+
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Montserrat", 0, 24)); // NOI18N
@@ -416,8 +747,8 @@ public class Interface extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 295, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(29, Short.MAX_VALUE))
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 412, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         geral.setText("Opções Gerais");
@@ -435,13 +766,21 @@ public class Interface extends javax.swing.JFrame {
         });
         geral.add(VerXML);
 
-        jMenuItem2.setText("Validar modelo de dados");
-        jMenuItem2.addActionListener(new java.awt.event.ActionListener() {
+        validarDTD.setText("Validar modelo de dados- DTD");
+        validarDTD.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenuItem2ActionPerformed(evt);
+                validarDTDActionPerformed(evt);
             }
         });
-        geral.add(jMenuItem2);
+        geral.add(validarDTD);
+
+        validarXSD.setText("Validar modelo de dados- XSD");
+        validarXSD.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                validarXSDActionPerformed(evt);
+            }
+        });
+        geral.add(validarXSD);
 
         Sair.setText("Sair");
         Sair.addActionListener(new java.awt.event.ActionListener() {
@@ -516,9 +855,19 @@ public class Interface extends javax.swing.JFrame {
         efetuarPesquisas.add(pesquisarNome);
 
         pesquisarClube.setText("Por Clube");
+        pesquisarClube.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                pesquisarClubeActionPerformed(evt);
+            }
+        });
         efetuarPesquisas.add(pesquisarClube);
 
         pesquisarNacion.setText("Por Nacionalidade");
+        pesquisarNacion.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                pesquisarNacionActionPerformed(evt);
+            }
+        });
         efetuarPesquisas.add(pesquisarNacion);
 
         pesquisarPos.setText("Por Posição");
@@ -530,6 +879,11 @@ public class Interface extends javax.swing.JFrame {
         efetuarPesquisas.add(pesquisarPos);
 
         pesquisarSituacao.setText("Por Situação");
+        pesquisarSituacao.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                pesquisarSituacaoActionPerformed(evt);
+            }
+        });
         efetuarPesquisas.add(pesquisarSituacao);
 
         pesquisarIntervaloIdade.setText("Por Intervalo de Idade");
@@ -541,6 +895,11 @@ public class Interface extends javax.swing.JFrame {
         efetuarPesquisas.add(pesquisarIntervaloIdade);
 
         pesquisarSelecao.setText("Por Seleção");
+        pesquisarSelecao.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                pesquisarSelecaoActionPerformed(evt);
+            }
+        });
         efetuarPesquisas.add(pesquisarSelecao);
 
         jMenuBar1.add(efetuarPesquisas);
@@ -562,7 +921,7 @@ public class Interface extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 17, Short.MAX_VALUE))
+                .addGap(0, 63, Short.MAX_VALUE))
         );
 
         pack();
@@ -572,9 +931,22 @@ public class Interface extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_geralActionPerformed
 
-    private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jMenuItem2ActionPerformed
+    private void validarDTDActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_validarDTDActionPerformed
+      try {
+            // TODO add your handling code here:
+            int res = JDOMFunctions_Validar.validarDocumentoDTD("jogador.xml", "jogador.dtd");
+            if(res==-1)
+                JOptionPane.showMessageDialog(this,
+                        "Ficheiro inválido por DTD",
+                        "Informação Validação", JOptionPane.ERROR_MESSAGE);
+            else
+                JOptionPane.showMessageDialog(this,
+                        "Ficheiro válido por DTD",
+                        "Informação Validação", JOptionPane.INFORMATION_MESSAGE);
+        } catch (IOException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_validarDTDActionPerformed
 
     private void SairActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SairActionPerformed
         // TODO add your handling code here:
@@ -596,15 +968,24 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_mudarClubeActionPerformed
 
     private void pesquisarNomeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarNomeActionPerformed
-        // TODO add your handling code here:
+        XPATH_nome.setSize(400, 250);
+        XPATH_nome.setLocation(200, 200);
+        XPATH_nome.setTitle("XPATH: pesquisar por nome");
+        XPATH_nome.setVisible(true);
     }//GEN-LAST:event_pesquisarNomeActionPerformed
 
     private void pesquisarPosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarPosActionPerformed
-        // TODO add your handling code here:
+        XPATH_posicao.setSize(400, 250);
+        XPATH_posicao.setLocation(200, 200);
+        XPATH_posicao.setTitle("XPATH: pesquisar por posicao");
+        XPATH_posicao.setVisible(true);
     }//GEN-LAST:event_pesquisarPosActionPerformed
 
     private void pesquisarIntervaloIdadeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarIntervaloIdadeActionPerformed
-        // TODO add your handling code here:
+        XPATH_intervaloIdade.setSize(400, 250);
+        XPATH_intervaloIdade.setLocation(200, 200);
+        XPATH_intervaloIdade.setTitle("XPATH: pesquisar por intervalo de idade");
+        XPATH_intervaloIdade.setVisible(true);
     }//GEN-LAST:event_pesquisarIntervaloIdadeActionPerformed
 
     private void VerXMLActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_VerXMLActionPerformed
@@ -813,6 +1194,222 @@ public class Interface extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField9ActionPerformed
 
+    private void validarXSDActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_validarXSDActionPerformed
+       try {
+            // TODO add your handling code here:
+            int res = JDOMFunctions_Validar.validarDocumentoXSD("jogador.xml", "jogador.xsd");
+            if(res==-1)
+                JOptionPane.showMessageDialog(this,
+                        "Ficheiro inválido por XSD",
+                        "Informação Validação", JOptionPane.ERROR_MESSAGE);
+            else
+                JOptionPane.showMessageDialog(this,
+                        "Ficheiro válido por XSD",
+                        "Informação Validação", JOptionPane.INFORMATION_MESSAGE);
+        } catch (IOException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_validarXSDActionPerformed
+
+    private void jTextField11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField11ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField11ActionPerformed
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        try {
+            // TODO add your handling code here:
+            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
+                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            System.out.println(xp);
+            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            String s = XPathFunctions.listaResultado(res);
+            pesquisarNome.setVisible(false);
+            if (res == null) {
+                output.setText("Ficheiro XML não existe");
+            } else if (res.size() == 0) {
+                output.setText("Sem resultados");
+            } else {
+                output.setText(s);
+            }
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_jButton1ActionPerformed
+
+    private void jTextField12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField12ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField12ActionPerformed
+
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
+       try {
+            // TODO add your handling code here:
+            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
+                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            System.out.println(xp);
+            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            String s = XPathFunctions.listaResultado(res);
+            pesquisarNome.setVisible(false);
+            if (res == null) {
+                output.setText("Ficheiro XML não existe");
+            } else if (res.size() == 0) {
+                output.setText("Sem resultados");
+            } else {
+                output.setText(s);
+            }
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_jButton2ActionPerformed
+
+    private void jTextField13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField13ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField13ActionPerformed
+
+    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
+      try {
+            // TODO add your handling code here:
+            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
+                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            System.out.println(xp);
+            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            String s = XPathFunctions.listaResultado(res);
+            pesquisarNome.setVisible(false);
+            if (res == null) {
+                output.setText("Ficheiro XML não existe");
+            } else if (res.size() == 0) {
+                output.setText("Sem resultados");
+            } else {
+                output.setText(s);
+            }
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_jButton3ActionPerformed
+
+    private void jTextField14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField14ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField14ActionPerformed
+
+    private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
+     try {
+            // TODO add your handling code here:
+            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
+                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            System.out.println(xp);
+            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            String s = XPathFunctions.listaResultado(res);
+            pesquisarNome.setVisible(false);
+            if (res == null) {
+                output.setText("Ficheiro XML não existe");
+            } else if (res.size() == 0) {
+                output.setText("Sem resultados");
+            } else {
+                output.setText(s);
+            }
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_jButton4ActionPerformed
+
+    private void jTextField15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField15ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField15ActionPerformed
+
+    private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
+      try {
+            // TODO add your handling code here:
+            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
+                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            System.out.println(xp);
+            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            String s = XPathFunctions.listaResultado(res);
+            pesquisarNome.setVisible(false);
+            if (res == null) {
+                output.setText("Ficheiro XML não existe");
+            } else if (res.size() == 0) {
+                output.setText("Sem resultados");
+            } else {
+                output.setText(s);
+            }
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_jButton5ActionPerformed
+
+    private void jTextField16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField16ActionPerformed
+
+    private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
+       try {
+            // TODO add your handling code here:
+            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
+                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            System.out.println(xp);
+            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            String s = XPathFunctions.listaResultado(res);
+            pesquisarNome.setVisible(false);
+            if (res == null) {
+                output.setText("Ficheiro XML não existe");
+            } else if (res.size() == 0) {
+                output.setText("Sem resultados");
+            } else {
+                output.setText(s);
+            }
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_jButton6ActionPerformed
+
+    private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
+        try {
+            // TODO add your handling code here:
+            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
+                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            System.out.println(xp);
+            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            String s = XPathFunctions.listaResultado(res);
+            pesquisarNome.setVisible(false);
+            if (res == null) {
+                output.setText("Ficheiro XML não existe");
+            } else if (res.size() == 0) {
+                output.setText("Sem resultados");
+            } else {
+                output.setText(s);
+            }
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_jButton7ActionPerformed
+
+    private void pesquisarClubeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarClubeActionPerformed
+        XPATH_clube.setSize(400, 250);
+        XPATH_clube.setLocation(200, 200);
+        XPATH_clube.setTitle("XPATH: pesquisar por clube");
+        XPATH_clube.setVisible(true);
+    }//GEN-LAST:event_pesquisarClubeActionPerformed
+
+    private void pesquisarNacionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarNacionActionPerformed
+        XPATH_nacionalidade.setSize(400, 250);
+        XPATH_nacionalidade.setLocation(200, 200);
+        XPATH_nacionalidade.setTitle("XPATH: pesquisar por nacionalidade");
+        XPATH_nacionalidade.setVisible(true);
+    }//GEN-LAST:event_pesquisarNacionActionPerformed
+
+    private void pesquisarSituacaoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarSituacaoActionPerformed
+        XPATH_situacao.setSize(400, 250);
+        XPATH_situacao.setLocation(200, 200);
+        XPATH_situacao.setTitle("XPATH: pesquisar por situacao");
+        XPATH_situacao.setVisible(true);
+    }//GEN-LAST:event_pesquisarSituacaoActionPerformed
+
+    private void pesquisarSelecaoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarSelecaoActionPerformed
+        XPATH_selecao.setSize(400, 250);
+        XPATH_selecao.setLocation(200, 200);
+        XPATH_selecao.setTitle("XPATH: pesquisar por selecao");
+        XPATH_selecao.setVisible(true);
+    }//GEN-LAST:event_pesquisarSelecaoActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -852,6 +1449,13 @@ public class Interface extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JMenuItem Sair;
     private javax.swing.JMenuItem VerXML;
+    private javax.swing.JDialog XPATH_clube;
+    private javax.swing.JDialog XPATH_intervaloIdade;
+    private javax.swing.JDialog XPATH_nacionalidade;
+    private javax.swing.JDialog XPATH_nome;
+    private javax.swing.JDialog XPATH_posicao;
+    private javax.swing.JDialog XPATH_selecao;
+    private javax.swing.JDialog XPATH_situacao;
     private javax.swing.JButton addJogButton;
     private javax.swing.JDialog addJogador;
     private javax.swing.JMenuItem adicionarJog;
@@ -862,9 +1466,24 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JMenuItem eliminarJog;
     private javax.swing.JMenu geral;
     private javax.swing.JMenu gerarOutputs;
+    private javax.swing.JButton jButton1;
+    private javax.swing.JButton jButton2;
+    private javax.swing.JButton jButton3;
+    private javax.swing.JButton jButton4;
+    private javax.swing.JButton jButton5;
+    private javax.swing.JButton jButton6;
+    private javax.swing.JButton jButton7;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
+    private javax.swing.JLabel jLabel12;
+    private javax.swing.JLabel jLabel13;
+    private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel15;
+    private javax.swing.JLabel jLabel16;
+    private javax.swing.JLabel jLabel17;
+    private javax.swing.JLabel jLabel18;
+    private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
@@ -874,12 +1493,19 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel8;
     private javax.swing.JLabel jLabel9;
     private javax.swing.JMenuBar jMenuBar1;
-    private javax.swing.JMenuItem jMenuItem2;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JSeparator jSeparator1;
     private javax.swing.JTextField jTextField1;
     private javax.swing.JTextField jTextField10;
+    private javax.swing.JTextField jTextField11;
+    private javax.swing.JTextField jTextField12;
+    private javax.swing.JTextField jTextField13;
+    private javax.swing.JTextField jTextField14;
+    private javax.swing.JTextField jTextField15;
+    private javax.swing.JTextField jTextField16;
+    private javax.swing.JTextField jTextField17;
+    private javax.swing.JTextField jTextField18;
     private javax.swing.JTextField jTextField2;
     private javax.swing.JTextField jTextField3;
     private javax.swing.JTextField jTextField4;
@@ -910,5 +1536,7 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JMenuItem pesquisarSituacao;
     private javax.swing.JButton remJogButton;
     private javax.swing.JDialog remJogador;
+    private javax.swing.JMenuItem validarDTD;
+    private javax.swing.JMenuItem validarXSD;
     // End of variables declaration//GEN-END:variables
 }

@@ -406,14 +406,15 @@ public class Wrappers {
     public static String Obtem_EstadoAtual(String pesquisa) throws FileNotFoundException, IOException {
 
         String link = getLinkZeroZero(pesquisa);
+        System.out.println(link);
         String estado = "Não está no ativo";
-        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+        HttpRequestFunctions.httpRequest2(link, "", "jogadores.txt");
 
-        String er ="<span>Situação</span>([a-zA-Z\\s]+)[^>]+>";
+        String er ="<span>Situação</span>([^<0-9-]+)[^>]+>";
 
 
         Pattern p = Pattern.compile(er);
-        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
+        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"),"windows-1252");
 
         Matcher m;
 
@@ -421,8 +422,9 @@ public class Wrappers {
 
             String linha = ler.nextLine();
             m = p.matcher(linha);
+            
 
-            while (m.find()) {
+            if (m.find()) {
                 ler.close();
                 return m.group(1);
 
@@ -431,8 +433,9 @@ public class Wrappers {
         }
 
         ler.close();
-        return estado;
+        return null;
     }
+    
 
     public static String Obtem_Empresario(String pesquisa) throws FileNotFoundException, IOException {
 
@@ -487,11 +490,11 @@ public class Wrappers {
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
-        String er = "<meta name=\\\"description\\\" content=\\\"[a-zA-Z\\s,]+([0-9]+)[a-zA-Z\\s,]+\\b";
+        String er = "<meta name=\"description\" content=\"[a-zA-Z\\s,]+([0-9]+)[a-zA-Z\\s,]+\\b";
         String er1 = "<th>Idade:</th>";
         String er2 = "<td>([0-9]+)</td>";
-        String er3 = "<span class=\\\"dataItem\\\">Falecido:</span>";
-        String er4 = "<span itemprop=\\\"deathDate\\\" class=\\\"dataValue\\\">[0-9\\s\\.]+\\s\\(([0-9]+)\\)</span>";
+        String er3 = "<span class=\"dataItem\">Falecido:</span>";
+        String er4 = "<span itemprop=\"deathDate\" class=\"dataValue\">[0-9\\s\\.]+\\s\\(([0-9]+)\\)</span>";
 
         Pattern p = Pattern.compile(er);
         Pattern p1 = Pattern.compile(er1);
@@ -522,7 +525,6 @@ public class Wrappers {
                 if (m2.find()) {
 
                     ler.close();
-
                     return Integer.parseInt(m2.group(1));
                 }
             } else if (m3.find()) {
@@ -533,7 +535,7 @@ public class Wrappers {
                 if (m4.find()) {
 
                     ler.close();
-                    Integer.parseInt(m4.group(1));
+                    return Integer.parseInt(m4.group(1));
                 }
             }
 

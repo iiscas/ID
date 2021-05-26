@@ -11,8 +11,13 @@ import org.jdom2.Document;
 public class main {
 
     public static void main(String[] args) throws IOException, SaxonApiException {
-/*
-        String nome;
+
+        //int nome=Wrappers.Obtem_Idade("Diego Maradona");
+        String nome = Wrappers.Obtem_EstadoAtual("Luís Figo");
+        //String nome = Wrappers.Obtem_EstadoAtual("Cristiano Ronaldo");
+        System.out.println(nome);
+       
+       /* String nome;
         Scanner ler = new Scanner(new FileInputStream("players.txt"));
         //ArrayList<String> Clubes = new ArrayList<String>();
         //ArrayList<String> Trofeus = new ArrayList<String>();
@@ -45,6 +50,7 @@ public class main {
             // nome = Wrappers.getLinkZeroZero(linha);
             //System.out.println(nome);
             //System.out.println("\n");
+        
          }
          
              /*  nome = Wrappers.Obtem_Selecao("Cristiano Ronaldo");
@@ -75,6 +81,7 @@ public class main {
         Jogador b;
         b = Wrappers.novoJogador("Bruno Fernandes");
 */
+        /*
         Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
         //Chama a função para adicionar o livro ao XML
          //doc = ModeloXML.adicionaJogador(a, doc);
@@ -90,8 +97,10 @@ public class main {
     }
 /*
     ArrayList<String> j=new ArrayList();
-    j=PesquisasXPATH.PesquisaJogadorNome("Cristiano Ronaldo");
+    //j=PesquisasXPATH.PesquisaJogadorNome("Cristiano Ronaldo");
     System.out.println(j);
   */  
+        
+                
 }
 

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jogadores>
+<!DOCTYPE jogadores SYSTEM "jogador.dtd">
+<jogadores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="jogador.xsd">
      <jogador nome="Cristiano Ronaldo ">
           <nomeCompleto>Cristiano Ronaldo dos Santos Aveiro</nomeCompleto>
           <nacionalidade>Portugal</nacionalidade>
@@ -79,6 +80,60 @@
                <clubeAnterior>FC Porto</clubeAnterior>
                <clubeAnterior>Varzim</clubeAnterior>
                <clubeAnterior>Portimonense</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
+     <jogador nome="Diego Maradona ">
+          <nomeCompleto>Diego Armando Maradona</nomeCompleto>
+          <nacionalidade>Argentina</nacionalidade>
+          <foto>2c/Maradona-Mundial_86_con_la_copa.JPG/1200px-Maradona-Mundial_86_con_la_copa.JPG</foto>
+          <dataNascimento>30 de outubro de 1960</dataNascimento>
+          <idade>60</idade>
+          <altura>1,65 m</altura>
+          <peso>60 kg</peso>
+          <pePreferido>esquerdo</pePreferido>
+          <estadoAtual>Não está no ativo</estadoAtual>
+          <posicao>Médio Ofensivo</posicao>
+          <valorContrato>Nao disponivel</valorContrato>
+          <selecao>Argentina</selecao>
+          <clubeAtual>---</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor marcador</trofeu>
+               <trofeu>Futebolista do ano</trofeu>
+               <trofeu>Campeão do Mundo</trofeu>
+               <trofeu>Vencedor da Taça de Espanha</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>Boca Juniors</clubeAnterior>
+               <clubeAnterior>Boca Juniors</clubeAnterior>
+               <clubeAnterior>Newell's</clubeAnterior>
+               <clubeAnterior>Sevilha FC</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
+     <jogador nome="Luís Figo ">
+          <nomeCompleto>Luís Filipe Madeira Caeiro Figo</nomeCompleto>
+          <nacionalidade>Portugal</nacionalidade>
+          <foto>ed/L._Figo_2017.jpg/1200px-L._Figo_2017.jpg</foto>
+          <dataNascimento>4 de novembro de 1972</dataNascimento>
+          <idade>48</idade>
+          <altura>1,80 m</altura>
+          <peso>80 kg</peso>
+          <pePreferido>direito</pePreferido>
+          <estadoAtual>No ativo</estadoAtual>
+          <posicao>Extremo Direito</posicao>
+          <valorContrato>Nao disponivel</valorContrato>
+          <selecao>Portugal</selecao>
+          <clubeAtual>Fim de carreira</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor jogador do mundo</trofeu>
+               <trofeu>Vencedor Ballon d'Or</trofeu>
+               <trofeu>Futebolista do ano</trofeu>
+               <trofeu>Vencedor da Champions-League</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>Inter</clubeAnterior>
+               <clubeAnterior>Real Madrid</clubeAnterior>
+               <clubeAnterior>Inter</clubeAnterior>
+               <clubeAnterior>FC Barcelona</clubeAnterior>
           </clubesAnterirores>
      </jogador>
 </jogadores>
