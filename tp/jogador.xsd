@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="jogadores">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="jogador">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nomeCompleto" type="xs:string" />
+              <xs:element name="nacionalidade" type="xs:string" />
+              <xs:element name="foto" type="xs:string" />
+              <xs:element name="dataNascimento" type="xs:string" />
+              <xs:element name="idade" type="xs:unsignedByte" />
+              <xs:element name="altura" type="xs:string" />
+              <xs:element name="peso" type="xs:string" />
+              <xs:element name="pePreferido" type="xs:string" />
+              <xs:element name="estadoAtual" type="xs:string" />
+              <xs:element name="posicao" type="xs:string" />
+              <xs:element name="valorContrato" type="xs:string" />
+              <xs:element name="selecao" type="xs:string" />
+              <xs:element name="clubeAtual" type="xs:string" />
+              <xs:element name="trofeus">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="trofeu" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="clubesAnterirores">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="clubeAnterior" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="nome" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,29 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT jogadores (jogador+)>
+<!ELEMENT jogador (nomeCompleto,nacionalidade,foto,dataNascimento,idade,
+                   altura,peso,pePreferido,estadoAtual,posicao,
+                   valorContrato,selecao,clubeAtual,trofeus,
+                   clubesAnterirores)>
+<!ELEMENT nomeCompleto (#PCDATA)>
+<!ELEMENT nacionalidade (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT dataNascimento (#PCDATA)>
+<!ELEMENT idade (#PCDATA)>
+<!ELEMENT peso (#PCDATA)>
+<!ELEMENT pePreferido (#PCDATA)>
+<!ELEMENT estadoAtual (#PCDATA)>
+<!ELEMENT posicao (#PCDATA)>
+<!ELEMENT altura (#PCDATA)>
+<!ELEMENT valorContrato (#PCDATA)>
+<!ELEMENT selecao (#PCDATA)>
+<!ELEMENT clubeAtual (#PCDATA)>
+<!ELEMENT trofeus (trofeu)+>
+<!ELEMENT trofeu (#PCDATA)>
+<!ELEMENT clubesAnterirores (clubeAnterior)+>
+<!ELEMENT clubeAnterior (#PCDATA)>
+
+
+<!ATTLIST jogador nome CDATA #REQUIRED>
+<!ATTLIST jogadores xmlns:xsi CDATA #IMPLIED>
+<!ATTLIST jogadores xsi:noNamespaceSchemaLocation CDATA #IMPLIED>
