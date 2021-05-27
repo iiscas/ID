@@ -34,47 +34,47 @@ window._sp_ = {
 <meta property="og:image" content="https://tmssl.akamaized.net/images/tm_logo.png" />
 <meta property="og:description" content="" />
 <meta property="og:title" content="Resultados da pesquisa" />
-<meta property="og:url" content="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo" />
-<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
-<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo" />
+<meta property="og:url" content="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo" />
 <link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1622034422" />
 <link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1622034422" />
 <link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1622034421" />
@@ -367,7 +367,7 @@ googletag.enableServices();
 
                                             <div class="large-6 columns " id="schnellsuche-platz">
                             <form name="schnellsuche" id="schnellsuche" class="noclose" action="/schnellsuche/ergebnis/schnellsuche">
-                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="Luís_Figo" />
+                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="Andrea_Pirlo" />
                                 <input type="image" class="header-suche-abschicken" src="/images/suche-grau.svg" alt="Pesquisar" />
                             </form>
                             <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
@@ -564,14 +564,14 @@ googletag.enableServices();
 <table class="items">
 <thead>
 <tr>
-<th id="yw0_c0">Nome / Equipa</th><th class="zentriert" id="yw0_c1">Posição</th><th class="zentriert" id="yw0_c2">Clube</th><th class="zentriert" id="yw0_c3"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo&amp;sort=age">Idade</a></th><th class="zentriert" id="yw0_c4">Nac. </th><th class="rechts" id="yw0_c5"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo&amp;sort=marktwert">Valor de mercado</a></th><th class="rechts" id="yw0_c6">Empresário</th></tr>
+<th id="yw0_c0">Nome / Equipa</th><th class="zentriert" id="yw0_c1">Posição</th><th class="zentriert" id="yw0_c2">Clube</th><th class="zentriert" id="yw0_c3"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo&amp;sort=age">Idade</a></th><th class="zentriert" id="yw0_c4">Nac. </th><th class="rechts" id="yw0_c5"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo&amp;sort=marktwert">Valor de mercado</a></th><th class="rechts" id="yw0_c6">Empresário</th></tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/3446-1570440028.jpg?lm=1" title="Luís Figo" alt="Luís Figo" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Luís Figo" class="spielprofil_tooltip" id="3446" href="/luis-figo/profil/spieler/3446">Luís Figo</a></td></tr><tr><td><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></td></tr></table></td><td class="zentriert">ED</td><td class="zentriert"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td><td class="zentriert">48</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
+<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/5817-1454934952.jpg?lm=1" title="Andrea Pirlo" alt="Andrea Pirlo" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Andrea Pirlo" class="spielprofil_tooltip" id="5817" href="/andrea-pirlo/profil/spieler/5817">Andrea Pirlo</a></td></tr><tr><td><a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a></td></tr></table></td><td class="zentriert">MDe</td><td class="zentriert"><a title="Fim de carreiraFim de carreira" class="" id="123" href="/karriereende/startseite/verein/123"><img src="https://tmssl.akamaized.net/images/wappen/tiny/123.png?lm=1456997286" title="Fim de carreira" alt="Fim de carreira" class="tiny_wappen" /></a></td><td class="zentriert">42</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"><a href="/tmp-soccer-srl/beraterfirma/berater/2573">TMP SOCCER srl </a></td></tr>
 </tbody>
 </table>
-<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo"><span>3446</span></div>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo"><span>5817</span></div>
 </div>                </div>
                 <div class="table-footer">
                     <a href="/detailsuche/spielerdetail/suche">
@@ -594,37 +594,15 @@ googletag.enableServices();
 </thead>
 <tbody>
 <tr class="odd">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/13636-1603961607.jpg?lm=1" title="Luís Figo" alt="Luís Figo" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Luís Figo" id="0" href="/luis-figo/profil/trainer/13636">Luís Figo</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="30827" href="/uefa-exekutivkomitee/startseite/verein/30827">UEFA-Comissão Executiva</a></td></tr></table></td><td class="zentriert"><a class="vereinprofil_tooltip" id="30827" href="/uefa-exekutivkomitee/startseite/verein/30827"><img src="https://tmssl.akamaized.net/images/wappen/tiny/30827.png?lm=1403628065" title="&nbsp;" alt="UEFA-Comissão Executiva" class="tiny_wappen" /></a></td><td class="zentriert">48</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts">Consultor de gestão</td><td class="rechts">-</td></tr>
+<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/62049-1593495462.jpg?lm=1" title="Andrea Pirlo" alt="Andrea Pirlo" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Andrea Pirlo" id="0" href="/andrea-pirlo/profil/trainer/62049">Andrea Pirlo</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506">Juventus FC</a></td></tr></table></td><td class="zentriert"><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506"><img src="https://tmssl.akamaized.net/images/wappen/tiny/506.png?lm=1594291454" title="&nbsp;" alt="Juventus FC" class="tiny_wappen" /></a></td><td class="zentriert">42</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" /></td><td class="rechts">Treinador</td><td class="rechts">30/06/2022</td></tr>
 </tbody>
 </table>
-<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo"><span>13636</span></div>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo"><span>62049</span></div>
 </div>                </div>
             </div>
         </div>
     </div>
-	    <div class="row">
-        <div class="large-12 columns">
-            <div class="box">
-                <div class="table-header"> Resultados da pesquisa para Clubes                    - 1 Resultados</div>
-                <div class="responsive-table">
-					<div id="yw4" class="grid-view">
-<div class="summary"></div>
-<table class="items">
-<thead>
-<tr>
-<th id="yw4_c0">&nbsp;</th><th id="yw4_c1"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo&amp;sort=verein">Clube</a></th><th class="zentriert" id="yw4_c2">País</th><th class="zentriert" id="yw4_c3">Plantel</th><th class="zentriert" id="yw4_c4"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo&amp;sort=gesamtmarktwert">Valor de mercado total</a></th><th class="zentriert" id="yw4_c5">Transferências</th><th class="zentriert" id="yw4_c6">Estádio</th><th class="zentriert" id="yw4_c7">Fórum</th></tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td class="zentriert suche-vereinswappen"><img src="https://tmssl.akamaized.net/images/wappen/small/default.png?lm=1457423031" title="&nbsp;" alt="Luis Figo Football Academy" class="" /></td><td><table class="inline-table"><tr><td class="hauptlink"><a class="vereinprofil_tooltip" id="56710" href="/luis-figo-football-academy/startseite/verein/56710">Luis Figo Football Academy</a></td></tr><tr><td></td></tr></table></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/34.png?lm=1520611569" title="China" alt="China" class="flaggenrahmen" /></td><td class="zentriert"><a title="Plantel Luis Figo Football Academy" href="/luis-figo-football-academy/kader/verein/56710">0</a></td><td class="rechts">-</td><td class="zentriert"><a href="/luis-figo-football-academy/transfers/verein/56710" title="Transferências Luis Figo Football Academy"><span class="icons_sprite icon-transfer-grey">&nbsp;</span></a></td><td class="zentriert"><a href="/luis-figo-football-academy/stadion/verein/56710" title="Estádio Luis Figo Football Academy"><span class="icons_sprite icon-stadion-grey">&nbsp;</span></a></td><td class="zentriert"></td></tr>
-</tbody>
-</table>
-<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Lu%C3%ADs_Figo"><span>56710</span></div>
-</div>                </div>
-            </div>
-        </div>
-    </div>
-    <style>
+	    <style>
         <!--
         .icon-transfer-grey {
             background-position: -375px -26px;
@@ -727,8 +705,8 @@ var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){v
 /*<![CDATA[*/
 	function initCss() {
 	}
-	var aktuelleUrl = 'https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Luís_Figo'
-	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fschnellsuche%2Fergebnis%2Fschnellsuche%3Fquery%3DLu%C3%ADs_Figo';
+	var aktuelleUrl = 'https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Andrea_Pirlo'
+	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fschnellsuche%2Fergebnis%2Fschnellsuche%3Fquery%3DAndrea_Pirlo';
 	var notificationUrl='/notifications/liste';
 	var privateNachrichtenUrl = '/privateNachrichten/liste'
 	var favoritenUrl = '/favoriten/userFavoriten'
@@ -859,7 +837,6 @@ iom.c(iam_data,1);
 jQuery(function($) {
 jQuery('#yw0').yiiGridView({'ajaxUpdate':['yw0'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'Spieler_page'});
 jQuery('#yw2').yiiGridView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'Trainer_page'});
-jQuery('#yw4').yiiGridView({'ajaxUpdate':['yw4'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'Verein_page'});
 
           $(".spielprofil_tooltip").tooltipster({'position':'right','arrowColor':'white','delay':'100','speed':0,'contentAsHTML':true,'interactive':true,'content':'\x0A\x09\x09\x09\x3Cimg\x20src\x3D\x22https\x3A\x2F\x2Ftmssl.akamaized.net\x2F\x2Fimages\x2Fspinner.gif\x22\x20style\x3D\x22vertical\x2Dalign\x3A\x20middle\x3B\x22\x20\x2F\x3E\x0A\x09\x09','functionBefore':function(origin, continueTooltip) { continueTooltip(); id_array = origin.context.id.split("/"); var spieler_id = id_array[0]; $.post( "/spieler/_profilTooltip", { spieler_id : spieler_id }, function(data) { if(data) { origin.tooltipster("update", data); } }); }});
           

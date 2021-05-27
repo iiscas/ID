@@ -6,6 +6,7 @@
 package main;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
@@ -85,10 +86,6 @@ public class Interface extends javax.swing.JFrame {
         jLabel15 = new javax.swing.JLabel();
         jTextField14 = new javax.swing.JTextField();
         jButton4 = new javax.swing.JButton();
-        XPATH_situacao = new javax.swing.JDialog();
-        jLabel16 = new javax.swing.JLabel();
-        jTextField15 = new javax.swing.JTextField();
-        jButton5 = new javax.swing.JButton();
         XPATH_intervaloIdade = new javax.swing.JDialog();
         jLabel18 = new javax.swing.JLabel();
         jLabel19 = new javax.swing.JLabel();
@@ -583,48 +580,6 @@ public class Interface extends javax.swing.JFrame {
                 .addGap(32, 32, 32))
         );
 
-        jLabel16.setText("Palavra de pesquisa:");
-
-        jTextField15.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField15ActionPerformed(evt);
-            }
-        });
-
-        jButton5.setText("OK");
-        jButton5.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton5ActionPerformed(evt);
-            }
-        });
-
-        javax.swing.GroupLayout XPATH_situacaoLayout = new javax.swing.GroupLayout(XPATH_situacao.getContentPane());
-        XPATH_situacao.getContentPane().setLayout(XPATH_situacaoLayout);
-        XPATH_situacaoLayout.setHorizontalGroup(
-            XPATH_situacaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(XPATH_situacaoLayout.createSequentialGroup()
-                .addGap(19, 19, 19)
-                .addComponent(jLabel16)
-                .addGap(18, 18, 18)
-                .addGroup(XPATH_situacaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jTextField15, javax.swing.GroupLayout.PREFERRED_SIZE, 221, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGroup(XPATH_situacaoLayout.createSequentialGroup()
-                        .addGap(27, 27, 27)
-                        .addComponent(jButton5)))
-                .addContainerGap(42, Short.MAX_VALUE))
-        );
-        XPATH_situacaoLayout.setVerticalGroup(
-            XPATH_situacaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(XPATH_situacaoLayout.createSequentialGroup()
-                .addGap(67, 67, 67)
-                .addGroup(XPATH_situacaoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel16)
-                    .addComponent(jTextField15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 38, Short.MAX_VALUE)
-                .addComponent(jButton5)
-                .addGap(32, 32, 32))
-        );
-
         jLabel18.setText("Idade minima");
 
         jLabel19.setText("Idade máxima");
@@ -728,16 +683,16 @@ public class Interface extends javax.swing.JFrame {
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(53, 53, 53)
-                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 625, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 614, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(55, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jLabel1)
                 .addGap(139, 139, 139))
+            .addGroup(jPanel1Layout.createSequentialGroup()
+                .addGap(53, 53, 53)
+                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 715, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 614, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -747,7 +702,7 @@ public class Interface extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 412, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 524, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
@@ -915,13 +870,13 @@ public class Interface extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(28, Short.MAX_VALUE))
+                .addContainerGap(52, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 63, Short.MAX_VALUE))
+                .addGap(0, 35, Short.MAX_VALUE))
         );
 
         pack();
@@ -1217,11 +1172,12 @@ public class Interface extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         try {
-            // TODO add your handling code here:
-            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
-                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            
+            String xp = "//jogador[@nome ='" +jTextField11.getText() + "']//@nome";
+            
             System.out.println(xp);
-            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            
+            XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
             pesquisarNome.setVisible(false);
             if (res == null) {
@@ -1242,18 +1198,21 @@ public class Interface extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
        try {
-            // TODO add your handling code here:
-            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
-                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            
+            String xp = "//jogador[contains(clubeAtual,'"+jTextField12.getText()+"')]//@nome";
             System.out.println(xp);
-            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            
+            XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
-            pesquisarNome.setVisible(false);
+            //ArrayList<String> clubes = new ArrayList();
+            
+            pesquisarClube.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
                 output.setText("Sem resultados");
             } else {
+                //clubes.add(s);
                 output.setText(s);
             }
         } catch (SaxonApiException ex) {
@@ -1267,18 +1226,20 @@ public class Interface extends javax.swing.JFrame {
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
       try {
-            // TODO add your handling code here:
-            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
-                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+            String xp = "//jogador[contains(nacionalidade,'"+jTextField13.getText()+"')]//@nome";
             System.out.println(xp);
-            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            
+            XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
-            pesquisarNome.setVisible(false);
+            //ArrayList<String> clubes = new ArrayList();
+            
+            pesquisarNacion.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
                 output.setText("Sem resultados");
             } else {
+                //clubes.add(s);
                 output.setText(s);
             }
         } catch (SaxonApiException ex) {
@@ -1292,18 +1253,20 @@ public class Interface extends javax.swing.JFrame {
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
      try {
-            // TODO add your handling code here:
-            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
-                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+           String xp = "//jogador[contains(posicao,'"+jTextField14.getText()+"')]//@nome";
             System.out.println(xp);
-            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            
+            XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
-            pesquisarNome.setVisible(false);
+            //ArrayList<String> clubes = new ArrayList();
+            
+            pesquisarPos.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
                 output.setText("Sem resultados");
             } else {
+                //clubes.add(s);
                 output.setText(s);
             }
         } catch (SaxonApiException ex) {
@@ -1311,49 +1274,26 @@ public class Interface extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_jButton4ActionPerformed
 
-    private void jTextField15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField15ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField15ActionPerformed
-
-    private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
-      try {
-            // TODO add your handling code here:
-            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
-                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
-            System.out.println(xp);
-            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
-            String s = XPathFunctions.listaResultado(res);
-            pesquisarNome.setVisible(false);
-            if (res == null) {
-                output.setText("Ficheiro XML não existe");
-            } else if (res.size() == 0) {
-                output.setText("Sem resultados");
-            } else {
-                output.setText(s);
-            }
-        } catch (SaxonApiException ex) {
-            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
-        }
-    }//GEN-LAST:event_jButton5ActionPerformed
-
     private void jTextField16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField16ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField16ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
-       try {
-            // TODO add your handling code here:
-            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
-                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+      try {
+           String xp = "//jogador[contains(selecao,'"+jTextField16.getText()+"')]//@nome";
             System.out.println(xp);
-            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            
+            XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
-            pesquisarNome.setVisible(false);
+            //ArrayList<String> clubes = new ArrayList();
+            
+            pesquisarSelecao.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
                 output.setText("Sem resultados");
             } else {
+                //clubes.add(s);
                 output.setText(s);
             }
         } catch (SaxonApiException ex) {
@@ -1363,18 +1303,20 @@ public class Interface extends javax.swing.JFrame {
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         try {
-            // TODO add your handling code here:
-            String xp = "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/../titulo/text() | "
-                    + "//livro/preco[@store='bertrand' and . >=" + jTextField5.getText() + " and . <= " + jTextField6.getText() + "]/text()";
+           String xp = "//jogador[(idade >= "+jTextField17.getText()+" and  idade <= "+jTextField18.getText()+")]//@nome";
             System.out.println(xp);
-            XdmValue res = XPathFunctions.executaXpath(xp, "livro.xml");
+            
+            XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
-            pesquisarNome.setVisible(false);
+            //ArrayList<String> clubes = new ArrayList();
+            
+            pesquisarIntervaloIdade.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
                 output.setText("Sem resultados");
             } else {
+                //clubes.add(s);
                 output.setText(s);
             }
         } catch (SaxonApiException ex) {
@@ -1387,6 +1329,7 @@ public class Interface extends javax.swing.JFrame {
         XPATH_clube.setLocation(200, 200);
         XPATH_clube.setTitle("XPATH: pesquisar por clube");
         XPATH_clube.setVisible(true);
+        
     }//GEN-LAST:event_pesquisarClubeActionPerformed
 
     private void pesquisarNacionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarNacionActionPerformed
@@ -1397,10 +1340,26 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_pesquisarNacionActionPerformed
 
     private void pesquisarSituacaoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarSituacaoActionPerformed
-        XPATH_situacao.setSize(400, 250);
-        XPATH_situacao.setLocation(200, 200);
-        XPATH_situacao.setTitle("XPATH: pesquisar por situacao");
-        XPATH_situacao.setVisible(true);
+       try {
+            
+            String xp = "//jogador[not(contains(estadoAtual,'No ativo'))]//@nome";
+            //System.out.println(xp);
+            
+            XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
+            String s = XPathFunctions.listaResultado(res);
+            //ArrayList<String> clubes = new ArrayList();
+            
+            if (res == null) {
+                output.setText("Ficheiro XML não existe");
+            } else if (res.size() == 0) {
+                output.setText("Sem resultados");
+            } else {
+                //clubes.add(s);
+                output.setText(s);
+            }
+        } catch (SaxonApiException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_pesquisarSituacaoActionPerformed
 
     private void pesquisarSelecaoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarSelecaoActionPerformed
@@ -1455,7 +1414,6 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JDialog XPATH_nome;
     private javax.swing.JDialog XPATH_posicao;
     private javax.swing.JDialog XPATH_selecao;
-    private javax.swing.JDialog XPATH_situacao;
     private javax.swing.JButton addJogButton;
     private javax.swing.JDialog addJogador;
     private javax.swing.JMenuItem adicionarJog;
@@ -1470,7 +1428,6 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
     private javax.swing.JButton jButton4;
-    private javax.swing.JButton jButton5;
     private javax.swing.JButton jButton6;
     private javax.swing.JButton jButton7;
     private javax.swing.JLabel jLabel1;
@@ -1480,7 +1437,6 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel13;
     private javax.swing.JLabel jLabel14;
     private javax.swing.JLabel jLabel15;
-    private javax.swing.JLabel jLabel16;
     private javax.swing.JLabel jLabel17;
     private javax.swing.JLabel jLabel18;
     private javax.swing.JLabel jLabel19;
@@ -1502,7 +1458,6 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField12;
     private javax.swing.JTextField jTextField13;
     private javax.swing.JTextField jTextField14;
-    private javax.swing.JTextField jTextField15;
     private javax.swing.JTextField jTextField16;
     private javax.swing.JTextField jTextField17;
     private javax.swing.JTextField jTextField18;

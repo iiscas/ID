@@ -13,10 +13,10 @@ public class main {
     public static void main(String[] args) throws IOException, SaxonApiException {
 
         //int nome=Wrappers.Obtem_Idade("Diego Maradona");
-        String nome = Wrappers.Obtem_EstadoAtual("Luís Figo");
+        //String nome = Wrappers.Obtem_EstadoAtual("Luís Figo");
         //String nome = Wrappers.Obtem_EstadoAtual("Cristiano Ronaldo");
-        System.out.println(nome);
-       
+        //System.out.println(nome);
+       Interface.main(args);
        /* String nome;
         Scanner ler = new Scanner(new FileInputStream("players.txt"));
         //ArrayList<String> Clubes = new ArrayList<String>();

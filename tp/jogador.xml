@@ -136,4 +136,58 @@
                <clubeAnterior>FC Barcelona</clubeAnterior>
           </clubesAnterirores>
      </jogador>
+     <jogador nome="Paulo Dybala ">
+          <nomeCompleto>Paulo Exequiel Dybala</nomeCompleto>
+          <nacionalidade>Argentina</nacionalidade>
+          <foto>b2/2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg/1200px-2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg</foto>
+          <dataNascimento>15 de novembro de 1993</dataNascimento>
+          <idade>27</idade>
+          <altura>1,77 m</altura>
+          <peso>69 kg</peso>
+          <pePreferido>esquerdo</pePreferido>
+          <estadoAtual>No ativo</estadoAtual>
+          <posicao>Segundo Avançado</posicao>
+          <valorContrato>60,00 M €</valorContrato>
+          <selecao>Argentina</selecao>
+          <clubeAtual>Juventus FC</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor marcador</trofeu>
+               <trofeu>Jogador da época</trofeu>
+               <trofeu>Campeão de Itália</trofeu>
+               <trofeu>Vencedor da Taça de Itália</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>US Palermo</clubeAnterior>
+               <clubeAnterior>Juventus</clubeAnterior>
+               <clubeAnterior>Instituto AC</clubeAnterior>
+               <clubeAnterior>US Palermo</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
+     <jogador nome="Andrea Pirlo ">
+          <nomeCompleto>Andrea Pirlo</nomeCompleto>
+          <nacionalidade>Itália</nacionalidade>
+          <foto>APirlo.jpg</foto>
+          <dataNascimento>19 de maio de 1979</dataNascimento>
+          <idade>42</idade>
+          <altura>1,77 m</altura>
+          <peso>70 kg</peso>
+          <pePreferido>ambos</pePreferido>
+          <estadoAtual>Retirado das competições oficiais</estadoAtual>
+          <posicao>Médio Defensivo</posicao>
+          <valorContrato>Nao disponivel</valorContrato>
+          <selecao>Itália</selecao>
+          <clubeAtual>Fim de carreira</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor marcador</trofeu>
+               <trofeu>Futebolista do ano</trofeu>
+               <trofeu>Campeão do Mundo</trofeu>
+               <trofeu>Vencedor da Champions-League</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>NYCFC</clubeAnterior>
+               <clubeAnterior>Juventus</clubeAnterior>
+               <clubeAnterior>NYCFC</clubeAnterior>
+               <clubeAnterior>AC Milan</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
 </jogadores>
