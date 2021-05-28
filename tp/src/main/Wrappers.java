@@ -66,8 +66,8 @@ public class Wrappers {
     public static String Obtem_Alcunha(String pesquisa) throws FileNotFoundException, IOException {
 
         HttpRequestFunctions.httpRequest1("https://pt.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
-
-        String er = "<title>([A-Za-zÀ-ÿ\\s]+)";
+        String alcunha;
+        String er = "<title>([A-Za-zÀ-ÿ]+)(\\s[A-Za-zÀ-ÿ]+)";
 
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
@@ -80,7 +80,8 @@ public class Wrappers {
 
             while (m.find()) {
                 ler.close();
-                return m.group(1); //devolve cristiano sem title antes, se for m.group() devolve o title tb
+                alcunha = m.group(1) + m.group(2);
+                return alcunha; //devolve cristiano sem title antes, se for m.group() devolve o title tb
             }
 
         }
@@ -133,9 +134,11 @@ public class Wrappers {
 
     public static String Obtem_Fotografia(String pesquisa) throws IOException {
 
-        HttpRequestFunctions.httpRequest1("https://pt.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
-        String foto="Nao disponivel";
-        String er = "<meta property=\"og:image\" content=\"https://upload.wikimedia.org/wikipedia/commons/[a-zA-Z0-9]+[/]+[a-zA-Z0-9]+[/]([a-zA-Z0-9\\S]+)\"/>";
+        String link = getLinkTransfer(pesquisa);
+
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+        String foto = "Nao disponivel";
+        String er = "<meta property=\"og:image\" content=\"([^\"]+)[^>]+>";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
 
@@ -410,11 +413,10 @@ public class Wrappers {
         String estado = "Não está no ativo";
         HttpRequestFunctions.httpRequest2(link, "", "jogadores.txt");
 
-        String er ="<span>Situação</span>([^<0-9-]+)[^>]+>";
-
+        String er = "<span>Situação</span>([^<0-9-]+)[^>]+>";
 
         Pattern p = Pattern.compile(er);
-        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"),"windows-1252");
+        Scanner ler = new Scanner(new FileInputStream("jogadores.txt"), "windows-1252");
 
         Matcher m;
 
@@ -422,7 +424,6 @@ public class Wrappers {
 
             String linha = ler.nextLine();
             m = p.matcher(linha);
-            
 
             if (m.find()) {
                 ler.close();
@@ -435,7 +436,6 @@ public class Wrappers {
         ler.close();
         return null;
     }
-    
 
     public static String Obtem_Empresario(String pesquisa) throws FileNotFoundException, IOException {
 
@@ -603,7 +603,7 @@ public class Wrappers {
 
         HttpRequestFunctions.httpRequest1("https://pt.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
-        String er = "<td[^>]*><a[^N]+Nascimentos\\\"[^\\\"]+\\\"([^\\\"]+)\\\"[^<]+</a>([\\sde]+)[^>]+>([0-9]+)</a>";
+        String er = "<td[^>]*><a[^N]+Nascimentos\"[^\"]+\"([^\"]+)\"[^<]+</a>([\\sde]+)[^>]+>([0-9]+)</a>";
 
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
@@ -732,7 +732,7 @@ public class Wrappers {
 
         }
         ler.close();
-         
+
         return peso;
 
     }

@@ -81,12 +81,12 @@ public class main {
         Jogador b;
         b = Wrappers.novoJogador("Bruno Fernandes");
 */
-        /*
-        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+        
+       /* Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
         //Chama a função para adicionar o livro ao XML
          //doc = ModeloXML.adicionaJogador(a, doc);
          //doc = ModeloXML.adicionaJogador(b, doc);
-        doc = ModeloXML.removeJogadorNome("Luís Figo", doc);
+        doc = ModeloXML.removeJogadorNome("Cristiano Ronaldo", doc);
          //doc = ModeloXML.alteraIdade(a.alcunha, 36,doc);
          //doc = ModeloXML.alteraNacionalidade(a.alcunha,"Espanha",doc);
           //doc = ModeloXML.alteraClubeAtual(a.alcunha,"FC PORTO",doc);
@@ -94,7 +94,7 @@ public class main {
         //grava o ficheiro XML em disco
         if(doc!=null)
             XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
-    }
+    }*/
 /*
     ArrayList<String> j=new ArrayList();
     //j=PesquisasXPATH.PesquisaJogadorNome("Cristiano Ronaldo");

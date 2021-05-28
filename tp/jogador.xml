@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE jogadores SYSTEM "jogador.dtd">
 <jogadores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="jogador.xsd">
-     <jogador nome="Cristiano Ronaldo ">
+     <jogador nome="Cristiano Ronaldo">
           <nomeCompleto>Cristiano Ronaldo dos Santos Aveiro</nomeCompleto>
           <nacionalidade>Portugal</nacionalidade>
-          <foto>Cristiano_Ronaldo_Signature.png</foto>
+          <foto>https://img.a.transfermarkt.technology/portrait/big/8198-1568120625.jpg?lm=1</foto>
           <dataNascimento>5 de fevereiro de 1985</dataNascimento>
           <idade>36</idade>
           <altura>1,85 m</altura>
-          <peso>nenhum</peso>
+          <peso>80 kg</peso>
           <pePreferido>direito</pePreferido>
-          <estadoAtual>nenhum</estadoAtual>
+          <estadoAtual>No ativo</estadoAtual>
           <posicao>Ponta de Lança</posicao>
           <valorContrato>50,00 M €</valorContrato>
           <selecao>Portugal</selecao>
@@ -28,70 +28,16 @@
                <clubeAnterior>Real Madrid</clubeAnterior>
           </clubesAnterirores>
      </jogador>
-     <jogador nome="Bruno Fernandes ">
-          <nomeCompleto>Bruno Miguel Borges Fernandes</nomeCompleto>
-          <nacionalidade>Portugal</nacionalidade>
-          <foto>Bruno_Fernandes_Portugal%2C_2018.jpg</foto>
-          <dataNascimento>8 de setembro de 1994</dataNascimento>
-          <idade>26</idade>
-          <altura>1,79 m</altura>
-          <peso>nenhum</peso>
-          <pePreferido>direito</pePreferido>
-          <estadoAtual>nenhum</estadoAtual>
-          <posicao>Médio Ofensivo</posicao>
-          <valorContrato>90,00 M €</valorContrato>
-          <selecao>Portugal</selecao>
-          <clubeAtual>Manchester United FC</clubeAtual>
-          <trofeus>
-               <trofeu>Melhor marcador</trofeu>
-               <trofeu>Jogador da época</trofeu>
-               <trofeu>Futebolista do ano</trofeu>
-               <trofeu>Vencedor da Taça de Portugal</trofeu>
-          </trofeus>
-          <clubesAnterirores>
-               <clubeAnterior>Sporting CP</clubeAnterior>
-               <clubeAnterior>Man Utd.</clubeAnterior>
-               <clubeAnterior>UC Sampdoria</clubeAnterior>
-               <clubeAnterior>Sporting CP</clubeAnterior>
-          </clubesAnterirores>
-     </jogador>
-     <jogador nome="Wilson Manafá ">
-          <nomeCompleto>Wilson Migueis Manafá Jancó</nomeCompleto>
-          <nacionalidade>Guiné Bissau</nacionalidade>
-          <foto />
-          <dataNascimento>23 de julho de 1994</dataNascimento>
-          <idade>26</idade>
-          <altura>1,74 m</altura>
-          <peso>73 kg</peso>
-          <pePreferido>direito</pePreferido>
-          <estadoAtual>nenhum</estadoAtual>
-          <posicao>Lateral Direito</posicao>
-          <valorContrato>7,00 M €</valorContrato>
-          <selecao>Não convocado</selecao>
-          <clubeAtual>Futebol Clube do Porto</clubeAtual>
-          <trofeus>
-               <trofeu>Campeão de Portugal</trofeu>
-               <trofeu>Vencedor da Taça de Portugal</trofeu>
-               <trofeu>Vencedor da Supertaça de Portugal</trofeu>
-               <trofeu>Campeão da Segunda Liga</trofeu>
-          </trofeus>
-          <clubesAnterirores>
-               <clubeAnterior>Portimonense</clubeAnterior>
-               <clubeAnterior>FC Porto</clubeAnterior>
-               <clubeAnterior>Varzim</clubeAnterior>
-               <clubeAnterior>Portimonense</clubeAnterior>
-          </clubesAnterirores>
-     </jogador>
-     <jogador nome="Diego Maradona ">
+     <jogador nome="Diego Maradona">
           <nomeCompleto>Diego Armando Maradona</nomeCompleto>
           <nacionalidade>Argentina</nacionalidade>
-          <foto>2c/Maradona-Mundial_86_con_la_copa.JPG/1200px-Maradona-Mundial_86_con_la_copa.JPG</foto>
+          <foto>https://img.a.transfermarkt.technology/portrait/big/8024-1606322777.png?lm=1</foto>
           <dataNascimento>30 de outubro de 1960</dataNascimento>
           <idade>60</idade>
           <altura>1,65 m</altura>
           <peso>60 kg</peso>
           <pePreferido>esquerdo</pePreferido>
-          <estadoAtual>Não está no ativo</estadoAtual>
+          <estadoAtual>Falecido</estadoAtual>
           <posicao>Médio Ofensivo</posicao>
           <valorContrato>Nao disponivel</valorContrato>
           <selecao>Argentina</selecao>
@@ -109,37 +55,10 @@
                <clubeAnterior>Sevilha FC</clubeAnterior>
           </clubesAnterirores>
      </jogador>
-     <jogador nome="Luís Figo ">
-          <nomeCompleto>Luís Filipe Madeira Caeiro Figo</nomeCompleto>
-          <nacionalidade>Portugal</nacionalidade>
-          <foto>ed/L._Figo_2017.jpg/1200px-L._Figo_2017.jpg</foto>
-          <dataNascimento>4 de novembro de 1972</dataNascimento>
-          <idade>48</idade>
-          <altura>1,80 m</altura>
-          <peso>80 kg</peso>
-          <pePreferido>direito</pePreferido>
-          <estadoAtual>No ativo</estadoAtual>
-          <posicao>Extremo Direito</posicao>
-          <valorContrato>Nao disponivel</valorContrato>
-          <selecao>Portugal</selecao>
-          <clubeAtual>Fim de carreira</clubeAtual>
-          <trofeus>
-               <trofeu>Melhor jogador do mundo</trofeu>
-               <trofeu>Vencedor Ballon d'Or</trofeu>
-               <trofeu>Futebolista do ano</trofeu>
-               <trofeu>Vencedor da Champions-League</trofeu>
-          </trofeus>
-          <clubesAnterirores>
-               <clubeAnterior>Inter</clubeAnterior>
-               <clubeAnterior>Real Madrid</clubeAnterior>
-               <clubeAnterior>Inter</clubeAnterior>
-               <clubeAnterior>FC Barcelona</clubeAnterior>
-          </clubesAnterirores>
-     </jogador>
-     <jogador nome="Paulo Dybala ">
+     <jogador nome="Paulo Dybala">
           <nomeCompleto>Paulo Exequiel Dybala</nomeCompleto>
           <nacionalidade>Argentina</nacionalidade>
-          <foto>b2/2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg/1200px-2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg</foto>
+          <foto>https://img.a.transfermarkt.technology/portrait/big/206050-1541076083.jpg?lm=1</foto>
           <dataNascimento>15 de novembro de 1993</dataNascimento>
           <idade>27</idade>
           <altura>1,77 m</altura>
@@ -161,33 +80,6 @@
                <clubeAnterior>Juventus</clubeAnterior>
                <clubeAnterior>Instituto AC</clubeAnterior>
                <clubeAnterior>US Palermo</clubeAnterior>
-          </clubesAnterirores>
-     </jogador>
-     <jogador nome="Andrea Pirlo ">
-          <nomeCompleto>Andrea Pirlo</nomeCompleto>
-          <nacionalidade>Itália</nacionalidade>
-          <foto>APirlo.jpg</foto>
-          <dataNascimento>19 de maio de 1979</dataNascimento>
-          <idade>42</idade>
-          <altura>1,77 m</altura>
-          <peso>70 kg</peso>
-          <pePreferido>ambos</pePreferido>
-          <estadoAtual>Retirado das competições oficiais</estadoAtual>
-          <posicao>Médio Defensivo</posicao>
-          <valorContrato>Nao disponivel</valorContrato>
-          <selecao>Itália</selecao>
-          <clubeAtual>Fim de carreira</clubeAtual>
-          <trofeus>
-               <trofeu>Melhor marcador</trofeu>
-               <trofeu>Futebolista do ano</trofeu>
-               <trofeu>Campeão do Mundo</trofeu>
-               <trofeu>Vencedor da Champions-League</trofeu>
-          </trofeus>
-          <clubesAnterirores>
-               <clubeAnterior>NYCFC</clubeAnterior>
-               <clubeAnterior>Juventus</clubeAnterior>
-               <clubeAnterior>NYCFC</clubeAnterior>
-               <clubeAnterior>AC Milan</clubeAnterior>
           </clubesAnterirores>
      </jogador>
 </jogadores>

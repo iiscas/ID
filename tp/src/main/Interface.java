@@ -1173,13 +1173,15 @@ public class Interface extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         try {
             
-            String xp = "//jogador[@nome ='" +jTextField11.getText() + "']//@nome";
+            String xp = "//jogador[@nome ='" +jTextField11.getText()+ "' and not(self::trofeus) and not(self::clubes)]/*"; // esta a devolver trofeus e clubes
             
             System.out.println(xp);
             
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
-            String s = XPathFunctions.listaResultado(res);
-            pesquisarNome.setVisible(false);
+            String s = XPathFunctions.listaResultadoNome(res);
+            
+            XPATH_nome.setVisible(false);
+            
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
@@ -1206,7 +1208,7 @@ public class Interface extends javax.swing.JFrame {
             String s = XPathFunctions.listaResultado(res);
             //ArrayList<String> clubes = new ArrayList();
             
-            pesquisarClube.setVisible(false);
+           XPATH_clube.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
@@ -1231,9 +1233,9 @@ public class Interface extends javax.swing.JFrame {
             
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
-            //ArrayList<String> clubes = new ArrayList();
             
-            pesquisarNacion.setVisible(false);
+            
+            XPATH_nacionalidade.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
@@ -1260,7 +1262,7 @@ public class Interface extends javax.swing.JFrame {
             String s = XPathFunctions.listaResultado(res);
             //ArrayList<String> clubes = new ArrayList();
             
-            pesquisarPos.setVisible(false);
+           XPATH_posicao.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
@@ -1287,7 +1289,7 @@ public class Interface extends javax.swing.JFrame {
             String s = XPathFunctions.listaResultado(res);
             //ArrayList<String> clubes = new ArrayList();
             
-            pesquisarSelecao.setVisible(false);
+            XPATH_selecao.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
@@ -1310,7 +1312,7 @@ public class Interface extends javax.swing.JFrame {
             String s = XPathFunctions.listaResultado(res);
             //ArrayList<String> clubes = new ArrayList();
             
-            pesquisarIntervaloIdade.setVisible(false);
+            XPATH_intervaloIdade.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {

@@ -40,12 +40,27 @@ public class XPathFunctions {
         return resultado;
     }
 
+    static String listaResultadoNome(XdmValue lista) {
+        StringBuilder texto = new StringBuilder();
+        //System.out.println("RESULTADO DA PESQUISA XPATH:");
+       
+        for(int i=0;i<13;i++){ 
+            XdmItem item=lista.itemAt(i);
+            System.out.println(item.getStringValue());
+            texto = texto.append(item.getStringValue()).append("\n\n");
+        }
+        return texto.toString();
+    }
     static String listaResultado(XdmValue lista) {
         StringBuilder texto = new StringBuilder();
-        System.out.println("RESULTADO DA PESQUISA XPATH:");
+        //System.out.println("RESULTADO DA PESQUISA XPATH:");
+       
+        
         for (XdmItem item : lista) {
-            texto = texto.append(item.getStringValue()).append("\n");
-        }
+         //   System.out.println(item.getStringValue());
+           texto = texto.append(item.getStringValue()).append("\n\n");
+            
+       }
         return texto.toString();
     }
 

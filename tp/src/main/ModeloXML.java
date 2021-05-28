@@ -113,9 +113,11 @@ public class ModeloXML {
         boolean found = false;
         for (int i = 0; i < Jogadores.size(); i++) {
 
-            Element Jogador = (Element) Jogadores.get(i); 
-
-            if (Jogador.getAttributeValue("nome").equals(nome)) {
+            Element Jogador = (Element) Jogadores.get(i);
+            //System.out.println("Nome a procurar "+ nome);
+            //System.out.println(Jogador.getAttributeValue("nome"));
+            
+            if (Jogador.getAttributeValue("nome").equals(nome)){
                 Jogador.getParent().removeContent(Jogador);
                 System.out.println("Jogador" + nome + " foi removido com sucesso!");
                 found = true;
@@ -174,7 +176,7 @@ public class ModeloXML {
 
             Element Jogador = (Element) Jogadores.get(i); //obtem livro i da Lista
 
-            if (Jogador.getAttributeValue("nome").equals(nome)) {
+           if (Jogador.getAttributeValue("nome").equals(nome)){
                 System.out.println("Jogador " + nome + " tem nacionalidade: " + Jogador.getChildText("nacionalidade"));
                 Jogador.getChild("nacionalidade").setText(novaNacionalidade);
                 found = true;
