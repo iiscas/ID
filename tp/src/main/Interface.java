@@ -10,9 +10,12 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.xpath.XPathExpressionException;
 import net.sf.saxon.s9api.SaxonApiException;
 import net.sf.saxon.s9api.XdmValue;
 import org.jdom2.Document;
+import org.xml.sax.SAXException;
 
 /**
  *
@@ -887,17 +890,18 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_geralActionPerformed
 
     private void validarDTDActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_validarDTDActionPerformed
-      try {
+        try {
             // TODO add your handling code here:
             int res = JDOMFunctions_Validar.validarDocumentoDTD("jogador.xml", "jogador.dtd");
-            if(res==-1)
+            if (res == -1) {
                 JOptionPane.showMessageDialog(this,
                         "Ficheiro inválido por DTD",
                         "Informação Validação", JOptionPane.ERROR_MESSAGE);
-            else
+            } else {
                 JOptionPane.showMessageDialog(this,
                         "Ficheiro válido por DTD",
                         "Informação Validação", JOptionPane.INFORMATION_MESSAGE);
+            }
         } catch (IOException ex) {
             Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -973,13 +977,13 @@ public class Interface extends javax.swing.JFrame {
 
     private void addJogButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addJogButtonActionPerformed
         try {
-           
+
             Jogador x = Wrappers.novoJogador(jTextField9.getText());
-            
+
             Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
             doc = ModeloXML.adicionaJogador(x, doc);
             addJogador.setVisible(false);
-           
+
             if (doc != null) {
                 XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
                 JOptionPane.showMessageDialog(this,
@@ -1000,12 +1004,12 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_addJogButtonActionPerformed
 
     private void remJogButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_remJogButtonActionPerformed
-       
+
         Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
         String x = jTextField10.getText();
         doc = ModeloXML.removeJogadorNome(x, doc);
         remJogador.setVisible(false);
-        
+
         if (doc != null) {
             XMLJDomFunctions.escreverDocumentoParaFicheiro(doc, "jogador.xml");
 
@@ -1150,17 +1154,18 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField9ActionPerformed
 
     private void validarXSDActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_validarXSDActionPerformed
-       try {
+        try {
             // TODO add your handling code here:
             int res = JDOMFunctions_Validar.validarDocumentoXSD("jogador.xml", "jogador.xsd");
-            if(res==-1)
+            if (res == -1) {
                 JOptionPane.showMessageDialog(this,
                         "Ficheiro inválido por XSD",
                         "Informação Validação", JOptionPane.ERROR_MESSAGE);
-            else
+            } else {
                 JOptionPane.showMessageDialog(this,
                         "Ficheiro válido por XSD",
                         "Informação Validação", JOptionPane.INFORMATION_MESSAGE);
+            }
         } catch (IOException ex) {
             Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -1171,27 +1176,28 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField11ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+
         try {
-            
-            String xp = "//jogador[@nome ='" +jTextField11.getText()+ "' and not(self::trofeus) and not(self::clubes)]/*"; // esta a devolver trofeus e clubes
-            
-            System.out.println(xp);
-            
+            String xp = "//jogador[@nome ='" + jTextField11.getText() + "']//text()";
+
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultadoNome(res);
-            
+
             XPATH_nome.setVisible(false);
-            
+
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
                 output.setText("Sem resultados");
             } else {
+
                 output.setText(s);
             }
         } catch (SaxonApiException ex) {
             Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
         }
+
+
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jTextField12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField12ActionPerformed
@@ -1199,16 +1205,16 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField12ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-       try {
-            
-            String xp = "//jogador[contains(clubeAtual,'"+jTextField12.getText()+"')]//@nome";
+        try {
+
+            String xp = "//jogador[contains(clubeAtual,'" + jTextField12.getText() + "')]//@nome";
             System.out.println(xp);
-            
+
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
             //ArrayList<String> clubes = new ArrayList();
-            
-           XPATH_clube.setVisible(false);
+
+            XPATH_clube.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
@@ -1227,14 +1233,13 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField13ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-      try {
-            String xp = "//jogador[contains(nacionalidade,'"+jTextField13.getText()+"')]//@nome";
+        try {
+            String xp = "//jogador[contains(nacionalidade,'" + jTextField13.getText() + "')]//@nome";
             System.out.println(xp);
-            
+
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
-            
-            
+
             XPATH_nacionalidade.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
@@ -1254,15 +1259,15 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField14ActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
-     try {
-           String xp = "//jogador[contains(posicao,'"+jTextField14.getText()+"')]//@nome";
+        try {
+            String xp = "//jogador[contains(posicao,'" + jTextField14.getText() + "')]//@nome";
             System.out.println(xp);
-            
+
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
             //ArrayList<String> clubes = new ArrayList();
-            
-           XPATH_posicao.setVisible(false);
+
+            XPATH_posicao.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {
@@ -1281,14 +1286,14 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField16ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
-      try {
-           String xp = "//jogador[contains(selecao,'"+jTextField16.getText()+"')]//@nome";
+        try {
+            String xp = "//jogador[contains(selecao,'" + jTextField16.getText() + "')]//@nome";
             System.out.println(xp);
-            
+
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
             //ArrayList<String> clubes = new ArrayList();
-            
+
             XPATH_selecao.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
@@ -1305,13 +1310,13 @@ public class Interface extends javax.swing.JFrame {
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         try {
-           String xp = "//jogador[(idade >= "+jTextField17.getText()+" and  idade <= "+jTextField18.getText()+")]//@nome";
+            String xp = "//jogador[(idade >= " + jTextField17.getText() + " and  idade <= " + jTextField18.getText() + ")]//@nome";
             System.out.println(xp);
-            
+
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
             //ArrayList<String> clubes = new ArrayList();
-            
+
             XPATH_intervaloIdade.setVisible(false);
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
@@ -1331,7 +1336,7 @@ public class Interface extends javax.swing.JFrame {
         XPATH_clube.setLocation(200, 200);
         XPATH_clube.setTitle("XPATH: pesquisar por clube");
         XPATH_clube.setVisible(true);
-        
+
     }//GEN-LAST:event_pesquisarClubeActionPerformed
 
     private void pesquisarNacionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarNacionActionPerformed
@@ -1342,15 +1347,15 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_pesquisarNacionActionPerformed
 
     private void pesquisarSituacaoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pesquisarSituacaoActionPerformed
-       try {
-            
+        try {
+
             String xp = "//jogador[not(contains(estadoAtual,'No ativo'))]//@nome";
             //System.out.println(xp);
-            
+
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
             String s = XPathFunctions.listaResultado(res);
             //ArrayList<String> clubes = new ArrayList();
-            
+
             if (res == null) {
                 output.setText("Ficheiro XML não existe");
             } else if (res.size() == 0) {

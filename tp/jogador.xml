@@ -82,4 +82,31 @@
                <clubeAnterior>US Palermo</clubeAnterior>
           </clubesAnterirores>
      </jogador>
+     <jogador nome="Bruno Fernandes">
+          <nomeCompleto>Bruno Miguel Borges Fernandes</nomeCompleto>
+          <nacionalidade>Espanha</nacionalidade>
+          <foto>https://img.a.transfermarkt.technology/portrait/big/240306-1580389882.jpg?lm=1</foto>
+          <dataNascimento>8 de setembro de 1994</dataNascimento>
+          <idade>26</idade>
+          <altura>1,79 m</altura>
+          <peso>65 kg</peso>
+          <pePreferido>direito</pePreferido>
+          <estadoAtual>No ativo</estadoAtual>
+          <posicao>Médio Ofensivo</posicao>
+          <valorContrato>90,00 M €</valorContrato>
+          <selecao>Portugal</selecao>
+          <clubeAtual>Manchester United FC</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor marcador</trofeu>
+               <trofeu>Jogador da época</trofeu>
+               <trofeu>Futebolista do ano</trofeu>
+               <trofeu>Vencedor da Taça de Portugal</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>Sporting CP</clubeAnterior>
+               <clubeAnterior>Man Utd.</clubeAnterior>
+               <clubeAnterior>UC Sampdoria</clubeAnterior>
+               <clubeAnterior>Sporting CP</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
 </jogadores>

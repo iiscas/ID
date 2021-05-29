@@ -5,6 +5,8 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.time.LocalDate;
+import java.util.Arrays;
+import java.util.Objects;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -334,7 +336,7 @@ public class Wrappers {
         return null;
     }
 
-    public static ArrayList<String> Obtem_ClubeAnterior(String pesquisa) throws IOException {
+     public static ArrayList<String> Obtem_ClubeAnterior(String pesquisa) throws IOException {
 
         ArrayList<String> Clubes = new ArrayList<String>();
 
