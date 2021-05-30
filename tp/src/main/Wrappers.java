@@ -69,6 +69,7 @@ public class Wrappers {
 
         HttpRequestFunctions.httpRequest1("https://pt.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
         String alcunha;
+        String x = "Nao disponivel";
         String er = "<title>([A-Za-zÀ-ÿ]+)(\\s[A-Za-zÀ-ÿ]+)";
 
         Pattern p = Pattern.compile(er);
@@ -88,7 +89,7 @@ public class Wrappers {
 
         }
         ler.close();
-        return null;
+        return x;
     }
 
     public static String Obtem_NomeCompleto(String pesquisa) throws IOException {
@@ -98,6 +99,7 @@ public class Wrappers {
         String er = "<th[^>]*>Nome completo";
         String er1 = "</th>";
         String er2 = "<td[^>]*>([a-zA-ZÀ-ÿ\\s]+)";
+        String x = "Nao disponivel";
 
         Pattern p = Pattern.compile(er);
         Pattern p1 = Pattern.compile(er1);
@@ -131,7 +133,7 @@ public class Wrappers {
 
         }
         ler.close();
-        return null;
+        return x;
     }
 
     public static String Obtem_Fotografia(String pesquisa) throws IOException {
@@ -139,7 +141,7 @@ public class Wrappers {
         String link = getLinkTransfer(pesquisa);
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
-        String foto = "Nao disponivel";
+        String x = "Nao disponivel";
         String er = "<meta property=\"og:image\" content=\"([^\"]+)[^>]+>";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
@@ -158,7 +160,7 @@ public class Wrappers {
 
         }
         ler.close();
-        return foto;
+        return x;
     }
 
     public static String Obtem_Nacionalidade(String pesquisa) throws IOException {
@@ -169,6 +171,7 @@ public class Wrappers {
 
         String er = "<meta name=\\\"description\\\" content=\\\"[a-zA-Z\\s,0-9]+:\\s([a-zA-ZÀ-ÿ]+)\\b";
         String er1 = "&nbsp;&nbsp;([^<]*)</td>";
+        String x = "Nao disponivel";
 
         Pattern p = Pattern.compile(er);
         Pattern p1 = Pattern.compile(er1);
@@ -192,7 +195,7 @@ public class Wrappers {
 
         }
         ler.close();
-        return null;
+        return x;
     }
 
     public static String Obtem_PePreferido(String pesquisa) throws IOException {
@@ -203,6 +206,7 @@ public class Wrappers {
 
         String er = "\\s+<th>Pé:</th>";
         String er1 = "<td>([a-z]*)</td>";
+        String x = "Nao disponivel";
 
         Pattern p = Pattern.compile(er);
         Pattern p1 = Pattern.compile(er1);
@@ -229,7 +233,7 @@ public class Wrappers {
 
         }
         ler.close();
-        return null;
+        return x;
     }
 
     public static String Obtem_Posicao(String pesquisa) throws IOException {
@@ -241,6 +245,7 @@ public class Wrappers {
         String er = "<span class=\\\"dataItem\\\">Posição:</span>";
         String er1 = "[\\s]*<span class=\\\"dataValue\\\">[\\s]*";
         String er2 = "\\s+([À-ÿA-Z-a-z\\s]+)\\b\\s+</span>";
+        String x = "Nao disponivel";
 
         Pattern p = Pattern.compile(er);
         Pattern p1 = Pattern.compile(er1);
@@ -275,7 +280,7 @@ public class Wrappers {
         }
 
         ler.close();
-        return null;
+        return x;
     }
 
     public static String Obtem_ClubeAtual(String pesquisa) throws IOException {
@@ -284,6 +289,7 @@ public class Wrappers {
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
+        String x = "Nao disponivel";
         String er = "Clube atual:";
         String er1 = "\\s+</th>";
         String er2 = "\\s+<td>";
@@ -333,10 +339,10 @@ public class Wrappers {
             }
         }
         ler.close();
-        return null;
+        return x;
     }
 
-     public static ArrayList<String> Obtem_ClubeAnterior(String pesquisa) throws IOException {
+    public static ArrayList<String> Obtem_ClubeAnterior(String pesquisa) throws IOException {
 
         ArrayList<String> Clubes = new ArrayList<String>();
 
@@ -344,7 +350,8 @@ public class Wrappers {
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
-        String er = "<td class[^>]+><a class=[^>]+>([^<]+)<\\/a><\\/td>";
+        //String er = "<td class[^>]+><a class=[^>]+>([^<]+)<\\/a><\\/td>";
+        String er = "<td class=\"hauptlink no-border-links vereinsname\\\"><a class=\\\"vereinprofil_tooltip\\\" id=\\\"([0-9])+\\\" href=\\\"([^\\\"]+)\\\">([^<]+)</a></td>";
 
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
@@ -358,10 +365,9 @@ public class Wrappers {
 
             if (m.find()) {
 
-                Clubes.add(m.group(1));
-                //System.out.println(Clubes);
+                Clubes.add(m.group(3));
                 i++;
-            } //caso haja 
+            }
         }
 
         ler.close();
@@ -371,7 +377,7 @@ public class Wrappers {
     public static String Obtem_Selecao(String pesquisa) throws IOException {
 
         String link = getLinkTransfer(pesquisa);
-        String selecao = "Não convocado";
+        String x = "Não convocado";
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
@@ -405,14 +411,14 @@ public class Wrappers {
 
         }
         ler.close();
-        return selecao;
+        return x;
     }
 
     public static String Obtem_EstadoAtual(String pesquisa) throws FileNotFoundException, IOException {
 
         String link = getLinkZeroZero(pesquisa);
-        System.out.println(link);
-        String estado = "Não está no ativo";
+
+        String x = "Nao disponivel";
         HttpRequestFunctions.httpRequest2(link, "", "jogadores.txt");
 
         String er = "<span>Situação</span>([^<0-9-]+)[^>]+>";
@@ -436,14 +442,13 @@ public class Wrappers {
         }
 
         ler.close();
-        return null;
+        return x;
     }
 
     public static String Obtem_Empresario(String pesquisa) throws FileNotFoundException, IOException {
 
         String link = getLinkTransfer(pesquisa);
-        String retornar = "Informação indisponível";
-        //System.out.println(link);
+        String x = "Nao disponivel";
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
@@ -483,7 +488,7 @@ public class Wrappers {
         }
 
         ler.close();
-        return retornar;
+        return x;
     }
 
     public static int Obtem_Idade(String pesquisa) throws IOException {
@@ -549,7 +554,7 @@ public class Wrappers {
     public static String Obtem_Ranking(String pesquisa) throws IOException {
 
         String link = getLinkTransfer(pesquisa);
-        String rank = "Nenhum";
+        String x = "Nao disponivel";
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
@@ -571,16 +576,17 @@ public class Wrappers {
 
         }
         ler.close();
-        return rank;
+        return x;
     }
 
     public static String Obtem_ValorContrato(String pesquisa) throws IOException {
 
         String link = getLinkTransfer(pesquisa);
-        String valor = "Nao disponivel";
-        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
-        String er = "<meta name=\\\"description\\\" content=\\\"[^V]+[V]*[^V]+ Valor de Mercado:\\s([0-9\\s\\,a-zA-Z€]+)";
 
+        HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
+
+        String er = "<meta name=\\\"description\\\" content=\\\"[^V]+[V]*[^V]+ Valor de Mercado:\\s([0-9\\s\\,a-zA-Z€]+)";
+        String x = "Nao disponivel";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
 
@@ -598,7 +604,7 @@ public class Wrappers {
 
         }
         ler.close();
-        return valor;
+        return x;
     }
 
     public static String Obtem_DataNascimento(String pesquisa) throws IOException {
@@ -606,6 +612,7 @@ public class Wrappers {
         HttpRequestFunctions.httpRequest1("https://pt.wikipedia.org/wiki/", pesquisa, "jogadores.txt");
 
         String er = "<td[^>]*><a[^N]+Nascimentos\"[^\"]+\"([^\"]+)\"[^<]+</a>([\\sde]+)[^>]+>([0-9]+)</a>";
+        String x = "Nao disponivel";
 
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
@@ -625,7 +632,7 @@ public class Wrappers {
 
         }
         ler.close();
-        return null;
+        return x;
 
     }
 
@@ -636,6 +643,7 @@ public class Wrappers {
         String er = "<th[^>]*>Altura";
         String er1 = "</th>";
         String er2 = "<td[^>]*>([0-9\\s\\,m]+)";
+        String x = "Nao disponivel";
 
         Pattern p = Pattern.compile(er);
         Pattern p1 = Pattern.compile(er1);
@@ -670,7 +678,7 @@ public class Wrappers {
         }
 
         ler.close();
-        return null;
+        return x;
     }
 
     public static ArrayList<String> Obtem_Trofeus(String pesquisa) throws IOException {
@@ -710,7 +718,7 @@ public class Wrappers {
     public static String Obtem_Peso(String pesquisa) throws IOException {
 
         String link = getLinkZeroZero(pesquisa);
-        String peso = "nenhum";
+        String x = "Nao disponivel";
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
@@ -735,7 +743,7 @@ public class Wrappers {
         }
         ler.close();
 
-        return peso;
+        return x;
 
     }
 
