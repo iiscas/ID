@@ -8,7 +8,7 @@ for $x in distinct-values(doc("C:/Users/isabe/Documents/GitHub/ID/tp/jogador.xml
 let $titulos := doc("C:/Users/isabe/Documents/GitHub/ID/tp/jogador.xml")//jogador[@nome=$x]/trofeus/trofeu/text() 
 order by $x 
 return 
-		(<p/><b>Jogador {$x}</b>, 
+		(<b>Jogador {$x}</b>, 
 		<ul> 
 		{
 			for $t in $titulos 

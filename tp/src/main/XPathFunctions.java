@@ -35,35 +35,13 @@ public class XPathFunctions {
         return resultado;
     }
 
-    static String listaResultadoNome(XdmValue lista) {
-        StringBuilder texto = new StringBuilder();
-        ArrayList<String> ids = new ArrayList<String>();
-        
-        ids.add(0, "Nome completo"); ids.add(1, "Nacionalidade");
-        ids.add(2, "Foto"); ids.add(3, "Data Nascimento"); ids.add(4, "Idade");
-        ids.add(5, "Altura"); ids.add(6, "Peso");
-        ids.add(7, "Pe preferido"); ids.add(8, "Estado Atual");
-        ids.add(9, "Posicao"); ids.add(10, "Valor do contrato");
-        ids.add(11, "Selecao"); ids.add(12, "Clube Atual");
-        ids.add(13, "Trofeu"); ids.add(14, "Trofeu");
-        ids.add(15, "Trofeu"); ids.add(16, "Trofeu");
-        ids.add(17, "Clube Anterior");ids.add(18, "Clube Anterior");
-        ids.add(19, "Clube Anterior"); ids.add(20, "Clube Anterior");
-        
-        for (int i = 0; i < lista.size(); i++) {
-            XdmItem item = lista.itemAt(i);
-            System.out.println(item.getStringValue());
-            texto = texto.append(ids.get(i)).append("  --  ").append(item.getStringValue()).append("\n\n");
-        }
-        return texto.toString();
-    }
-
     static String listaResultado(XdmValue lista) {
         StringBuilder texto = new StringBuilder();
         for (XdmItem item : lista) {
-            texto = texto.append(item.getStringValue()).append("\n\n");
+            texto = texto.append(item.getStringValue()).append("\n");
         }
         return texto.toString();
     }
+   
 
 }

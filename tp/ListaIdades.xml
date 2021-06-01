@@ -29,6 +29,13 @@
           <trofeu>Melhor marcador</trofeu>
      </jogador>
      <jogador>
+          <nome>Lionel Messi</nome>
+          <nacionalidade>Argentina</nacionalidade>
+          <idade>33</idade>
+          <selecao>Argentina</selecao>
+          <trofeu>Melhor jogador do mundo</trofeu>
+     </jogador>
+     <jogador>
           <nome>Cristiano Ronaldo</nome>
           <nacionalidade>Portugal</nacionalidade>
           <idade>36</idade>
@@ -36,10 +43,24 @@
           <trofeu>Melhor jogador do mundo</trofeu>
      </jogador>
      <jogador>
+          <nome>Iker Casillas</nome>
+          <nacionalidade>Espanha</nacionalidade>
+          <idade>40</idade>
+          <selecao>Espanha</selecao>
+          <trofeu>Campeão do Mundo</trofeu>
+     </jogador>
+     <jogador>
           <nome>Gianluigi Buffon</nome>
           <nacionalidade>Itália</nacionalidade>
           <idade>43</idade>
           <selecao>Itália</selecao>
           <trofeu>Futebolista do ano</trofeu>
+     </jogador>
+     <jogador>
+          <nome>Diego Maradona</nome>
+          <nacionalidade>Argentina</nacionalidade>
+          <idade>60</idade>
+          <selecao>Argentina</selecao>
+          <trofeu>Melhor marcador</trofeu>
      </jogador>
 </jogadores>

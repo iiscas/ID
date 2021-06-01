@@ -5,6 +5,10 @@
           <preco>90,00 M €</preco>
      </jogador>
      <jogador>
+          <nome>Lionel Messi</nome>
+          <preco>80,00 M €</preco>
+     </jogador>
+     <jogador>
           <nome>Paulo Dybala</nome>
           <preco>60,00 M €</preco>
      </jogador>
@@ -15,9 +19,5 @@
      <jogador>
           <nome>Toni Kroos</nome>
           <preco>50,00 M €</preco>
-     </jogador>
-     <jogador>
-          <nome>John Stones</nome>
-          <preco>30,00 M €</preco>
      </jogador>
 </jogadores>

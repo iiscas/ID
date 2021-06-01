@@ -8,13 +8,25 @@ Cristiano Ronaldo
 No ativo
 Juventus FC
 
+Diego Maradona
+Falecido
+Fim de Carreira
+
 Gianluigi Buffon
 No ativo
 Juventus FC
 
+Iker Casillas
+Fim de Carreira
+Fim de carreira
+
 John Stones
 No ativo
 Manchester City FC
+
+Lionel Messi
+No ativo
+FC Barcelona
 
 Paulo Dybala
 No ativo

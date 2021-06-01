@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE jogadores SYSTEM "jogador.dtd">
 <jogadores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="jogador.xsd">
      <jogador nome="Cristiano Ronaldo">
           <nomeCompleto>Cristiano Ronaldo dos Santos Aveiro</nomeCompleto>
@@ -160,33 +161,6 @@
                <clubeAnterior>Instituto U19</clubeAnterior>
           </clubesAnterirores>
      </jogador>
-     <jogador nome="Bernardo Silva">
-          <nomeCompleto>Bernardo Mota Veiga de Carvalho e Silva</nomeCompleto>
-          <nacionalidade>Portugal</nacionalidade>
-          <foto>https://img.a.transfermarkt.technology/portrait/big/241641-1520189140.jpg?lm=1</foto>
-          <dataNascimento>10 de agosto de 1994</dataNascimento>
-          <idade>26</idade>
-          <altura>1,73 m</altura>
-          <peso>65 kg</peso>
-          <pePreferido>esquerdo</pePreferido>
-          <estadoAtual>No ativo</estadoAtual>
-          <posicao>Médio Ofensivo</posicao>
-          <valorContrato>70,00 M €</valorContrato>
-          <selecao>Portugal</selecao>
-          <clubeAtual>Manchester City FC</clubeAtual>
-          <trofeus>
-               <trofeu>Futebolista do ano</trofeu>
-               <trofeu>Campeão da Inglaterra</trofeu>
-               <trofeu>Vencedor da Taça de Inglaterra</trofeu>
-               <trofeu>Vencedor da Taça da Liga de Inglaterra</trofeu>
-          </trofeus>
-          <clubesAnterirores>
-               <clubeAnterior>Mónaco</clubeAnterior>
-               <clubeAnterior>SL Benfica</clubeAnterior>
-               <clubeAnterior>Mónaco</clubeAnterior>
-               <clubeAnterior>SL Benfica</clubeAnterior>
-          </clubesAnterirores>
-     </jogador>
      <jogador nome="Diego Maradona">
           <nomeCompleto>Diego Armando Maradona</nomeCompleto>
           <nacionalidade>Argentina</nacionalidade>
@@ -239,6 +213,33 @@
                <clubeAnterior>Real Madrid</clubeAnterior>
                <clubeAnterior>Real Madrid B</clubeAnterior>
                <clubeAnterior>Real Madrid C</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
+     <jogador nome="Lionel Messi">
+          <nomeCompleto>Lionel Andrés Messi Cuccittini</nomeCompleto>
+          <nacionalidade>Argentina</nacionalidade>
+          <foto>https://img.a.transfermarkt.technology/portrait/big/28003-1604164452.png?lm=1</foto>
+          <dataNascimento>24 de junho de 1987</dataNascimento>
+          <idade>33</idade>
+          <altura>1,70 m</altura>
+          <peso>66 kg</peso>
+          <pePreferido>esquerdo</pePreferido>
+          <estadoAtual>No ativo</estadoAtual>
+          <posicao>Extremo Direito</posicao>
+          <valorContrato>80,00 M €</valorContrato>
+          <selecao>Argentina</selecao>
+          <clubeAtual>FC Barcelona</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor jogador do mundo</trofeu>
+               <trofeu>Vencedor Ballon d'Or</trofeu>
+               <trofeu>O Futebolista do Ano da Europa</trofeu>
+               <trofeu>Melhor marcador</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>FC Barcelona B</clubeAnterior>
+               <clubeAnterior>Barcelona C</clubeAnterior>
+               <clubeAnterior>Barça U19</clubeAnterior>
+               <clubeAnterior>Barça U16</clubeAnterior>
           </clubesAnterirores>
      </jogador>
 </jogadores>

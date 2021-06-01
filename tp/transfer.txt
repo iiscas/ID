@@ -34,47 +34,47 @@ window._sp_ = {
 <meta property="og:image" content="https://tmssl.akamaized.net/images/tm_logo.png" />
 <meta property="og:description" content="" />
 <meta property="og:title" content="Resultados da pesquisa" />
-<meta property="og:url" content="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
-<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo" />
+<meta property="og:url" content="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi" />
 <link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1622550849" />
 <link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1622550849" />
 <link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1622550849" />
@@ -367,7 +367,7 @@ googletag.enableServices();
 
                                             <div class="large-6 columns " id="schnellsuche-platz">
                             <form name="schnellsuche" id="schnellsuche" class="noclose" action="/schnellsuche/ergebnis/schnellsuche">
-                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="Cristiano_Ronaldo" />
+                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="Lionel_Messi" />
                                 <input type="image" class="header-suche-abschicken" src="/images/suche-grau.svg" alt="Pesquisar" />
                             </form>
                             <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
@@ -557,21 +557,23 @@ googletag.enableServices();
     <div class="row">
         <div class="large-12 columns">
             <div class="box">
-                <div class="table-header">Resultados de pesquisa para jogador(es)                    - 1 Resultados</div>
+                <div class="table-header">Resultados de pesquisa para jogador(es)                    - 2 Resultados</div>
                 <div class="responsive-table">
 					<div id="yw0" class="grid-view">
 <div class="summary"></div>
 <table class="items">
 <thead>
 <tr>
-<th id="yw0_c0">Nome / Equipa</th><th class="zentriert" id="yw0_c1">Posição</th><th class="zentriert" id="yw0_c2">Clube</th><th class="zentriert" id="yw0_c3"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo&amp;sort=age">Idade</a></th><th class="zentriert" id="yw0_c4">Nac. </th><th class="rechts" id="yw0_c5"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo&amp;sort=marktwert">Valor de mercado</a></th><th class="rechts" id="yw0_c6">Empresário</th></tr>
+<th id="yw0_c0">Nome / Equipa</th><th class="zentriert" id="yw0_c1">Posição</th><th class="zentriert" id="yw0_c2">Clube</th><th class="zentriert" id="yw0_c3"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi&amp;sort=age">Idade</a></th><th class="zentriert" id="yw0_c4">Nac. </th><th class="rechts" id="yw0_c5"><a class="sort-link" href="/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi&amp;sort=marktwert">Valor de mercado</a></th><th class="rechts" id="yw0_c6">Empresário</th></tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/8198-1568120625.jpg?lm=1" title="Cristiano Ronaldo" alt="Cristiano Ronaldo" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Cristiano Ronaldo" class="spielprofil_tooltip" id="8198" href="/cristiano-ronaldo/profil/spieler/8198">Cristiano Ronaldo</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506">Juventus FC</a></td></tr></table></td><td class="zentriert">PL</td><td class="zentriert"><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506"><img src="https://tmssl.akamaized.net/images/wappen/tiny/506.png?lm=1594291454" title="&nbsp;" alt="Juventus FC" class="tiny_wappen" /></a></td><td class="zentriert">36</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink">45,00 M €</td><td class="rechts"><a href="/gestifute/beraterfirma/berater/413">Gestifute</a></td></tr>
+<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/28003-1604164452.png?lm=1" title="Lionel Messi" alt="Lionel Messi" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Lionel Messi" class="spielprofil_tooltip" id="28003" href="/lionel-messi/profil/spieler/28003">Lionel Messi</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="131" href="/fc-barcelona/startseite/verein/131">FC Barcelona</a></td></tr></table></td><td class="zentriert">ED</td><td class="zentriert"><a class="vereinprofil_tooltip" id="131" href="/fc-barcelona/startseite/verein/131"><img src="https://tmssl.akamaized.net/images/wappen/tiny/131.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona" class="tiny_wappen" /></a></td><td class="zentriert">33</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" /></td><td class="rechts hauptlink">80,00 M €</td><td class="rechts"><a href="/familienangehorige/beraterfirma/berater/1207">Familiar</a></td></tr>
+<tr class="even">
+<td><table class="inline-table"><tr><td rowspan="2"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/default.jpg?lm=1" title="Lionel Nyamsi" alt="Lionel Nyamsi" class="bilderrahmen-fixed" /></a></td><td class="hauptlink"><a title="Lionel Nyamsi" class="spielprofil_tooltip" id="764365" href="/lionel-nyamsi/profil/spieler/764365">Lionel Nyamsi</a></td></tr><tr><td><a class="vereinprofil_tooltip" id="79270" href="/us-ramonville/startseite/verein/79270">US Ramonville </a></td></tr></table></td><td class="zentriert">MDe</td><td class="zentriert"><a class="vereinprofil_tooltip" id="79270" href="/us-ramonville/startseite/verein/79270"><img src="https://tmssl.akamaized.net/images/wappen/tiny/79270.png?lm=1582923497" title="&nbsp;" alt="US Ramonville " class="tiny_wappen" /></a></td><td class="zentriert">26</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/31.png?lm=1520611569" title="Camarões" alt="Camarões" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569" title="França" alt="França" class="flaggenrahmen" /></td><td class="rechts hauptlink">-</td><td class="rechts"></td></tr>
 </tbody>
 </table>
-<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo"><span>8198</span></div>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi"><span>28003</span><span>764365</span></div>
 </div>                </div>
                 <div class="table-footer">
                     <a href="/detailsuche/spielerdetail/suche">
@@ -583,7 +585,7 @@ googletag.enableServices();
 	    <div class="row">
         <div class="large-12 columns">
             <div class="box">
-                <div class="table-header">Resultados de pesquisa para empresários                    - 1 Resultados</div>
+                <div class="table-header">Resultados de pesquisa para empresários                    - 4 Resultados</div>
                 <div class="responsive-table">
 					<div id="yw2" class="grid-view">
 <div class="summary"></div>
@@ -594,16 +596,40 @@ googletag.enableServices();
 </thead>
 <tbody>
 <tr class="odd">
-<td class="zentriert"><span class="icon-berater-keinadresseintrag icons_sprite" title="Não ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=Ronaldo Goiano>
+<td class="zentriert"><span class="icon-berater-adresseintrag icons_sprite" title="Ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=Football Capital>
 													<tr>
 														<td rowspan=2>
-															<a href="/berater/beraterfirma?id=5757"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="Ronaldo Goiano" alt="-" class="berater-logorahmen" /></a>
+															<a href="/berater/beraterfirma?id=3452"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="Football Capital" alt="-" class="berater-logorahmen" /></a>
 														</td>
-														<td class=hauptlink><a href="/ronaldo-goiano/beraterfirma/berater/5757">Ronaldo Goiano</a></td></tr>
-												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_agent_small.png" title="Agente de jogadores" /></td><td>Ronaldo Goiano</td></tr>
+														<td class=hauptlink><a href="/football-capital/beraterfirma/berater/3452">Football Capital</a></td></tr>
+												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_lawyer_small.png" title="Advogado" /></td><td>Giacomo Guidolin</td></tr>
+<tr class="even">
+<td class="zentriert"><span class="icon-berater-keinadresseintrag icons_sprite" title="Não ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=AM Top Sports Management>
+													<tr>
+														<td rowspan=2>
+															<a href="/berater/beraterfirma?id=8916"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="AM Top Sports Management" alt="-" class="berater-logorahmen" /></a>
+														</td>
+														<td class=hauptlink><a href="/am-top-sports-management/beraterfirma/berater/8916">AM Top Sports Management</a></td></tr>
+												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_agent_small.png" title="Agente de jogadores" /></td><td>Alexandros Messinis</td></tr>
+<tr class="odd">
+<td class="zentriert"><span class="icon-berater-keinadresseintrag icons_sprite" title="Não ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=Mascagni Sport Management>
+													<tr>
+														<td rowspan=2>
+															<a href="/berater/beraterfirma?id=8452"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="Mascagni Sport Management" alt="-" class="berater-logorahmen" /></a>
+														</td>
+														<td class=hauptlink><a href="/mascagni-sport-management/beraterfirma/berater/8452">Mascagni Sport Management</a></td></tr>
+												</table></td><td class="zentriert"><img src="https://tmsi.akamaized.net/icons/playeragent_license_agent_small.png" title="Agente de jogadores" /></td><td>Stefano Restelli</td></tr>
+<tr class="even">
+<td class="zentriert"><span class="icon-berater-keinadresseintrag icons_sprite" title="Não ativo">&nbsp;</span></td><td class="zentriert"><table class=inline-table title=Global Sport Group>
+													<tr>
+														<td rowspan=2>
+															<a href="/berater/beraterfirma?id=624"><img src="https://tmssl.akamaized.net/images/berater_logo/small/berater-default.png?lm=1520606995" title="Global Sport Group" alt="-" class="berater-logorahmen" /></a>
+														</td>
+														<td class=hauptlink><a href="/global-sport-group/beraterfirma/berater/624">Global Sport Group</a></td></tr>
+												</table></td><td class="zentriert"></td><td>Roy Messing</td></tr>
 </tbody>
 </table>
-<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo"><span>5757</span></div>
+<div class="keys" style="display:none" title="/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi"><span>3452</span><span>8916</span><span>8452</span><span>624</span></div>
 </div>                </div>
             </div>
         </div>
@@ -711,8 +737,8 @@ var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){v
 /*<![CDATA[*/
 	function initCss() {
 	}
-	var aktuelleUrl = 'https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Cristiano_Ronaldo'
-	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fschnellsuche%2Fergebnis%2Fschnellsuche%3Fquery%3DCristiano_Ronaldo';
+	var aktuelleUrl = 'https://www.transfermarkt.pt/schnellsuche/ergebnis/schnellsuche?query=Lionel_Messi'
+	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fschnellsuche%2Fergebnis%2Fschnellsuche%3Fquery%3DLionel_Messi';
 	var notificationUrl='/notifications/liste';
 	var privateNachrichtenUrl = '/privateNachrichten/liste'
 	var favoritenUrl = '/favoriten/userFavoriten'

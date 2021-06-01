@@ -18,6 +18,7 @@ import javax.swing.JOptionPane;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.xpath.XPathExpressionException;
 import net.sf.saxon.s9api.SaxonApiException;
+import net.sf.saxon.s9api.XdmItem;
 import net.sf.saxon.s9api.XdmValue;
 import net.sf.saxon.trans.XPathException;
 import org.jdom2.Document;
@@ -1405,10 +1406,9 @@ public class Interface extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
         try {
-            String xp = "//jogador[@nome ='" + jTextField11.getText() + "']//text()";
-
+            String xp = "//jogador[@nome ='" + jTextField11.getText() + "']//*/text()";
             XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
-            String s = XPathFunctions.listaResultadoNome(res);
+            String s = XPathFunctions.listaResultado(res);
 
             XPATH_nome.setVisible(false);
 
@@ -1417,13 +1417,38 @@ public class Interface extends javax.swing.JFrame {
             } else if (res.size() == 0) {
                 output.setText("Sem resultados");
             } else {
+                ArrayList<String> ids = new ArrayList<String>();
 
-                output.setText(s);
+                ids.add(0, "Nome completo");
+                ids.add(1, "Nacionalidade");
+                ids.add(2, "Foto");
+                ids.add(3, "Data Nascimento");
+                ids.add(4, "Idade");
+                ids.add(5, "Altura");
+                ids.add(6, "Peso");
+                ids.add(7, "Pe preferido");
+                ids.add(8, "Estado Atual");
+                ids.add(9, "Posicao");
+                ids.add(10, "Valor do contrato");
+                ids.add(11, "Selecao");
+                ids.add(12, "Clube Atual");
+                
+                String v[] = s.split("\n");
+                
+                for (int i = 0; i < ids.size(); i++) {
+                    ids.set(i, ids.get(i) + " --- " + v[i]);
+
+                }
+                StringBuilder sb = new StringBuilder();
+                for (String text : ids) {
+                    sb.append(text);
+                    sb.append("\n\n");
+                }
+                output.setText(sb.toString());
             }
         } catch (SaxonApiException ex) {
             Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
         }
-
 
     }//GEN-LAST:event_jButton1ActionPerformed
 
