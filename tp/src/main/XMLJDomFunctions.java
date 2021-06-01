@@ -73,7 +73,7 @@ public class XMLJDomFunctions{
 
             Format outputFormat = Format.getPrettyFormat();
             outputFormat.setIndent("     ");
-
+            
             //Escreve o XML para o ecra, ou seja, System.out
             XMLOutputter outputter = new XMLOutputter(outputFormat);
             String txt = outputter.outputString(doc);

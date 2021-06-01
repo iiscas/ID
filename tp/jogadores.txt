@@ -28,81 +28,81 @@ window._sp_ = {
     <link rel="shortcut icon" sizes="192x192" href="/android-chrome-192x192.png">
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-152x152.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no" />
-<meta name="keywords" content="Lionel Messi,Argentinien,LaLiga,Argentina" />
-<meta name="description" content="Lionel Messi, 33, nacionalidade: Argentina ➤ FC Barcelona, desde 2005 ➤ Extremo Direito ➤ Valor de Mercado: 80,00 M € ➤ * 24/06/1987 em Rosario, Argentina" />
+<meta name="keywords" content="Paulo Dybala,Juventus Turin,Serie A,Argentina" />
+<meta name="description" content="Paulo Dybala, 27, nacionalidade: Argentina ➤ Juventus FC, desde 2015 ➤ Segundo Avançado ➤ Valor de Mercado: 60,00 M € ➤ * 15/11/1993 em Laguna Larga, Argentina" />
 <meta property="og:type" content="article" />
-<meta property="og:image" content="https://img.a.transfermarkt.technology/portrait/big/28003-1604164452.png?lm=1" />
+<meta property="og:image" content="https://img.a.transfermarkt.technology/portrait/big/206050-1541076083.jpg?lm=1" />
 <meta property="og:description" content="" />
-<meta property="og:title" content="Lionel Messi - Perfil de jogador 20/21" />
-<meta property="og:url" content="https://www.transfermarkt.pt/lionel-messi/profil/spieler/28003" />
-<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/lionel-messi/profil/spieler/28003" />
-<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/lionel-messi/profil/spieler/28003" />
-<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/lionel-messi/profil/spieler/28003" />
-<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/lionel-messi/profil/spieler/28003" />
-<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/lionel-messi/profil/spieler/28003" />
-<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/lionel-messi/profil/spieler/28003" />
-<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/lionel-messi/profil/spieler/28003" />
-<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/lionel-messi/profil/spieler/28003" />
-<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/lionel-messi/profil/spieler/28003" />
-<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/lionel-messi/profil/spieler/28003" />
-<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/lionel-messi/profil/spieler/28003" />
-<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/lionel-messi/profil/spieler/28003" />
-<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/lionel-messi/profil/spieler/28003" />
-<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/lionel-messi/profil/spieler/28003" />
-<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/lionel-messi/profil/spieler/28003" />
-<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/lionel-messi/profil/spieler/28003" />
-<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/lionel-messi/profil/spieler/28003" />
-<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/lionel-messi/profil/spieler/28003" />
-<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/lionel-messi/profil/spieler/28003" />
-<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/lionel-messi/profil/spieler/28003" />
-<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/lionel-messi/profil/spieler/28003" />
-<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/lionel-messi/profil/spieler/28003" />
-<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/lionel-messi/profil/spieler/28003" />
-<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/lionel-messi/profil/spieler/28003" />
-<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/lionel-messi/profil/spieler/28003" />
-<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/lionel-messi/profil/spieler/28003" />
-<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/lionel-messi/profil/spieler/28003" />
-<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/lionel-messi/profil/spieler/28003" />
-<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/lionel-messi/profil/spieler/28003" />
-<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/lionel-messi/profil/spieler/28003" />
-<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/lionel-messi/profil/spieler/28003" />
-<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/lionel-messi/profil/spieler/28003" />
-<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/lionel-messi/profil/spieler/28003" />
-<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/lionel-messi/profil/spieler/28003" />
-<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/lionel-messi/profil/spieler/28003" />
-<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/lionel-messi/profil/spieler/28003" />
-<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/lionel-messi/profil/spieler/28003" />
-<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/lionel-messi/profil/spieler/28003" />
-<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/lionel-messi/profil/spieler/28003" />
-<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/lionel-messi/profil/spieler/28003" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/foundation-icons.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jui/css/base/jquery-ui.css?lm=1622118054" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/sprite-main.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/chosen.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.custom.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.tm-theme.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_werbung.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/shortclasses.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/print.css?_sn=1?lm=1622118053" media="print" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/spielerprofil.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/spielerprofil.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/desktop.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/domainspezifisch/desktop-pt.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/meintm.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/swiper.4.4.6.min.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/ldWidget.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/ldWidgetLeistungsdaten.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/ldWidgetGalerie.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/statistiken.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/gridview.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/relevante_news.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/fanshopBox.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/beliebtheit.css?lm=1622118053" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/css/tooltipster.css?lm=1622118054" />
+<meta property="og:title" content="Paulo Dybala - Perfil de jogador 20/21" />
+<meta property="og:url" content="https://www.transfermarkt.pt/paulo-dybala/profil/spieler/206050" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/paulo-dybala/profil/spieler/206050" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/paulo-dybala/profil/spieler/206050" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/paulo-dybala/profil/spieler/206050" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/paulo-dybala/profil/spieler/206050" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/paulo-dybala/profil/spieler/206050" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/paulo-dybala/profil/spieler/206050" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/paulo-dybala/profil/spieler/206050" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/paulo-dybala/profil/spieler/206050" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/paulo-dybala/profil/spieler/206050" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/paulo-dybala/profil/spieler/206050" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/paulo-dybala/profil/spieler/206050" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/paulo-dybala/profil/spieler/206050" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/paulo-dybala/profil/spieler/206050" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/paulo-dybala/profil/spieler/206050" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/paulo-dybala/profil/spieler/206050" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/paulo-dybala/profil/spieler/206050" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/paulo-dybala/profil/spieler/206050" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/paulo-dybala/profil/spieler/206050" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/paulo-dybala/profil/spieler/206050" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/paulo-dybala/profil/spieler/206050" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/paulo-dybala/profil/spieler/206050" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/paulo-dybala/profil/spieler/206050" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/paulo-dybala/profil/spieler/206050" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/paulo-dybala/profil/spieler/206050" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/paulo-dybala/profil/spieler/206050" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/paulo-dybala/profil/spieler/206050" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/paulo-dybala/profil/spieler/206050" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/paulo-dybala/profil/spieler/206050" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/paulo-dybala/profil/spieler/206050" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/paulo-dybala/profil/spieler/206050" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/paulo-dybala/profil/spieler/206050" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/foundation-icons.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jui/css/base/jquery-ui.css?lm=1622460135" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/sprite-main.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/chosen.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.custom.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.tm-theme.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_werbung.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/shortclasses.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/print.css?_sn=1?lm=1622460134" media="print" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/spielerprofil.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/spielerprofil.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/desktop.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/domainspezifisch/desktop-pt.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/meintm.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/swiper.4.4.6.min.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/ldWidget.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/ldWidgetLeistungsdaten.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/ldWidgetGalerie.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/statistiken.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/gridview.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/relevante_news.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/fanshopBox.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/beliebtheit.css?lm=1622460134" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/css/tooltipster.css?lm=1622460135" />
 <style type="text/css">
 /*<![CDATA[*/
 @keyframes heim {
@@ -123,26 +123,26 @@ window._sp_ = {
 }
 /*]]>*/
 </style>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jquery.ba-bbq.min.js?lm=1622118054"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/swiper.4.4.6.min.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/ldWidget.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/ldWidgetLeistungsdaten.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/ldWidgetGalerie.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/cb04a32d5eb46754e0f81b123b9c868d/highcharts.js?lm=1622118054"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/cb04a32d5eb46754e0f81b123b9c868d/themes/tmMini.js?lm=1622118054"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/cb04a32d5eb46754e0f81b123b9c868d/lang/lang_pt.js?lm=1622118054"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/localStorage.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/foundation.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery-ui-1.10.4.custom.min.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/clipboard.min.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery.icheck.min.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/js/jquery.tooltipster.js?lm=1622118054"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jquery.ba-bbq.min.js?lm=1622460135"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/swiper.4.4.6.min.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/ldWidget.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/ldWidgetLeistungsdaten.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/ldWidgetGalerie.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/cb04a32d5eb46754e0f81b123b9c868d/highcharts.js?lm=1622460135"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/cb04a32d5eb46754e0f81b123b9c868d/themes/tmMini.js?lm=1622460135"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/cb04a32d5eb46754e0f81b123b9c868d/lang/lang_pt.js?lm=1622460135"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/localStorage.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/foundation.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery-ui-1.10.4.custom.min.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/clipboard.min.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery.icheck.min.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/js/jquery.tooltipster.js?lm=1622460135"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 <!-- DFPV2 --->
@@ -195,13 +195,13 @@ googletag.pubads().setTargeting("URL","www.transfermarkt.pt")
 googletag.pubads().setTargeting("cg1", ["statistik"]);
 googletag.pubads().setTargeting("cg2", ["spieler"]);
 googletag.pubads().setTargeting("cg3", ["profil"]);
-googletag.pubads().setTargeting("cg4", ["28003"]);
+googletag.pubads().setTargeting("cg4", ["206050"]);
 googletag.enableServices();
 })
 <!-- DFPV2-ENDE -->
 /*]]>*/
 </script>
-<title>Lionel Messi - Perfil de jogador 20/21 | Transfermarkt</title>
+<title>Paulo Dybala - Perfil de jogador 20/21 | Transfermarkt</title>
                 <script type="module" src="https://tmsi.akamaized.net/js/globals-dev/tm-global-elements.esm.js?v=4"></script>
             <script nomodule="" src="https://tmsi.akamaized.net/js/globals-dev/tm-global-elements.js?v=4"></script>
 <script type="text/javascript">
@@ -243,7 +243,7 @@ googletag.enableServices();
                 'content_group1': 'statistik',
                 'content_group2': 'spieler',
                 'content_group3': 'profil',
-                'content_group4': '28003',
+                'content_group4': '206050',
                 'loggedIn': tmData.loggedIn,
                 'tmTraffic': tmData.tmTraffic
             }); 
@@ -287,7 +287,7 @@ googletag.enableServices();
 
     <!--[if lte IE 8]>
     <link rel="stylesheet" type="text/css" href="/css/ie.css"/><![endif]-->
-            <link rel="canonical" href="https://www.transfermarkt.pt/lionel-messi/profil/spieler/28003">
+            <link rel="canonical" href="https://www.transfermarkt.pt/paulo-dybala/profil/spieler/206050">
     <!-- no Tisoomi -->    <style>
         @font-face {
             font-family: 'OSL';
@@ -578,10 +578,10 @@ googletag.enableServices();
 </div>
 
 <tm-quick-select-bar
-    default-country="157"
-    default-competition="ES1"
-    default-club="131"
-    default-player="28003"
+    default-country="75"
+    default-competition="IT1"
+    default-club="506"
+    default-player="206050"
     dropdown-visible=""
     translations='{&quot;home&quot;:&quot;Home&quot;,&quot;country&quot;:&quot;Pa\u00eds&quot;,&quot;competition&quot;:&quot;Competi\u00e7\u00e3o&quot;,&quot;club&quot;:&quot;Clube&quot;,&quot;player&quot;:&quot;Jogadores&quot;,&quot;attack&quot;:&quot;Avan\u00e7ado&quot;,&quot;midfield&quot;:&quot;M\u00e9dio&quot;,&quot;defense&quot;:&quot;Defesa&quot;,&quot;goalkeeper&quot;:&quot;Guarda-redes&quot;}'
     >
@@ -620,71 +620,49 @@ googletag.enableServices();
 						            <div class="dataMain">
                 <div class="dataTop">
                     <div class="dataName">
-						<span class="dataRN">#10</span> <h1 itemprop="name">Lionel <b>Messi</b></h1>
+						<span class="dataRN">#10</span> <h1 itemprop="name">Paulo <b>Dybala</b></h1>
 
 						
 
-																					<img src="/images/icons/captain_1.png" class="dataCaptain" title="Capitão" />
-													
+																			
                     </div>
 											<div class="dataErfolge hide-for-small">
 															<a
-                                    href="/lionel-messi/erfolge/spieler/28003"
-                                    title="Melhor jogador do mundo"
+                                    href="/paulo-dybala/erfolge/spieler/206050"
+                                    title="Melhor marcador"
                                     class="dataErfolg"
                                 >
-                                    <img src="https://tmssl.akamaized.net/images/titel/header/195.png?lm=1575286754" title="Melhor jogador do mundo" alt="Melhor jogador do mundo" class="dataErfolgImage" />                                    <span class="dataErfolgAnzahl">1</span>
+                                    <img src="https://tmssl.akamaized.net/images/titel/header/5.png?lm=1465908312" title="Melhor marcador" alt="Melhor marcador" class="dataErfolgImage" />                                    <span class="dataErfolgAnzahl">1</span>
 								</a>
 															<a
-                                    href="/lionel-messi/erfolge/spieler/28003"
-                                    title="Vencedor Ballon d'Or"
+                                    href="/paulo-dybala/erfolge/spieler/206050"
+                                    title="Jogador da época"
                                     class="dataErfolg notTablet"
                                 >
-                                    <img src="https://tmssl.akamaized.net/images/titel/header/676.png?lm=1575286775" title="Vencedor Ballon d'Or" alt="Vencedor Ballon d'Or" class="dataErfolgImage" />                                    <span class="dataErfolgAnzahl">6</span>
-								</a>
-															<a
-                                    href="/lionel-messi/erfolge/spieler/28003"
-                                    title="O Futebolista do Ano da Europa"
-                                    class="hide"
-                                >
-                                    <img src="https://tmssl.akamaized.net/images/titel/header/152.png?lm=1396275124" title="O Futebolista do Ano da Europa" alt="O Futebolista do Ano da Europa" class="dataErfolgImage" />                                    <span class="dataErfolgAnzahl">3</span>
-								</a>
-															<a
-                                    href="/lionel-messi/erfolge/spieler/28003"
-                                    title="Melhor marcador"
-                                    class="hide"
-                                >
-                                    <img src="https://tmssl.akamaized.net/images/titel/header/5.png?lm=1465908312" title="Melhor marcador" alt="Melhor marcador" class="dataErfolgImage" />                                    <span class="dataErfolgAnzahl">21</span>
-								</a>
-															<a
-                                    href="/lionel-messi/erfolge/spieler/28003"
-                                    title="Jogador da época"
-                                    class="hide"
-                                >
-                                    <img src="https://tmssl.akamaized.net/images/titel/header/31.png?lm=1465981192" title="Jogador da época" alt="Jogador da época" class="dataErfolgImage" />                                    <span class="dataErfolgAnzahl">10</span>
+                                    <img src="https://tmssl.akamaized.net/images/titel/header/31.png?lm=1465981192" title="Jogador da época" alt="Jogador da época" class="dataErfolgImage" />                                    <span class="dataErfolgAnzahl">1</span>
 								</a>
 																						<a
-                                    href="/lionel-messi/erfolge/spieler/28003"
-                                    title="Vencedor da Champions-League"
+                                    href="/paulo-dybala/erfolge/spieler/206050"
+                                    title="Campeão de Itália"
                                     class="dataErfolg"
                                 >
-										<img src="https://tmssl.akamaized.net/images/erfolge/header/4.png?lm=1520606999" title="Vencedor da Champions-League" alt="Vencedor da Champions-League" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">4</span>
+										<img src="https://tmssl.akamaized.net/images/erfolge/header/13.png?lm=1520606997" title="Campeão de Itália" alt="Campeão de Itália" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">5</span>
 								</a>
 															<a
-                                    href="/lionel-messi/erfolge/spieler/28003"
-                                    title="Campeão de Espanha"
+                                    href="/paulo-dybala/erfolge/spieler/206050"
+                                    title="Vencedor da Taça de Itália"
                                     class="dataErfolg notTablet"
                                 >
-										<img src="https://tmssl.akamaized.net/images/erfolge/header/11.png?lm=1520606997" title="Campeão de Espanha" alt="Campeão de Espanha" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">10</span>
+										<img src="https://tmssl.akamaized.net/images/erfolge/header/96.png?lm=1520606999" title="Vencedor da Taça de Itália" alt="Vencedor da Taça de Itália" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">4</span>
 								</a>
 															<a
-                                    href="/lionel-messi/erfolge/spieler/28003"
-                                    title="Vencedor da Taça de Espanha"
+                                    href="/paulo-dybala/erfolge/spieler/206050"
+                                    title="Vencedor da Supertaça da Itália"
                                     class="dataErfolg notTablet"
                                 >
-										<img src="https://tmssl.akamaized.net/images/erfolge/header/94.png?lm=1520606999" title="Vencedor da Taça de Espanha" alt="Vencedor da Taça de Espanha" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">7</span>
+										<img src="https://tmssl.akamaized.net/images/erfolge/header/97.png?lm=1520606999" title="Vencedor da Supertaça da Itália" alt="Vencedor da Supertaça da Itália" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">3</span>
 								</a>
-																						<a href="/lionel-messi/erfolge/spieler/28003" title="Palmarés">
+																						<a href="/paulo-dybala/erfolge/spieler/206050" title="Palmarés">
 									<div class="dataErfolg">
 										<span class="dataErfolgMore"><img src="/images/icons/mehr_erfolge.png" /></span>
 									</div>
@@ -699,13 +677,13 @@ googletag.enableServices();
 													<p>
 								<span class="dataItem">Nasc./Idade:</span>
 								<span itemprop="birthDate" class="dataValue">
-									24/06/1987																			(33)
+									15/11/1993																			(27)
 																	</span>
 							</p>
 															<p class="hide-for-small">
 									<span class="dataItem">Local de nascimento:</span>
 									<span class="dataValue">
-										<img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><span itemprop="birthPlace">Rosario</span>
+										<img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><span itemprop="birthPlace">Laguna Larga</span>
 									</span>
 								</p>
 																											<p>
@@ -719,58 +697,58 @@ googletag.enableServices();
                     <div class="dataDaten">
 													<p>
 								<span class="dataItem">Altura:</span>
-								<span itemprop="height" class="dataValue">1,70 m</span>
+								<span itemprop="height" class="dataValue">1,77 m</span>
 							</p>
 						                        <p>
                             <span class="dataItem">Posição:</span>
                             <span class="dataValue">
-								Extremo Direito                            </span>
+								Segundo Avançado                            </span>
                         </p>
 													<p class="show-for-small">
 								<span class="dataItem">Contrato até:</span>
 								<span class="dataValue">
-									30/06/2021								</span>
+									30/06/2022								</span>
 							</p>
 												                    </div>
                     <div class="dataDaten">
 													<p class="notTablet forMobile">
 								<span class="dataItem">
-																			Internacional atual:
+																			Antigo internacional:
 																	</span>
 								<span class="dataValue">
 									<img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen flagge" /><a class="vereinprofil_tooltip" id="3437" href="/argentinien/startseite/verein/3437">Argentina</a>								</span>
 							</p>
 							<p class="hide-for-small notTablet">
 								<span class="dataItem">Internacionalizações/Golos:</span>
-								<span class="dataValue"><a href="/lionel-messi/nationalmannschaft/spieler/28003/verein_id/3437">142</a>/<a href="/lionel-messi/nationalmannschaft/spieler/28003/verein_id/3437">71</a></span>
+								<span class="dataValue"><a href="/paulo-dybala/nationalmannschaft/spieler/206050/verein_id/3437">29</a>/<a href="/paulo-dybala/nationalmannschaft/spieler/206050/verein_id/3437">2</a></span>
 							</p>
 						                    </div>
                 </div>
             </div>
 
             <div class="dataBild">
-								<img src="https://img.a.transfermarkt.technology/portrait/header/28003-1604164452.png?lm=1" title="Lionel Messi" alt="Lionel Messi" class="" /><div class="bildquelle"><span title="imago images">imago images</span></div>            </div>
+								<img src="https://img.a.transfermarkt.technology/portrait/header/206050-1541076083.jpg?lm=1" title="Paulo Dybala" alt="Paulo Dybala" class="" /><div class="bildquelle"><span title="imago images">imago images</span></div>            </div>
             				<div class="dataZusatzbox">
-					<div class="dataZusatzImage"><a class="vereinprofil_tooltip" id="131" href="/fc-barcelona/startseite/verein/131"><img src="https://tmssl.akamaized.net/images/wappen/normquad/131.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona" class="" /></a></div>
+					<div class="dataZusatzImage"><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506"><img src="https://tmssl.akamaized.net/images/wappen/normquad/506.png?lm=1594291454" title="&nbsp;" alt="Juventus FC" class="" /></a></div>
 					<div class="dataZusatzDaten">
-						<span class="hauptpunkt" itemprop="affiliation"><a class="vereinprofil_tooltip" id="131" href="/fc-barcelona/startseite/verein/131">FC Barcelona</a></span><br />
+						<span class="hauptpunkt" itemprop="affiliation"><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506">Juventus</a></span><br />
 																											<span class="mediumpunkt">
-									<a href="/laliga/startseite/wettbewerb/ES1">
+									<a href="/serie-a/startseite/wettbewerb/IT1">
 
-										<img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen show-for-small" /><img src="https://tmssl.akamaized.net/images/logo/verytiny/es1.png?lm=1557051003" title="LaLiga" alt="LaLiga" class="hide-for-small" />LaLiga									</a>
+										<img src="https://tmssl.akamaized.net/images/flagge/tiny/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen show-for-small" /><img src="https://tmssl.akamaized.net/images/logo/verytiny/it1.png?lm=1562052084" title="Serie A" alt="Serie A" class="hide-for-small" />Serie A									</a>
 								</span>
 								<br />
 																							<span class="dataItem">Liga:</span>
 								<span class="dataValue">
-									<img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" />Primeira Liga								</span>
+									<img src="https://tmssl.akamaized.net/images/flagge/tiny/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" />Primeira Liga								</span>
 								
 							<br />
-																							<span class="dataItem">Na equipa desde:</span> <span class="dataValue">01/07/2005</span>								<br />
-								<span class="dataItem">Contrato até:</span> <span class="dataValue">30/06/2021</span>								<br />
+																							<span class="dataItem">Na equipa desde:</span> <span class="dataValue">01/07/2015</span>								<br />
+								<span class="dataItem">Contrato até:</span> <span class="dataValue">30/06/2022</span>								<br />
 																		</div>
 				</div>
 										<div class="dataMarktwert">
-					<a href="/lionel-messi/marktwertverlauf/spieler/28003">80,00 <span class="waehrung">M €</span>					<p>Última alteração: 05/01/2021</p></a>
+					<a href="/paulo-dybala/marktwertverlauf/spieler/206050">60,00 <span class="waehrung">M €</span>					<p>Última alteração: 23/03/2021</p></a>
 				</div>
 				
         </div>
@@ -799,7 +777,7 @@ googletag.enableServices();
                                 <a>Fechar Sub-Navegação</a>
                             </li>
                                                                 <li id="perfil" data-name="perfil" class="first-button aktiv ">
-                                        <a name="SubNavi" href="/lionel-messi/profil/spieler/28003" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','profil');
+                                        <a name="SubNavi" href="/paulo-dybala/profil/spieler/206050" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','profil');
 ">Perfil</a>
                                                                             </li>
                                                                         <li id="desempenho" data-name="desempenho" class="  ">
@@ -807,28 +785,28 @@ googletag.enableServices();
 ">Desempenho</a>
                                         <div class="dropdown_fullwidth " title=""><div><img src="/images/bx_loader.gif" /></div></div>                                    </li>
                                                                         <li id="valor-de-mercado" data-name="valor-de-mercado" class="  ">
-                                        <a name="SubNavi" href="/lionel-messi/marktwertverlauf/spieler/28003" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','marktwert');
+                                        <a name="SubNavi" href="/paulo-dybala/marktwertverlauf/spieler/206050" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','marktwert');
 ">Valor de mercado
 </a>
                                                                             </li>
                                                                         <li id="transferencias" data-name="transferencias" class="  ">
-                                        <a name="SubNavi" href="/lionel-messi/transfers/spieler/28003" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','transfers');
+                                        <a name="SubNavi" href="/paulo-dybala/transfers/spieler/206050" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','transfers');
 ">Transferências</a>
                                                                             </li>
                                                                         <li id="rumores" data-name="rumores" class="  ">
-                                        <a name="SubNavi" href="/lionel-messi/geruechte/spieler/28003" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','geruchte');
+                                        <a name="SubNavi" href="/paulo-dybala/geruechte/spieler/206050" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','geruchte');
 ">Rumores </a>
                                                                             </li>
                                                                         <li id="selecao" data-name="selecao" class="  ">
-                                        <a name="SubNavi" href="/lionel-messi/nationalmannschaft/spieler/28003" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','nationalmannschaft');
+                                        <a name="SubNavi" href="/paulo-dybala/nationalmannschaft/spieler/206050" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','nationalmannschaft');
 ">Seleção</a>
                                                                             </li>
                                                                         <li id="noticias" data-name="noticias" class="  ">
-                                        <a name="SubNavi" href="/lionel-messi/news/spieler/28003" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','news');
+                                        <a name="SubNavi" href="/paulo-dybala/news/spieler/206050" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','news');
 ">Notícias</a>
                                                                             </li>
                                                                         <li id="palmares" data-name="palmares" class="  ">
-                                        <a name="SubNavi" href="/lionel-messi/erfolge/spieler/28003" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','erfolge');
+                                        <a name="SubNavi" href="/paulo-dybala/erfolge/spieler/206050" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','erfolge');
 ">Palmarés</a>
                                                                             </li>
                                                                         <li id="carreira" data-name="carreira" class="  ">
@@ -891,40 +869,36 @@ googletag.enableServices();
             <div class="swiper-wrapper">
                                     <div
                         class="flexCenter swiper-slide"
-                        onclick="tmEvent('LDWidget', 'click', 'wettbewerbIcon ES1')">
-                        <img src="https://tmssl.akamaized.net/images/logo/normal/es1.png?lm=1557051003" title="LaLiga" alt="LaLiga" class="" />                    </div>
+                        onclick="tmEvent('LDWidget', 'click', 'wettbewerbIcon IT1')">
+                        <img src="https://tmssl.akamaized.net/images/logo/normal/it1.png?lm=1562052084" title="Serie A" alt="Serie A" class="" />                    </div>
                                         <div
                         class="flexCenter swiper-slide"
                         onclick="tmEvent('LDWidget', 'click', 'wettbewerbIcon CL')">
                         <img src="https://tmssl.akamaized.net/images/logo/normal/cl.png?lm=1520874127" title="Liga dos Campeões" alt="Liga dos Campeões" class="" />                    </div>
                                         <div
                         class="flexCenter swiper-slide"
-                        onclick="tmEvent('LDWidget', 'click', 'wettbewerbIcon CDR')">
-                        <img src="https://tmssl.akamaized.net/images/logo/normal/cdr.png?lm=1520607012" title="Copa del Rey" alt="Copa del Rey" class="" />                    </div>
-                                        <div
-                        class="flexCenter swiper-slide"
-                        onclick="tmEvent('LDWidget', 'click', 'wettbewerbIcon SUC')">
-                        <img src="https://tmssl.akamaized.net/images/logo/normal/suc.png?lm=1520607013" title="Supercopa" alt="Supercopa" class="" />                    </div>
+                        onclick="tmEvent('LDWidget', 'click', 'wettbewerbIcon CIT')">
+                        <img src="https://tmssl.akamaized.net/images/logo/normal/cit.png?lm=1613033113" title="Copa TIM da Itália" alt="Copa TIM da Itália" class="" />                    </div>
                                 </div>
         </div>
     </div>
     <div class="leistungsdatenContent swiper-container">
         <div class="swiper-wrapper">
-                            <div class="swiper-slide" data-id="ES1">
+                            <div class="swiper-slide" data-id="IT1">
                     <div class="leistungsdatenHeadline flexCenter">
-                        <h4><a href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/ES1/saison/2020">LaLiga 20/21</a>                                                            <br>  </h4>
+                        <h4><a href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/IT1/saison/2020">Serie A 20/21</a>                                                            <br>  </h4>
                     </div>
                     <div class="tabelle">
                         <div class="zeile">
                             <img src="https://tmsi.akamaized.net/icons/Spiele.svg" alt="Jogos" />                            <span class="bezeichnung">Jogos</span>
-                            <a name="link spiele" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/ES1/saison/2020">
-                                <span class="wert">35</span>
+                            <a name="link spiele" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/IT1/saison/2020">
+                                <span class="wert">20</span>
                             </a>
                         </div>
                         <div class="zeile">
                             <img src="https://tmsi.akamaized.net/icons/gelbe_karte.svg" alt="Cartão amarelo" />                            <span class="bezeichnung">Cartões amarelos</span>
-                            <a name="link gelbe-karten" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/ES1/saison/2020">
-                                <span class="wert">4</span>
+                            <a name="link gelbe-karten" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/IT1/saison/2020">
+                                <span class="wert">-</span>
                             </a>
                         </div>
                         <div class="zeile">
@@ -932,14 +906,14 @@ googletag.enableServices();
                                 class="bezeichnung">Golos</span>
                             <a
                                name="link Golos"
-                               href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/ES1/saison/2020">
+                               href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/IT1/saison/2020">
                                 <span
-                                    class="wert">30</span>
+                                    class="wert">4</span>
                             </a>
                         </div>
                         <div class="zeile">
                             <img src="https://tmsi.akamaized.net/icons/gelb_rote_karte.svg?v=2" alt="Duplo amarelo" />                            <span class="bezeichnung">Duplo amarelo</span>
-                            <a name="link gelbrote" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/ES1/saison/2020">
+                            <a name="link gelbrote" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/IT1/saison/2020">
                                 <span class="wert">-</span>
                             </a>
                         </div>
@@ -948,218 +922,14 @@ googletag.enableServices();
                                 class="bezeichnung">Assistências</span>
                             <a
                                name="link Assistências"
-                               href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/ES1/saison/2020">
-                                <span
-                                    class="wert">11</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/rote_karte.svg" alt="Cartões vermelhos" />                            <span class="bezeichnung">Cartões vermelhos</span>
-                            <a name="link rote" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/ES1/saison/2020">
-                                <span class="wert">-</span>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="quoten">
-                        <div class="large-4 small-4 column flexCenter">
-                            <div class="progress-pie-chart"
-                                 data-percent="87"
-                                 id="startelfquote">
-                                <div class="ppc-progress">
-                                    <div class="ppc-progress-fill"></div>
-                                </div>
-                                <div class="ppc-percents flexCenter">
-                                    <div class="pcc-percents-wrapper">
-                                        <span class="value"></span>
-                                        <span class="percent">%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="hide-for-small">No onze inicial</p>
-                        </div>
-                        <div class="large-4 small-4 column flexCenter">
-                            <div class="progress-pie-chart"
-                                 data-percent="88"
-                                 id="minutenquote">
-                                <div class="ppc-progress">
-                                    <div class="ppc-progress-fill"></div>
-                                </div>
-                                <div class="ppc-percents flexCenter">
-                                    <div class="pcc-percents-wrapper">
-                                        <span class="value"></span>
-                                        <span class="percent">%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="hide-for-small">Minutos utilizado</p>
-                        </div>
-                        <div class="large-4 small-4 column flexCenter">
-                            <div class="progress-pie-chart"
-                                 data-percent="48.235294117647"
-                                 id="torquote">
-                                <div class="ppc-progress">
-                                    <div class="ppc-progress-fill"></div>
-                                </div>
-                                <div class="ppc-percents flexCenter">
-                                    <div class="pcc-percents-wrapper">
-                                        <span class="value"></span>
-                                        <span class="percent">%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="hide-for-small">Participações golos</p>
-                        </div>
-                                                <div class="clearfix"></div>
-                        <a class="button" name="link Zu allen Detailierten Leistungsdaten" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/ES1/saison/2020">Dados desempenho detalhados</a>                    </div>
-                </div>
-                                <div class="swiper-slide" data-id="CL">
-                    <div class="leistungsdatenHeadline flexCenter">
-                        <h4><a href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CL/saison/2020">Champions League 20/21</a>                                                            <br>  </h4>
-                    </div>
-                    <div class="tabelle">
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/Spiele.svg" alt="Jogos" />                            <span class="bezeichnung">Jogos</span>
-                            <a name="link spiele" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CL/saison/2020">
-                                <span class="wert">6</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/gelbe_karte.svg" alt="Cartão amarelo" />                            <span class="bezeichnung">Cartões amarelos</span>
-                            <a name="link gelbe-karten" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CL/saison/2020">
-                                <span class="wert">-</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/ball_blau.svg" alt="Golos" />                            <span
-                                class="bezeichnung">Golos</span>
-                            <a
-                               name="link Golos"
-                               href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CL/saison/2020">
-                                <span
-                                    class="wert">5</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/gelb_rote_karte.svg?v=2" alt="Duplo amarelo" />                            <span class="bezeichnung">Duplo amarelo</span>
-                            <a name="link gelbrote" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CL/saison/2020">
-                                <span class="wert">-</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/ball_gruen.svg" alt="Assistências" />                            <span
-                                class="bezeichnung">Assistências</span>
-                            <a
-                               name="link Assistências"
-                               href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CL/saison/2020">
-                                <span
-                                    class="wert">2</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/rote_karte.svg" alt="Cartões vermelhos" />                            <span class="bezeichnung">Cartões vermelhos</span>
-                            <a name="link rote" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CL/saison/2020">
-                                <span class="wert">-</span>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="quoten">
-                        <div class="large-4 small-4 column flexCenter">
-                            <div class="progress-pie-chart"
-                                 data-percent="75"
-                                 id="startelfquote">
-                                <div class="ppc-progress">
-                                    <div class="ppc-progress-fill"></div>
-                                </div>
-                                <div class="ppc-percents flexCenter">
-                                    <div class="pcc-percents-wrapper">
-                                        <span class="value"></span>
-                                        <span class="percent">%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="hide-for-small">No onze inicial</p>
-                        </div>
-                        <div class="large-4 small-4 column flexCenter">
-                            <div class="progress-pie-chart"
-                                 data-percent="75"
-                                 id="minutenquote">
-                                <div class="ppc-progress">
-                                    <div class="ppc-progress-fill"></div>
-                                </div>
-                                <div class="ppc-percents flexCenter">
-                                    <div class="pcc-percents-wrapper">
-                                        <span class="value"></span>
-                                        <span class="percent">%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="hide-for-small">Minutos utilizado</p>
-                        </div>
-                        <div class="large-4 small-4 column flexCenter">
-                            <div class="progress-pie-chart"
-                                 data-percent="38.888888888889"
-                                 id="torquote">
-                                <div class="ppc-progress">
-                                    <div class="ppc-progress-fill"></div>
-                                </div>
-                                <div class="ppc-percents flexCenter">
-                                    <div class="pcc-percents-wrapper">
-                                        <span class="value"></span>
-                                        <span class="percent">%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="hide-for-small">Participações golos</p>
-                        </div>
-                                                <div class="clearfix"></div>
-                        <a class="button" name="link Zu allen Detailierten Leistungsdaten" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CL/saison/2020">Dados desempenho detalhados</a>                    </div>
-                </div>
-                                <div class="swiper-slide" data-id="CDR">
-                    <div class="leistungsdatenHeadline flexCenter">
-                        <h4><a href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CDR/saison/2020">Copa del Rey 20/21</a>                                                            <br>  </h4>
-                    </div>
-                    <div class="tabelle">
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/Spiele.svg" alt="Jogos" />                            <span class="bezeichnung">Jogos</span>
-                            <a name="link spiele" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CDR/saison/2020">
-                                <span class="wert">5</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/gelbe_karte.svg" alt="Cartão amarelo" />                            <span class="bezeichnung">Cartões amarelos</span>
-                            <a name="link gelbe-karten" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CDR/saison/2020">
-                                <span class="wert">2</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/ball_blau.svg" alt="Golos" />                            <span
-                                class="bezeichnung">Golos</span>
-                            <a
-                               name="link Golos"
-                               href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CDR/saison/2020">
+                               href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/IT1/saison/2020">
                                 <span
                                     class="wert">3</span>
                             </a>
                         </div>
                         <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/gelb_rote_karte.svg?v=2" alt="Duplo amarelo" />                            <span class="bezeichnung">Duplo amarelo</span>
-                            <a name="link gelbrote" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CDR/saison/2020">
-                                <span class="wert">-</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
-                            <img src="https://tmsi.akamaized.net/icons/ball_gruen.svg" alt="Assistências" />                            <span
-                                class="bezeichnung">Assistências</span>
-                            <a
-                               name="link Assistências"
-                               href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CDR/saison/2020">
-                                <span
-                                    class="wert">1</span>
-                            </a>
-                        </div>
-                        <div class="zeile">
                             <img src="https://tmsi.akamaized.net/icons/rote_karte.svg" alt="Cartões vermelhos" />                            <span class="bezeichnung">Cartões vermelhos</span>
-                            <a name="link rote" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CDR/saison/2020">
+                            <a name="link rote" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/IT1/saison/2020">
                                 <span class="wert">-</span>
                             </a>
                         </div>
@@ -1167,7 +937,7 @@ googletag.enableServices();
                     <div class="quoten">
                         <div class="large-4 small-4 column flexCenter">
                             <div class="progress-pie-chart"
-                                 data-percent="83"
+                                 data-percent="37"
                                  id="startelfquote">
                                 <div class="ppc-progress">
                                     <div class="ppc-progress-fill"></div>
@@ -1183,7 +953,7 @@ googletag.enableServices();
                         </div>
                         <div class="large-4 small-4 column flexCenter">
                             <div class="progress-pie-chart"
-                                 data-percent="81"
+                                 data-percent="33"
                                  id="minutenquote">
                                 <div class="ppc-progress">
                                     <div class="ppc-progress-fill"></div>
@@ -1199,7 +969,7 @@ googletag.enableServices();
                         </div>
                         <div class="large-4 small-4 column flexCenter">
                             <div class="progress-pie-chart"
-                                 data-percent="25"
+                                 data-percent="9.0909090909091"
                                  id="torquote">
                                 <div class="ppc-progress">
                                     <div class="ppc-progress-fill"></div>
@@ -1214,22 +984,22 @@ googletag.enableServices();
                             <p class="hide-for-small">Participações golos</p>
                         </div>
                                                 <div class="clearfix"></div>
-                        <a class="button" name="link Zu allen Detailierten Leistungsdaten" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CDR/saison/2020">Dados desempenho detalhados</a>                    </div>
+                        <a class="button" name="link Zu allen Detailierten Leistungsdaten" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/IT1/saison/2020">Dados desempenho detalhados</a>                    </div>
                 </div>
-                                <div class="swiper-slide" data-id="SUC">
+                                <div class="swiper-slide" data-id="CL">
                     <div class="leistungsdatenHeadline flexCenter">
-                        <h4><a href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/SUC/saison/2020">Supercopa 20/21</a>                                                            <br>  </h4>
+                        <h4><a href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CL/saison/2020">Champions League 20/21</a>                                                            <br>  </h4>
                     </div>
                     <div class="tabelle">
                         <div class="zeile">
                             <img src="https://tmsi.akamaized.net/icons/Spiele.svg" alt="Jogos" />                            <span class="bezeichnung">Jogos</span>
-                            <a name="link spiele" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/SUC/saison/2020">
-                                <span class="wert">1</span>
+                            <a name="link spiele" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CL/saison/2020">
+                                <span class="wert">5</span>
                             </a>
                         </div>
                         <div class="zeile">
                             <img src="https://tmsi.akamaized.net/icons/gelbe_karte.svg" alt="Cartão amarelo" />                            <span class="bezeichnung">Cartões amarelos</span>
-                            <a name="link gelbe-karten" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/SUC/saison/2020">
+                            <a name="link gelbe-karten" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CL/saison/2020">
                                 <span class="wert">-</span>
                             </a>
                         </div>
@@ -1238,14 +1008,14 @@ googletag.enableServices();
                                 class="bezeichnung">Golos</span>
                             <a
                                name="link Golos"
-                               href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/SUC/saison/2020">
+                               href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CL/saison/2020">
                                 <span
-                                    class="wert">-</span>
+                                    class="wert">1</span>
                             </a>
                         </div>
                         <div class="zeile">
                             <img src="https://tmsi.akamaized.net/icons/gelb_rote_karte.svg?v=2" alt="Duplo amarelo" />                            <span class="bezeichnung">Duplo amarelo</span>
-                            <a name="link gelbrote" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/SUC/saison/2020">
+                            <a name="link gelbrote" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CL/saison/2020">
                                 <span class="wert">-</span>
                             </a>
                         </div>
@@ -1254,22 +1024,22 @@ googletag.enableServices();
                                 class="bezeichnung">Assistências</span>
                             <a
                                name="link Assistências"
-                               href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/SUC/saison/2020">
+                               href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CL/saison/2020">
                                 <span
                                     class="wert">-</span>
                             </a>
                         </div>
                         <div class="zeile">
                             <img src="https://tmsi.akamaized.net/icons/rote_karte.svg" alt="Cartões vermelhos" />                            <span class="bezeichnung">Cartões vermelhos</span>
-                            <a name="link rote" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/SUC/saison/2020">
-                                <span class="wert">1</span>
+                            <a name="link rote" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CL/saison/2020">
+                                <span class="wert">-</span>
                             </a>
                         </div>
                     </div>
                     <div class="quoten">
                         <div class="large-4 small-4 column flexCenter">
                             <div class="progress-pie-chart"
-                                 data-percent="50"
+                                 data-percent="25"
                                  id="startelfquote">
                                 <div class="ppc-progress">
                                     <div class="ppc-progress-fill"></div>
@@ -1285,7 +1055,109 @@ googletag.enableServices();
                         </div>
                         <div class="large-4 small-4 column flexCenter">
                             <div class="progress-pie-chart"
-                                 data-percent="50"
+                                 data-percent="28"
+                                 id="minutenquote">
+                                <div class="ppc-progress">
+                                    <div class="ppc-progress-fill"></div>
+                                </div>
+                                <div class="ppc-percents flexCenter">
+                                    <div class="pcc-percents-wrapper">
+                                        <span class="value"></span>
+                                        <span class="percent">%</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <p class="hide-for-small">Minutos utilizado</p>
+                        </div>
+                        <div class="large-4 small-4 column flexCenter">
+                            <div class="progress-pie-chart"
+                                 data-percent="5.5555555555556"
+                                 id="torquote">
+                                <div class="ppc-progress">
+                                    <div class="ppc-progress-fill"></div>
+                                </div>
+                                <div class="ppc-percents flexCenter">
+                                    <div class="pcc-percents-wrapper">
+                                        <span class="value"></span>
+                                        <span class="percent">%</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <p class="hide-for-small">Participações golos</p>
+                        </div>
+                                                <div class="clearfix"></div>
+                        <a class="button" name="link Zu allen Detailierten Leistungsdaten" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CL/saison/2020">Dados desempenho detalhados</a>                    </div>
+                </div>
+                                <div class="swiper-slide" data-id="CIT">
+                    <div class="leistungsdatenHeadline flexCenter">
+                        <h4><a href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CIT/saison/2020">Coppa Italia 20/21</a>                                                            <br>  </h4>
+                    </div>
+                    <div class="tabelle">
+                        <div class="zeile">
+                            <img src="https://tmsi.akamaized.net/icons/Spiele.svg" alt="Jogos" />                            <span class="bezeichnung">Jogos</span>
+                            <a name="link spiele" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CIT/saison/2020">
+                                <span class="wert">1</span>
+                            </a>
+                        </div>
+                        <div class="zeile">
+                            <img src="https://tmsi.akamaized.net/icons/gelbe_karte.svg" alt="Cartão amarelo" />                            <span class="bezeichnung">Cartões amarelos</span>
+                            <a name="link gelbe-karten" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CIT/saison/2020">
+                                <span class="wert">-</span>
+                            </a>
+                        </div>
+                        <div class="zeile">
+                            <img src="https://tmsi.akamaized.net/icons/ball_blau.svg" alt="Golos" />                            <span
+                                class="bezeichnung">Golos</span>
+                            <a
+                               name="link Golos"
+                               href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CIT/saison/2020">
+                                <span
+                                    class="wert">-</span>
+                            </a>
+                        </div>
+                        <div class="zeile">
+                            <img src="https://tmsi.akamaized.net/icons/gelb_rote_karte.svg?v=2" alt="Duplo amarelo" />                            <span class="bezeichnung">Duplo amarelo</span>
+                            <a name="link gelbrote" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CIT/saison/2020">
+                                <span class="wert">-</span>
+                            </a>
+                        </div>
+                        <div class="zeile">
+                            <img src="https://tmsi.akamaized.net/icons/ball_gruen.svg" alt="Assistências" />                            <span
+                                class="bezeichnung">Assistências</span>
+                            <a
+                               name="link Assistências"
+                               href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CIT/saison/2020">
+                                <span
+                                    class="wert">-</span>
+                            </a>
+                        </div>
+                        <div class="zeile">
+                            <img src="https://tmsi.akamaized.net/icons/rote_karte.svg" alt="Cartões vermelhos" />                            <span class="bezeichnung">Cartões vermelhos</span>
+                            <a name="link rote" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CIT/saison/2020">
+                                <span class="wert">-</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="quoten">
+                        <div class="large-4 small-4 column flexCenter">
+                            <div class="progress-pie-chart"
+                                 data-percent="0"
+                                 id="startelfquote">
+                                <div class="ppc-progress">
+                                    <div class="ppc-progress-fill"></div>
+                                </div>
+                                <div class="ppc-percents flexCenter">
+                                    <div class="pcc-percents-wrapper">
+                                        <span class="value"></span>
+                                        <span class="percent">%</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <p class="hide-for-small">No onze inicial</p>
+                        </div>
+                        <div class="large-4 small-4 column flexCenter">
+                            <div class="progress-pie-chart"
+                                 data-percent="3"
                                  id="minutenquote">
                                 <div class="ppc-progress">
                                     <div class="ppc-progress-fill"></div>
@@ -1316,7 +1188,7 @@ googletag.enableServices();
                             <p class="hide-for-small">Participações golos</p>
                         </div>
                                                 <div class="clearfix"></div>
-                        <a class="button" name="link Zu allen Detailierten Leistungsdaten" href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/SUC/saison/2020">Dados desempenho detalhados</a>                    </div>
+                        <a class="button" name="link Zu allen Detailierten Leistungsdaten" href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CIT/saison/2020">Dados desempenho detalhados</a>                    </div>
                 </div>
                         </div>
         <div class="swiper-button-next perfomance-slider"></div>
@@ -1325,137 +1197,92 @@ googletag.enableServices();
 </div>
 
     <script>
-        var anzahlWettbewerbPerSlide = 4    </script>
+        var anzahlWettbewerbPerSlide = 3    </script>
     <div class="galerie-content swiper-slide swiper-slide-active">
     <div class="swiper-container">
         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-20202021-1616398827-59232.jpg?lm=1616398848" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-juventus-turin-1617859542-60329.jpg?lm=1617859577" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-2020-2021-1615872755-58808.jpg?lm=1615872773" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-juventus-1617715341-60172.jpg?lm=1617715353" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-1610004379-54096.jpg?lm=1610004386" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-juventus-1605862541-51733.jpg?lm=1605862555" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-2020-2021-1608727492-53594.jpg?lm=1608727512" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-juventus-2020-1604051242-50250.jpg?lm=1604051263" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-ballon-dor-2019-1592819026-41968.jpg?lm=1592819001" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-juventus-1604410970-50423.jpg?lm=1604410987" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/messi-barcelona-1590668606-39854.jpg?lm=1590668596" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">TM/imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/messi-1570628108-26423.jpg?lm=1570628121" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-juventus-turin-1565262619-24441.jpg?lm=1565262634" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/suarez-messi-dembele-1548687465-20148.jpg?lm=1548687490" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-juventus-1545229938-19455.jpg?lm=1545229950" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-2007-1588590273-37588.jpg?lm=1588590278" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/cristiano-ronaldo-paulo-dybala-1548771645-20210.jpg?lm=1548771662" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-1567748810-25426.jpg?lm=1567748836" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-1448465639-4808.jpg?lm=1483605999" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-1548770350-20204.jpg?lm=1548770369" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-1476711306-6269.jpg?lm=1483606173" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-transfermarkt-spieler-der-laliga-saison-2018-19-1566816872-25004.jpg?lm=1566816882" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">TM/LionelMessi</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/messi-1493045428-9885.jpg?lm=1493045461" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-juventus-1487409744-8465.jpg?lm=1487409794" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-luis-suarez-1548769695-20199.jpg?lm=1548769717" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-1461669514-5239.jpg?lm=1483606043" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">imago images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1548770181-20203.jpg?lm=1548770203" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1506921740-12154.jpg?lm=1506921752" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1507649274-12248.jpg?lm=1507649293" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1473415845-6134.jpg?lm=1483606150" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1478622373-6504.jpg?lm=1483606205" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1471008317-5804.jpg?lm=1483606110" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1467208453-5622.jpg?lm=1483606087" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1454508603-4925.jpg?lm=1483606013" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1421073766-4609.jpg?lm=1483605977" class="swiper-lazy" alt="">
-                    <div class="swiper-lazy-preloader"></div>
-                    <div class="premium-profil-quelle">imago images</div>
-                </div>
-                                <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1401789362-224.jpg?lm=1483605491" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-1418115360-3651.jpg?lm=1483605860" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">Getty Images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1401786445-219.jpg?lm=1483605491" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-1417529613-3396.jpg?lm=1483605834" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">Getty Images</div>
                 </div>
                                 <div class="swiper-slide">
-                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1401786427-218.jpg?lm=1483605491" class="swiper-lazy" alt="">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-1417529580-3395.jpg?lm=1483605834" class="swiper-lazy" alt="">
+                    <div class="swiper-lazy-preloader"></div>
+                    <div class="premium-profil-quelle">Getty Images</div>
+                </div>
+                                <div class="swiper-slide">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-1410339641-2634.jpg?lm=1483605744" class="swiper-lazy" alt="">
+                    <div class="swiper-lazy-preloader"></div>
+                    <div class="premium-profil-quelle">Getty Images</div>
+                </div>
+                                <div class="swiper-slide">
+                    <img data-src="https://tmssl.akamaized.net/images/foto/normal/paulo-dybala-1410339619-2633.jpg?lm=1483605744" class="swiper-lazy" alt="">
                     <div class="swiper-lazy-preloader"></div>
                     <div class="premium-profil-quelle">Getty Images</div>
                 </div>
@@ -1480,22 +1307,22 @@ googletag.enableServices();
                             <div class="large-5 columns infos small-12">
                                 <div class="auflistung">
                                                                             <div class="hauptposition-left">
-                                                    <span>Posição principal                                                        :</span><br/>Extremo Direito                                        </div>
+                                                    <span>Posição principal                                                        :</span><br/>Segundo Avançado                                        </div>
                                                                                 <div class="nebenpositionen">
                                             <span>Posições secundárias:</span>
-                                                                                            <br/>Ponta de Lança                                                                                                <br/>Segundo Avançado                                                                                        </div>
+                                                                                            <br/>Ponta de Lança                                                                                                <br/>Extremo Direito                                                                                        </div>
                                                                         </div>
                             </div>
                             <div class="large-7 columns feld small-12">
                                                                     <img src="/images/icons/pos_gross.png"
-                                         class="hauptposition_12"
-                                         title="Extremo Direito"/>
+                                         class="hauptposition_13"
+                                         title="Segundo Avançado"/>
                                                                         <img src="/images/icons/pos_klein.png"
                                          class="nebenposition_14"
                                          title="Ponta de Lança"/>
                                                                         <img src="/images/icons/pos_klein.png"
-                                         class="nebenposition_13"
-                                         title="Segundo Avançado"/>
+                                         class="nebenposition_12"
+                                         title="Extremo Direito"/>
                                                                 </div>
                         </div>
                     </div>
@@ -1517,14 +1344,14 @@ googletag.enableServices();
                                         Atual valor de mercado:
                                     </div>
                                     <div class="right-td">
-                                        80,00 M €                                    </div>
+                                        60,00 M €                                    </div>
                                 </div>
                                 <div class="zeile-mitte">
                                     <div class="left-td">
                                         <span>Última alteração:</span>
                                     </div>
                                     <div class="right-td">
-                                        <span>05/01/2021</span>
+                                        <span>23/03/2021</span>
                                     </div>
                                 </div>
                                 <div class="zeile-unten">
@@ -1533,19 +1360,19 @@ googletag.enableServices();
                                         <span class="show-for-small">Última alteração:</span>
                                     </div>
                                     <div class="right-td">
-                                        180,00 M €                                        <br class="hide-for-small">
-                                        <span>01/01/2018</span>
+                                        110,00 M €                                        <br class="hide-for-small">
+                                        <span>07/06/2018</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="large-7 columns small-12 marktwertentwicklung-graph">
-                            <a href="/lionel-messi/marktwertverlauf/spieler/28003">
+                            <a href="/paulo-dybala/marktwertverlauf/spieler/206050">
                                 <div id="yw0"></div>                            </a>
                         </div>
                     </div>
                     <div class="c2action-footer">
-                        <a title="Lionel Messi" class="spielprofil_tooltip" id="28003" href="/lionel-messi/marktwertverlauf/spieler/28003">Evolução do valor de mercado e classificações</a>                    </div>
+                        <a title="Paulo Dybala" class="spielprofil_tooltip" id="206050" href="/paulo-dybala/marktwertverlauf/spieler/206050">Evolução do valor de mercado e classificações</a>                    </div>
                 </div>
             </div>
         </div>
@@ -1560,34 +1387,34 @@ googletag.enableServices();
                 <table class="auflistung">
                                             <tr>
                             <th>Nome no país de origem:</th>
-                            <td>Lionel Andrés Messi Cuccitini</td>
+                            <td>Paulo Bruno Exequiel Dybala</td>
                         </tr>
                                                 <tr>
                             <th>Data de nascimento:</th>
-                            <td><a href="/aktuell/waspassiertheute/aktuell/new/datum/1987-06-24">24/06/1987</a>                                </td>
+                            <td><a href="/aktuell/waspassiertheute/aktuell/new/datum/1993-11-15">15/11/1993</a>                                </td>
                         </tr>
                                                 <tr>
                             <th>Local de nascimento:</th>
                             <td>
-                                 <span >Rosario&nbsp;&nbsp;<img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></span>                            </td>
+                                 <span >Laguna Larga&nbsp;&nbsp;<img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></span>                            </td>
                         </tr>
                                                                                             <tr>
                                 <th>Idade:</th>
-                                <td>33</td>
+                                <td>27</td>
                             </tr>
                                                                                         <tr>
                             <th>Altura:</th>
-                            <td>1,70&nbsp;m</td>
+                            <td>1,77&nbsp;m</td>
                         </tr>
                                             <tr>
                             <th>Nacionalidade:</th>
                             <td>
-                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" />&nbsp;&nbsp;Argentina<br/><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" />&nbsp;&nbsp;Espanha                            </td>
+                                <img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" />&nbsp;&nbsp;Argentina<br/><img src="https://tmssl.akamaized.net/images/flagge/tiny/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" />&nbsp;&nbsp;Itália                            </td>
                         </tr>
                                         <tr>
                         <th>Posição:</th>
                         <td>
-                            Avançado - Extremo Direito                        </td>
+                            Avançado - Segundo Avançado                        </td>
                     </tr>
                                             <tr>
                             <th>Pé:</th>
@@ -1603,20 +1430,20 @@ googletag.enableServices();
                             Clube atual:
                         </th>
                         <td>
-                            <a class="vereinprofil_tooltip" id="131" href="/fc-barcelona/startseite/verein/131"><img src="https://tmssl.akamaized.net/images/wappen/tiny/131.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona" class="tiny_wappen" /></a>                            <a class="vereinprofil_tooltip" id="131" href="/fc-barcelona/startseite/verein/131">FC Barcelona</a>                        </td>
+                            <a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506"><img src="https://tmssl.akamaized.net/images/wappen/tiny/506.png?lm=1594291454" title="&nbsp;" alt="Juventus FC" class="tiny_wappen" /></a>                            <a class="vereinprofil_tooltip" id="506" href="/juventus-turin/startseite/verein/506">Juventus FC</a>                        </td>
                     </tr>
                                             <tr>
                             <th>Na equipa desde:</th>
                             <td>
-                                01/07/2005                            </td>
+                                01/07/2015                            </td>
                         </tr>
                         <tr>
                             <th>Contrato até:</th>
-                            <td>30/06/2021</td>
+                            <td>30/06/2022</td>
                         </tr>
                                                     <tr>
                                 <th>Última renovação de contrato:</th>
-                                <td>25/11/2017</td>
+                                <td>13/04/2017</td>
                             </tr>
                                                                         <tr>
                             <th>Equipador:</th>
@@ -1625,15 +1452,15 @@ googletag.enableServices();
                                             <tr class="hide-for-small">
                             <th>Redes Sociais:</th>
                             <td><div class="socialmedia-icons">
-			<a href="http://www.facebook.com/LeoMessi"
+			<a href="http://twitter.com/PauDybala_JR"
+		   target="_blank" title="Twitter">
+            <img src="https://tmsi.akamaized.net/icons/twitter.svg" loading= "lazy" width="20px" height="20px" />		</a>
+			<a href="http://www.facebook.com/paulodybala/?ref=ts&fref=ts"
 		   target="_blank" title="Facebook">
             <img src="https://tmsi.akamaized.net/icons/facebook.svg" loading= "lazy" width="20px" height="20px" />		</a>
-			<a href="http://instagram.com/leomessi"
+			<a href="http://www.instagram.com/paulodybala/"
 		   target="_blank" title="Instagram">
             <img src="https://tmsi.akamaized.net/icons/instagram.svg" loading= "lazy" width="20px" height="20px" />		</a>
-			<a href="http://www.leomessi.com"
-		   target="_blank" title="Página oficial">
-            <img src="https://tmsi.akamaized.net/icons/página-oficial.svg" loading= "lazy" width="20px" height="20px" />		</a>
 	</div>
 </td>
                         </tr>
@@ -1647,7 +1474,7 @@ googletag.enableServices();
         <span class="headerueberschrift">Outros dados</span>
     </div>
     <div class="content">
-		Lionel Messi é o Primo de <a title="Maxi Biancucchi" class="spielprofil_tooltip" id="55306" href="/maxi-biancucchi/profil/spieler/55306">Maxi Biancucchi</a> (<a title="Fim de carreira" class="" id="123" href="/karriereende/startseite/verein/123">Fim de carreira</a>).<br /><br />Lionel Messi é o Primo de <a title="Emanuel Biancucchi" class="spielprofil_tooltip" id="82727" href="/emanuel-biancucchi/profil/spieler/82727">Emanuel Biancucchi</a> (<a class="vereinprofil_tooltip" id="5677" href="/vila-nova-futebol-clube-go-/startseite/verein/5677">Vila Nova Futebol Clube (GO)</a>).<br /><br />Lionel Messi é o Primo de <a title="Bojan Krkic" class="spielprofil_tooltip" id="44675" href="/bojan-krkic/profil/spieler/44675">Bojan Krkic</a> (<a title="Sem clube" class="" id="515" href="/vereinslos/startseite/verein/515">Sem clube</a>).<br /><br />    </div>
+		Paulo Dybala é o Tio de <a title="Lautaro Dybala" class="spielprofil_tooltip" id="544162" href="/lautaro-dybala/profil/spieler/544162">Lautaro Dybala</a> (<a title="Sem clube" class="" id="515" href="/vereinslos/startseite/verein/515">Sem clube</a>).<br /><br />    </div>
 </div>
 <div class="box transferhistorie viewport-tracking" data-viewport="Transferhistorie">
     <div class="subkategorie-header">
@@ -1669,104 +1496,53 @@ googletag.enableServices();
             </thead>
             <tbody>
 			                <tr class="zeile-transfer" >
-                    <td class="zentriert ">05/06</td>
-                    <td class="zentriert ">01/07/2005</td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="2464" href="/fc-barcelona-b/transfers/verein/2464/saison_id/2005"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2464.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona B" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" />                    </td>
-                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="2464" href="/fc-barcelona-b/transfers/verein/2464/saison_id/2005">FC Barcelona B</a></td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="131" href="/fc-barcelona/transfers/verein/131/saison_id/2005"><img src="https://tmssl.akamaized.net/images/wappen/tiny/131.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" /> </td>
-                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="131" href="/fc-barcelona/transfers/verein/131/saison_id/2005">FC Barcelona</a></td>
-                    <td class="zelle-mw">3,00 M €</td>
+                    <td class="zentriert ">15/16</td>
+                    <td class="zentriert ">01/07/2015</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="458" href="/palermo-fc/transfers/verein/458/saison_id/2015"><img src="https://tmssl.akamaized.net/images/wappen/tiny/458_1565704833.png?lm=1565704833" title="&nbsp;" alt="US Palermo" class="" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="458" href="/palermo-fc/transfers/verein/458/saison_id/2015">US Palermo</a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/transfers/verein/506/saison_id/2015"><img src="https://tmssl.akamaized.net/images/wappen/tiny/506_1498891796.png?lm=1498891797" title="&nbsp;" alt="Juventus FC" class="" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="506" href="/juventus-turin/transfers/verein/506/saison_id/2015">Juventus</a></td>
+                    <td class="zelle-mw">23,00 M €</td>
 
-                    <td class="zelle-abloese">-</td>
+                    <td class="zelle-abloese">40,00 M €</td>
                     <td class="zentriert ">
-                        <a href="/lionel-messi/transfers/spieler/28003/transfer_id/48265"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                        <a href="/paulo-dybala/transfers/spieler/206050/transfer_id/1254235"><img src="/images/pfeil_rechts_blau_k.png"/></a>
                     </td>
                 </tr>
 
 				                <tr class="zeile-transfer" >
-                    <td class="zentriert ">03/04</td>
-                    <td class="zentriert ">05/03/2004</td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="63954" href="/fc-barcelona-c-aufgel-/transfers/verein/63954/saison_id/2003"><img src="https://tmssl.akamaized.net/images/wappen/tiny/63954.png?lm=1521793876" title="&nbsp;" alt="FC Barcelona C" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" />                    </td>
-                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="63954" href="/fc-barcelona-c-aufgel-/transfers/verein/63954/saison_id/2003">Barcelona C</a></td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="2464" href="/fc-barcelona-b/transfers/verein/2464/saison_id/2003"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2464.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona B" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" /> </td>
-                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="2464" href="/fc-barcelona-b/transfers/verein/2464/saison_id/2003">FC Barcelona B</a></td>
-                    <td class="zelle-mw">-</td>
-
-                    <td class="zelle-abloese">-</td>
-                    <td class="zentriert ">
-                        <a href="/lionel-messi/transfers/spieler/28003/transfer_id/153557"><img src="/images/pfeil_rechts_blau_k.png"/></a>
-                    </td>
-                </tr>
-
-				                <tr class="zeile-transfer" >
-                    <td class="zentriert ">03/04</td>
-                    <td class="zentriert ">28/11/2003</td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="2470" href="/fc-barcelona-u19/transfers/verein/2470/saison_id/2003"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2470.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona U19" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" />                    </td>
-                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="2470" href="/fc-barcelona-u19/transfers/verein/2470/saison_id/2003">Barça U19</a></td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="63954" href="/fc-barcelona-c-aufgel-/transfers/verein/63954/saison_id/2003"><img src="https://tmssl.akamaized.net/images/wappen/tiny/63954.png?lm=1521793876" title="&nbsp;" alt="FC Barcelona C" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" /> </td>
-                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="63954" href="/fc-barcelona-c-aufgel-/transfers/verein/63954/saison_id/2003">Barcelona C</a></td>
-                    <td class="zelle-mw">-</td>
-
-                    <td class="zelle-abloese">-</td>
-                    <td class="zentriert ">
-                        <a href="/lionel-messi/transfers/spieler/28003/transfer_id/1993882"><img src="/images/pfeil_rechts_blau_k.png"/></a>
-                    </td>
-                </tr>
-
-				                <tr class="zeile-transfer" >
-                    <td class="zentriert ">03/04</td>
-                    <td class="zentriert ">13/09/2003</td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="14321" href="/fc-barcelona-u16/transfers/verein/14321/saison_id/2003"><img src="https://tmssl.akamaized.net/images/wappen/tiny/14321.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona U16" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" />                    </td>
-                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="14321" href="/fc-barcelona-u16/transfers/verein/14321/saison_id/2003">Barça U16</a></td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="2470" href="/fc-barcelona-u19/transfers/verein/2470/saison_id/2003"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2470.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona U19" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" /> </td>
-                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="2470" href="/fc-barcelona-u19/transfers/verein/2470/saison_id/2003">Barça U19</a></td>
-                    <td class="zelle-mw">-</td>
-
-                    <td class="zelle-abloese">-</td>
-                    <td class="zentriert ">
-                        <a href="/lionel-messi/transfers/spieler/28003/transfer_id/1136539"><img src="/images/pfeil_rechts_blau_k.png"/></a>
-                    </td>
-                </tr>
-
-				                <tr class="zeile-transfer" >
-                    <td class="zentriert ">02/03</td>
-                    <td class="zentriert ">01/07/2002</td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="70295" href="/fc-barcelona-jugend/transfers/verein/70295/saison_id/2002"><img src="https://tmssl.akamaized.net/images/wappen/tiny/70295.png?lm=1540469533" title="&nbsp;" alt="FC Barcelona Fútbol base" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" />                    </td>
-                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="70295" href="/fc-barcelona-jugend/transfers/verein/70295/saison_id/2002">Barça Fútb.base</a></td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="14321" href="/fc-barcelona-u16/transfers/verein/14321/saison_id/2002"><img src="https://tmssl.akamaized.net/images/wappen/tiny/14321.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona U16" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" /> </td>
-                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="14321" href="/fc-barcelona-u16/transfers/verein/14321/saison_id/2002">Barça U16</a></td>
-                    <td class="zelle-mw">-</td>
-
-                    <td class="zelle-abloese">-</td>
-                    <td class="zentriert ">
-                        <a href="/lionel-messi/transfers/spieler/28003/transfer_id/2326361"><img src="/images/pfeil_rechts_blau_k.png"/></a>
-                    </td>
-                </tr>
-
-				                <tr class="zeile-transfer" >
-                    <td class="zentriert ">00/01</td>
-                    <td class="zentriert ">01/07/2000</td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="15107" href="/club-atletico-newells-old-boys-u19/transfers/verein/15107/saison_id/2000"><img src="https://tmssl.akamaized.net/images/wappen/tiny/15107.png?lm=1412762978" title="&nbsp;" alt="Club Atlético Newell's Old Boys U19" class="tiny_wappen" /></a></td>
+                    <td class="zentriert ">12/13</td>
+                    <td class="zentriert ">20/07/2012</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="1829" href="/instituto-ac-cordoba/transfers/verein/1829/saison_id/2012"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1829.png?lm=1516717551" title="&nbsp;" alt="Instituto AC Cordoba" class="tiny_wappen" /></a></td>
                     <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" />                    </td>
-                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="15107" href="/club-atletico-newells-old-boys-u19/transfers/verein/15107/saison_id/2000">Newell's U19</a></td>
-                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="70295" href="/fc-barcelona-jugend/transfers/verein/70295/saison_id/2000"><img src="https://tmssl.akamaized.net/images/wappen/tiny/70295.png?lm=1540469533" title="&nbsp;" alt="FC Barcelona Fútbol base" class="tiny_wappen" /></a></td>
-                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" /> </td>
-                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="70295" href="/fc-barcelona-jugend/transfers/verein/70295/saison_id/2000">Barça Fútb.base</a></td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="1829" href="/instituto-ac-cordoba/transfers/verein/1829/saison_id/2012">Instituto AC</a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="458" href="/palermo-fc/transfers/verein/458/saison_id/2012"><img src="https://tmssl.akamaized.net/images/wappen/tiny/458_1565704833.png?lm=1565704833" title="&nbsp;" alt="US Palermo" class="" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="458" href="/palermo-fc/transfers/verein/458/saison_id/2012">US Palermo</a></td>
+                    <td class="zelle-mw">2,00 M €</td>
+
+                    <td class="zelle-abloese">11,90 M €</td>
+                    <td class="zentriert ">
+                        <a href="/paulo-dybala/transfers/spieler/206050/transfer_id/753216"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                    </td>
+                </tr>
+
+				                <tr class="zeile-transfer" >
+                    <td class="zentriert ">11/12</td>
+                    <td class="zentriert ">01/07/2011</td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="19965" href="/instituto-ac-cordoba-u19/transfers/verein/19965/saison_id/2011"><img src="https://tmssl.akamaized.net/images/wappen/tiny/19965.png?lm=1516717551" title="&nbsp;" alt="Instituto AC Córdoba U19" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" />                    </td>
+                    <td class="hauptlink no-border-links vereinsname"><a class="vereinprofil_tooltip" id="19965" href="/instituto-ac-cordoba-u19/transfers/verein/19965/saison_id/2011">Instituto U19</a></td>
+                    <td class="no-border-rechts vereinswappen"><a class="vereinprofil_tooltip" id="1829" href="/instituto-ac-cordoba/transfers/verein/1829/saison_id/2011"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1829.png?lm=1516717551" title="&nbsp;" alt="Instituto AC Cordoba" class="tiny_wappen" /></a></td>
+                    <td class="no-border-rechts no-border-links flagge "><img src="https://tmssl.akamaized.net/images/flagge/tiny/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /> </td>
+                    <td class="hauptlink no-border-links  vereinsname"><a class="vereinprofil_tooltip" id="1829" href="/instituto-ac-cordoba/transfers/verein/1829/saison_id/2011">Instituto AC</a></td>
                     <td class="zelle-mw">-</td>
 
-                    <td class="zelle-abloese">custo zero</td>
+                    <td class="zelle-abloese">-</td>
                     <td class="zentriert ">
-                        <a href="/lionel-messi/transfers/spieler/28003/transfer_id/181327"><img src="/images/pfeil_rechts_blau_k.png"/></a>
+                        <a href="/paulo-dybala/transfers/spieler/206050/transfer_id/757941"><img src="/images/pfeil_rechts_blau_k.png"/></a>
                     </td>
                 </tr>
 
@@ -1775,7 +1551,7 @@ googletag.enableServices();
             <tr>
                 <td class="rechts " colspan="9">Valor total                    :
                 </td>
-                <td class="rechts">0</td>
+                <td class="rechts">51,90 M €</td>
                 <td class="zentriert ">&nbsp;</td>
             </tr>
             </tfoot>
@@ -1789,7 +1565,7 @@ googletag.enableServices();
                 Clubes formação             </span>
         </div>
         <div class="content">
-			Grandoli FC (1992–1995) Newell's (1995-2000)        </div>
+			Instituto Atlético Central Córdoba (2003-2011)        </div>
     </div>
 	<div class="box viewport-tracking" data-viewport="Leistungsdaten_Saison">
     <div class="subkategorie-header">
@@ -1801,22 +1577,21 @@ googletag.enableServices();
 <table class="items">
 <thead>
 <tr>
-<th colspan="2" class="hide-for-small" id="yw1_c0">Competição</th><th class="hide" id="yw1_c1">wettbewerb</th><th class="zentriert" id="yw1_c2"><a class="sort-link desc" href="/lionel-messi/profil/spieler/28003/sort/matches"><span class="icons_sprite icon-einsaetze-table-header" title="Jogos">&nbsp;</span></a></th><th class="zentriert" id="yw1_c3"><a class="sort-link" href="/lionel-messi/profil/spieler/28003/sort/goals.desc"><span class="icons_sprite icon-tor-table-header" title="Golos">&nbsp;</span></a></th><th class="zentriert" id="yw1_c4"><a class="sort-link" href="/lionel-messi/profil/spieler/28003/sort/assists.desc"><span class="icons_sprite icon-vorlage-table-header" title="Assistências">&nbsp;</span></a></th><th class="zentriert" id="yw1_c5"><a class="sort-link" href="/lionel-messi/profil/spieler/28003/sort/minutes_per_goal.desc"><span class="icons_sprite icon-minuteprotor-table-header" title="Minutos por golo">&nbsp;</span></a></th><th class="zentriert" id="yw1_c6"><a class="sort-link" href="/lionel-messi/profil/spieler/28003/sort/minutes_played.desc"><span class="icons_sprite icon-minuten-table-header" title="Minutos jogados">&nbsp;</span></a></th></tr>
+<th colspan="2" class="hide-for-small" id="yw1_c0">Competição</th><th class="hide" id="yw1_c1">wettbewerb</th><th class="zentriert" id="yw1_c2"><a class="sort-link desc" href="/paulo-dybala/profil/spieler/206050/sort/matches"><span class="icons_sprite icon-einsaetze-table-header" title="Jogos">&nbsp;</span></a></th><th class="zentriert" id="yw1_c3"><a class="sort-link" href="/paulo-dybala/profil/spieler/206050/sort/goals.desc"><span class="icons_sprite icon-tor-table-header" title="Golos">&nbsp;</span></a></th><th class="zentriert" id="yw1_c4"><a class="sort-link" href="/paulo-dybala/profil/spieler/206050/sort/assists.desc"><span class="icons_sprite icon-vorlage-table-header" title="Assistências">&nbsp;</span></a></th><th class="zentriert" id="yw1_c5"><a class="sort-link" href="/paulo-dybala/profil/spieler/206050/sort/minutes_per_goal.desc"><span class="icons_sprite icon-minuteprotor-table-header" title="Minutos por golo">&nbsp;</span></a></th><th class="zentriert" id="yw1_c6"><a class="sort-link" href="/paulo-dybala/profil/spieler/206050/sort/minutes_played.desc"><span class="icons_sprite icon-minuten-table-header" title="Minutos jogados">&nbsp;</span></a></th></tr>
 </thead>
 <tfoot>
 <tr>
-<td colspan="2" class="rechts hide-for-small">Total:</td><td class="hide hide-for-small">&nbsp;</td><td class="zentriert">47</td><td class="zentriert">38</td><td class="zentriert">14</td><td class="zentriert">110</td><td class="zentriert">4.172</td></tr>
+<td colspan="2" class="rechts hide-for-small">Total:</td><td class="hide hide-for-small">&nbsp;</td><td class="zentriert">26</td><td class="zentriert">5</td><td class="zentriert">3</td><td class="zentriert">273</td><td class="zentriert">1.363</td></tr>
 </tfoot>
 <tbody>
-<tr><td class="extrarow ueberzeile hauptlink show-for-small tabellen-wappen" colspan="7"><img src="https://tmssl.akamaized.net/images/logo/tiny/es1.png?lm=1557051003" title="LaLiga" alt="LaLiga" class="" /><a title="LaLiga" href="/laliga/startseite/wettbewerb/ES1">LaLiga</a></td></tr><tr class="odd"><td class="hauptlink no-border-rechts hide-for-small"><img src="https://tmssl.akamaized.net/images/logo/tiny/es1.png?lm=1557051003" title="LaLiga" alt="LaLiga" class="" /></td><td class="hauptlink no-border-links hide-for-small"><a title="LaLiga" href="/laliga/startseite/wettbewerb/ES1">LaLiga</a></td><td class="zentriert"><a href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/ES1/saison/2020/verein/131" title="">35</a></td><td class="zentriert">30</td><td class="zentriert">11</td><td class="zentriert">101</td><td class="zentriert">3.022</td></tr>
-<tr><td class="extrarow ueberzeile hauptlink show-for-small tabellen-wappen" colspan="7"><img src="https://tmssl.akamaized.net/images/logo/tiny/cl.png?lm=1520874127" title="Liga dos Campeões" alt="Liga dos Campeões" class="" /><a title="Champions League" href="/uefa-champions-league/startseite/pokalwettbewerb/CL">Champions League</a></td></tr><tr class="even"><td class="hauptlink no-border-rechts hide-for-small"><img src="https://tmssl.akamaized.net/images/logo/tiny/cl.png?lm=1520874127" title="Liga dos Campeões" alt="Liga dos Campeões" class="" /></td><td class="hauptlink no-border-links hide-for-small"><a title="Champions League" href="/uefa-champions-league/startseite/pokalwettbewerb/CL">Champions League</a></td><td class="zentriert"><a href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CL/saison/2020/verein/131" title="">6</a></td><td class="zentriert">5</td><td class="zentriert">2</td><td class="zentriert">108</td><td class="zentriert">540</td></tr>
-<tr><td class="extrarow ueberzeile hauptlink show-for-small tabellen-wappen" colspan="7"><img src="https://tmssl.akamaized.net/images/logo/tiny/cdr.png?lm=1520607012" title="Copa del Rey" alt="Copa del Rey" class="" /><a title="Copa del Rey" href="/copa-del-rey/startseite/pokalwettbewerb/CDR">Copa del Rey</a></td></tr><tr class="odd"><td class="hauptlink no-border-rechts hide-for-small"><img src="https://tmssl.akamaized.net/images/logo/tiny/cdr.png?lm=1520607012" title="Copa del Rey" alt="Copa del Rey" class="" /></td><td class="hauptlink no-border-links hide-for-small"><a title="Copa del Rey" href="/copa-del-rey/startseite/pokalwettbewerb/CDR">Copa del Rey</a></td><td class="zentriert"><a href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/CDR/saison/2020/verein/131" title="">5</a></td><td class="zentriert">3</td><td class="zentriert">1</td><td class="zentriert">163</td><td class="zentriert">490</td></tr>
-<tr><td class="extrarow ueberzeile hauptlink show-for-small tabellen-wappen" colspan="7"><img src="https://tmssl.akamaized.net/images/logo/tiny/suc.png?lm=1520607013" title="Supercopa" alt="Supercopa" class="" /><a title="Supercopa" href="/supercopa/startseite/pokalwettbewerb/SUC">Supercopa</a></td></tr><tr class="even"><td class="hauptlink no-border-rechts hide-for-small"><img src="https://tmssl.akamaized.net/images/logo/tiny/suc.png?lm=1520607013" title="Supercopa" alt="Supercopa" class="" /></td><td class="hauptlink no-border-links hide-for-small"><a title="Supercopa" href="/supercopa/startseite/pokalwettbewerb/SUC">Supercopa</a></td><td class="zentriert"><a href="/lionel-messi/leistungsdatendetails/spieler/28003/wettbewerb/SUC/saison/2020/verein/131" title="">1</a></td><td class="zentriert">-</td><td class="zentriert">-</td><td class="zentriert">-</td><td class="zentriert">120</td></tr>
+<tr><td class="extrarow ueberzeile hauptlink show-for-small tabellen-wappen" colspan="7"><img src="https://tmssl.akamaized.net/images/logo/tiny/it1.png?lm=1562052084" title="Serie A" alt="Serie A" class="" /><a title="Serie A" href="/serie-a/startseite/wettbewerb/IT1">Serie A</a></td></tr><tr class="odd"><td class="hauptlink no-border-rechts hide-for-small"><img src="https://tmssl.akamaized.net/images/logo/tiny/it1.png?lm=1562052084" title="Serie A" alt="Serie A" class="" /></td><td class="hauptlink no-border-links hide-for-small"><a title="Serie A" href="/serie-a/startseite/wettbewerb/IT1">Serie A</a></td><td class="zentriert"><a href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/IT1/saison/2020/verein/506" title="">20</a></td><td class="zentriert">4</td><td class="zentriert">3</td><td class="zentriert">284</td><td class="zentriert">1.134</td></tr>
+<tr><td class="extrarow ueberzeile hauptlink show-for-small tabellen-wappen" colspan="7"><img src="https://tmssl.akamaized.net/images/logo/tiny/cl.png?lm=1520874127" title="Liga dos Campeões" alt="Liga dos Campeões" class="" /><a title="Champions League" href="/uefa-champions-league/startseite/pokalwettbewerb/CL">Champions League</a></td></tr><tr class="even"><td class="hauptlink no-border-rechts hide-for-small"><img src="https://tmssl.akamaized.net/images/logo/tiny/cl.png?lm=1520874127" title="Liga dos Campeões" alt="Liga dos Campeões" class="" /></td><td class="hauptlink no-border-links hide-for-small"><a title="Champions League" href="/uefa-champions-league/startseite/pokalwettbewerb/CL">Champions League</a></td><td class="zentriert"><a href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CL/saison/2020/verein/506" title="">5</a></td><td class="zentriert">1</td><td class="zentriert">-</td><td class="zentriert">213</td><td class="zentriert">213</td></tr>
+<tr><td class="extrarow ueberzeile hauptlink show-for-small tabellen-wappen" colspan="7"><img src="https://tmssl.akamaized.net/images/logo/tiny/cit.png?lm=1613033113" title="Copa TIM da Itália" alt="Copa TIM da Itália" class="" /><a title="Coppa Italia" href="/coppa-italia/startseite/pokalwettbewerb/CIT">Coppa Italia</a></td></tr><tr class="odd"><td class="hauptlink no-border-rechts hide-for-small"><img src="https://tmssl.akamaized.net/images/logo/tiny/cit.png?lm=1613033113" title="Copa TIM da Itália" alt="Copa TIM da Itália" class="" /></td><td class="hauptlink no-border-links hide-for-small"><a title="Coppa Italia" href="/coppa-italia/startseite/pokalwettbewerb/CIT">Coppa Italia</a></td><td class="zentriert"><a href="/paulo-dybala/leistungsdatendetails/spieler/206050/wettbewerb/CIT/saison/2020/verein/506" title="">1</a></td><td class="zentriert">-</td><td class="zentriert">-</td><td class="zentriert">-</td><td class="zentriert">16</td></tr>
 </tbody>
 </table>
-<div class="keys" style="display:none" title="/lionel-messi/profil/spieler/28003"><span>ES1</span><span>CL</span><span>CDR</span><span>SUC</span></div>
+<div class="keys" style="display:none" title="/paulo-dybala/profil/spieler/206050"><span>IT1</span><span>CL</span><span>CIT</span></div>
 </div>    <div class="c2action-footer">
-		<a title="Lionel Messi" class="" id="28003" href="/lionel-messi/leistungsdaten/spieler/28003">Dados de desempenho completos</a>    </div>
+		<a title="Paulo Dybala" class="" id="206050" href="/paulo-dybala/leistungsdaten/spieler/206050">Dados de desempenho completos</a>    </div>
 </div>
 <div id="recommender" class="box" >
     <div class="OUTBRAIN" data-src="" data-widget-id="AR_1" data-ob-template="DE_Transfermarkt.de" ></div>
@@ -1824,28 +1599,7 @@ googletag.enableServices();
 </div>
     </div>
     <div class="large-4 columns">
-                            <script type="module" src="https://tmsi.akamaized.net/js/next-matches/tm-next-matches.esm.js?v=4"></script>
-            <script nomodule="" src="https://tmsi.akamaized.net/js/next-matches/tm-next-matches.js?v=4"></script><tm-next-matches class="viewport-tracking" data-viewport="Naechste_Begegnungen" headline="Próximos encontros" locale='pt' lang="pt" raw-data="{&quot;matches&quot;:[{&quot;id&quot;:&quot;3557026&quot;,&quot;competition&quot;:&quot;Qualifica\u00e7\u00e3o Mundial - Am\u00e9rica do Sul  &quot;,&quot;competitionId&quot;:&quot;WMQ4&quot;,&quot;competitionLink&quot;:&quot;https:\/\/www.transfermarkt.pt\/wm-qualifikation-sudamerika\/startseite\/pokalwettbewerb\/WMQ4&quot;,&quot;match&quot;:{&quot;link&quot;:&quot;\/spielbericht\/index\/spielbericht\/3557026&quot;,&quot;dayLink&quot;:&quot;\/wettbewerb\/spieltag\/pokalwettbewerb\/WMQ4\/saison_id\/2020\/spieltag\/7\/gruppe\/A&quot;,&quot;day&quot;:&quot;7&quot;,&quot;time&quot;:1622764800,&quot;result&quot;:&quot;-:-&quot;,&quot;home&quot;:&quot;3437&quot;,&quot;away&quot;:&quot;3700&quot;,&quot;injury&quot;:null,&quot;suspension&quot;:null,&quot;state&quot;:&quot;Fixture&quot;,&quot;group&quot;:&quot;Grupo A&quot;},&quot;skyIntegration&quot;:false,&quot;daznIntegration&quot;:false},{&quot;id&quot;:&quot;3557027&quot;,&quot;competition&quot;:&quot;Qualifica\u00e7\u00e3o Mundial - Am\u00e9rica do Sul  &quot;,&quot;competitionId&quot;:&quot;WMQ4&quot;,&quot;competitionLink&quot;:&quot;https:\/\/www.transfermarkt.pt\/wm-qualifikation-sudamerika\/startseite\/pokalwettbewerb\/WMQ4&quot;,&quot;match&quot;:{&quot;link&quot;:&quot;\/spielbericht\/index\/spielbericht\/3557027&quot;,&quot;dayLink&quot;:&quot;\/wettbewerb\/spieltag\/pokalwettbewerb\/WMQ4\/saison_id\/2020\/spieltag\/8\/gruppe\/A&quot;,&quot;day&quot;:&quot;8&quot;,&quot;time&quot;:1623193200,&quot;result&quot;:&quot;-:-&quot;,&quot;home&quot;:&quot;3816&quot;,&quot;away&quot;:&quot;3437&quot;,&quot;injury&quot;:null,&quot;suspension&quot;:null,&quot;state&quot;:&quot;Fixture&quot;,&quot;group&quot;:&quot;Grupo A&quot;},&quot;skyIntegration&quot;:false,&quot;daznIntegration&quot;:false},{&quot;id&quot;:&quot;3482730&quot;,&quot;competition&quot;:&quot;Copa Am\u00e9rica 2021&quot;,&quot;competitionId&quot;:&quot;CAM2&quot;,&quot;competitionLink&quot;:&quot;https:\/\/www.transfermarkt.pt\/copa-america-2021\/startseite\/pokalwettbewerb\/CAM2&quot;,&quot;match&quot;:{&quot;link&quot;:&quot;\/spielbericht\/index\/spielbericht\/3482730&quot;,&quot;dayLink&quot;:&quot;\/wettbewerb\/spieltag\/pokalwettbewerb\/CAM2\/saison_id\/2020\/spieltag\/1\/gruppe\/A&quot;,&quot;day&quot;:&quot;1&quot;,&quot;time&quot;:1623618000,&quot;result&quot;:&quot;-:-&quot;,&quot;home&quot;:&quot;3437&quot;,&quot;away&quot;:&quot;3700&quot;,&quot;injury&quot;:null,&quot;suspension&quot;:null,&quot;state&quot;:&quot;Fixture&quot;,&quot;group&quot;:&quot;Grupo A&quot;},&quot;skyIntegration&quot;:false,&quot;daznIntegration&quot;:false},{&quot;id&quot;:&quot;3482734&quot;,&quot;competition&quot;:&quot;Copa Am\u00e9rica 2021&quot;,&quot;competitionId&quot;:&quot;CAM2&quot;,&quot;competitionLink&quot;:&quot;https:\/\/www.transfermarkt.pt\/copa-america-2021\/startseite\/pokalwettbewerb\/CAM2&quot;,&quot;match&quot;:{&quot;link&quot;:&quot;\/spielbericht\/index\/spielbericht\/3482734&quot;,&quot;dayLink&quot;:&quot;\/wettbewerb\/spieltag\/pokalwettbewerb\/CAM2\/saison_id\/2020\/spieltag\/2\/gruppe\/A&quot;,&quot;day&quot;:&quot;2&quot;,&quot;time&quot;:1623974400,&quot;result&quot;:&quot;-:-&quot;,&quot;home&quot;:&quot;3437&quot;,&quot;away&quot;:&quot;3449&quot;,&quot;injury&quot;:null,&quot;suspension&quot;:null,&quot;state&quot;:&quot;Fixture&quot;,&quot;group&quot;:&quot;Grupo A&quot;},&quot;skyIntegration&quot;:false,&quot;daznIntegration&quot;:false},{&quot;id&quot;:&quot;3482738&quot;,&quot;competition&quot;:&quot;Copa Am\u00e9rica 2021&quot;,&quot;competitionId&quot;:&quot;CAM2&quot;,&quot;competitionLink&quot;:&quot;https:\/\/www.transfermarkt.pt\/copa-america-2021\/startseite\/pokalwettbewerb\/CAM2&quot;,&quot;match&quot;:{&quot;link&quot;:&quot;\/spielbericht\/index\/spielbericht\/3482738&quot;,&quot;dayLink&quot;:&quot;\/wettbewerb\/spieltag\/pokalwettbewerb\/CAM2\/saison_id\/2020\/spieltag\/3\/gruppe\/A&quot;,&quot;day&quot;:&quot;3&quot;,&quot;time&quot;:1624230000,&quot;result&quot;:&quot;-:-&quot;,&quot;home&quot;:&quot;3437&quot;,&quot;away&quot;:&quot;3581&quot;,&quot;injury&quot;:null,&quot;suspension&quot;:null,&quot;state&quot;:&quot;Fixture&quot;,&quot;group&quot;:&quot;Grupo A&quot;},&quot;skyIntegration&quot;:false,&quot;daznIntegration&quot;:false},{&quot;id&quot;:&quot;3482743&quot;,&quot;competition&quot;:&quot;Copa Am\u00e9rica 2021&quot;,&quot;competitionId&quot;:&quot;CAM2&quot;,&quot;competitionLink&quot;:&quot;https:\/\/www.transfermarkt.pt\/copa-america-2021\/startseite\/pokalwettbewerb\/CAM2&quot;,&quot;match&quot;:{&quot;link&quot;:&quot;\/spielbericht\/index\/spielbericht\/3482743&quot;,&quot;dayLink&quot;:&quot;\/wettbewerb\/spieltag\/pokalwettbewerb\/CAM2\/saison_id\/2020\/spieltag\/5\/gruppe\/A&quot;,&quot;day&quot;:&quot;5&quot;,&quot;time&quot;:1624827600,&quot;result&quot;:&quot;-:-&quot;,&quot;home&quot;:&quot;3437&quot;,&quot;away&quot;:&quot;5233&quot;,&quot;injury&quot;:null,&quot;suspension&quot;:null,&quot;state&quot;:&quot;Fixture&quot;,&quot;group&quot;:&quot;Grupo A&quot;},&quot;skyIntegration&quot;:false,&quot;daznIntegration&quot;:false}],&quot;imgHost&quot;:&quot;https:\/\/tmsi.akamaized.net&quot;,&quot;content&quot;:{&quot;group&quot;:&quot;Grupo&quot;,&quot;matchDay&quot;:&quot;Jornada&quot;},&quot;teams&quot;:{&quot;3437&quot;:{&quot;name&quot;:&quot;Argentina&quot;,&quot;link&quot;:&quot;\/argentinien\/startseite\/verein\/3437&quot;,&quot;image1x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/flagge\/homepageWappen70x70\/9.png?lm=1520611569&quot;,&quot;image2x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/wappen\/homepageWappen150x150\/3437.png?lm=1462482981&quot;,&quot;isNT&quot;:true},&quot;3700&quot;:{&quot;name&quot;:&quot;Chile&quot;,&quot;link&quot;:&quot;\/chile\/startseite\/verein\/3700&quot;,&quot;image1x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/flagge\/homepageWappen70x70\/33.png?lm=1520611569&quot;,&quot;image2x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/wappen\/homepageWappen150x150\/3700.png?lm=1449091097&quot;,&quot;isNT&quot;:true},&quot;3816&quot;:{&quot;name&quot;:&quot;Col\u00f4mbia&quot;,&quot;link&quot;:&quot;\/kolumbien\/startseite\/verein\/3816&quot;,&quot;image1x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/flagge\/homepageWappen70x70\/83.png?lm=1520611569&quot;,&quot;image2x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/wappen\/homepageWappen150x150\/3816.png?lm=1419787507&quot;,&quot;isNT&quot;:true},&quot;3449&quot;:{&quot;name&quot;:&quot;Uruguai&quot;,&quot;link&quot;:&quot;\/uruguay\/startseite\/verein\/3449&quot;,&quot;image1x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/flagge\/homepageWappen70x70\/179.png?lm=1520611569&quot;,&quot;image2x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/wappen\/homepageWappen150x150\/3449.png?lm=1410461950&quot;,&quot;isNT&quot;:true},&quot;3581&quot;:{&quot;name&quot;:&quot;Paraguai&quot;,&quot;link&quot;:&quot;\/paraguay\/startseite\/verein\/3581&quot;,&quot;image1x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/flagge\/homepageWappen70x70\/132.png?lm=1520611569&quot;,&quot;image2x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/wappen\/homepageWappen150x150\/3581.png?lm=1586637910&quot;,&quot;isNT&quot;:true},&quot;5233&quot;:{&quot;name&quot;:&quot;Bol\u00edvia&quot;,&quot;link&quot;:&quot;\/bolivien\/startseite\/verein\/5233&quot;,&quot;image1x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/flagge\/homepageWappen70x70\/23.png?lm=1520611569&quot;,&quot;image2x&quot;:&quot;https:\/\/tmssl.akamaized.net\/images\/wappen\/homepageWappen150x150\/5233.png?lm=1410462273&quot;,&quot;isNT&quot;:true}}}">
-    <div class="quote-slot" slot="quotes" onclick="tmEvent('werbung','click','begegnungsbox_spieler');">
-            </div>
-</tm-next-matches>
-
-<script>
-    var nextMatchesEl = document.getElementsByTagName('tm-next-matches')[0];
-    if(nextMatchesEl) {
-        nextMatchesEl.addEventListener('nextMatchesReloadQuotes', (event) => {
-            jQuery(document).trigger('begegnungenVereinSliderLoad');
-        });
-      nextMatchesEl.addEventListener('ticketShopTracking', (tracking) => {
-        if(typeof gtag === 'function') {
-          tmEvent('Button', 'click_extern', tracking.detail + ' Spielerprofil');
-        } else {
-          console.warn('GA is not a function')
-        }
-      });
-    }
-</script>
-
+                
 <div class="werbung werbung-rectangle1">
 	<!-- DFPV2 -->
 	<div id="Rectangle1" >
@@ -1863,53 +1617,53 @@ googletag.enableServices();
         <div class="table">
                             <div class="tr">
                     <div class="td newsFoto">
-                        <a href="/valores-de-mercado-laliga-de-jong-iguala-messi-joao-felix-desvaloriza/view/news/382356">
-                            <a href="#"><img title="Jo&atilde;o F&eacute;lix - Fonte: imago images" alt="Jo&atilde;o F&eacute;lix" class=" lazy" data-src="https://img.a.transfermarkt.technology/portrait/medium/462250-1574866535.jpg?lm=1"></a>                        </a>
+                        <a href="/valores-de-mercado-serie-a-ronaldo-desce-e-sai-do-top-10-lozano-com-recorde/view/news/382439">
+                            <a href="#"><img title="Cristiano Ronaldo - Fonte: imago images" alt="Cristiano Ronaldo" class=" lazy" data-src="https://img.a.transfermarkt.technology/portrait/medium/8198-1568120625.jpg?lm=1"></a>                        </a>
                     </div>
                     <div class="td">
                         <span class="newsSubline">
-                            Pedri em destaque                        </span>
+                            Atualização intermediária                         </span>
                         <span class="newsHeadline">
-                            <a href="/valores-de-mercado-laliga-de-jong-iguala-messi-joao-felix-desvaloriza/view/news/382356"
+                            <a href="/valores-de-mercado-serie-a-ronaldo-desce-e-sai-do-top-10-lozano-com-recorde/view/news/382439"
                                onClick="tmEvent('Button', 'click', 'spieler_profil_news_1_3', 1);">
-                                Valores de mercado LaLiga: de Jong iguala Messi, João Félix desvaloriza                            </a>
+                                Valores de mercado Série A: Ronaldo desce e sai do top 10 - Lozano com recorde                            </a>
                         </span>
                     </div>
                 </div>
                             <div class="tr">
                     <div class="td newsFoto">
-                        <a href="/os-mais-valiosos-ha-10-anos-barca-e-laliga-dominam-top-xi-do-futebol-mundial/view/news/358287">
-                            <a href="#"><img title="&nbsp;" alt="FC Barcelona" class=" lazy" data-src="https://tmssl.akamaized.net/images/wappen/normal/131.png?lm=1406739548"></a>                        </a>
+                        <a href="/valores-de-mercado-italia-lukaku-o-mais-valioso-plantel-da-atalanta-aumenta-em-70-milhoes/view/news/368998">
+                            <a href="#"><img title="Romelu Lukaku - Fonte: imago images" alt="Romelu Lukaku" class=" lazy" data-src="https://img.a.transfermarkt.technology/portrait/medium/96341-1596033546.jpg?lm=1"></a>                        </a>
                     </div>
                     <div class="td">
                         <span class="newsSubline">
-                            "Imperium Barça"                        </span>
+                            Atualização SerieA                        </span>
                         <span class="newsHeadline">
-                            <a href="/os-mais-valiosos-ha-10-anos-barca-e-laliga-dominam-top-xi-do-futebol-mundial/view/news/358287"
+                            <a href="/valores-de-mercado-italia-lukaku-o-mais-valioso-plantel-da-atalanta-aumenta-em-70-milhoes/view/news/368998"
                                onClick="tmEvent('Button', 'click', 'spieler_profil_news_2_3', 2);">
-                                Os mais valiosos há 10 anos: Barça e LaLiga dominam Top-XI do futebol mundial                            </a>
+                                Valores de mercado Itália: Lukaku o mais valioso - Plantel da Atalanta aumenta em 70 milhões                            </a>
                         </span>
                     </div>
                 </div>
                             <div class="tr">
                     <div class="td newsFoto">
-                        <a href="/valores-de-mercado-na-laliga-fati-apenas-20m-euro-atras-de-leo-messi/view/news/372629">
-                            <a href="#"><img title="Ansu Fati - Fonte: imago images" alt="Ansu Fati" class=" lazy" data-src="https://img.a.transfermarkt.technology/portrait/medium/466810-1560761660.jpg?lm=1"></a>                        </a>
+                        <a href="/os-mais-valiosos-de-2017-transferencia-de-neymar-acaba-com-dominio-de-ronaldo-e-messi/view/news/359544">
+                            <a href="#"><img title="Neymar - Fonte: imago images" alt="Neymar" class=" lazy" data-src="https://img.a.transfermarkt.technology/portrait/medium/68290-1602849593.jpg?lm=1"></a>                        </a>
                     </div>
                     <div class="td">
                         <span class="newsSubline">
-                            Top-Clubes desvalorizados                        </span>
+                            Mbappé entra no Top-25                        </span>
                         <span class="newsHeadline">
-                            <a href="/valores-de-mercado-na-laliga-fati-apenas-20m-euro-atras-de-leo-messi/view/news/372629"
+                            <a href="/os-mais-valiosos-de-2017-transferencia-de-neymar-acaba-com-dominio-de-ronaldo-e-messi/view/news/359544"
                                onClick="tmEvent('Button', 'click', 'spieler_profil_news_3_3', 3);">
-                                Valores de Mercado na LaLiga: Fati apenas 20M€ atrás de Leo Messi                            </a>
+                                Os mais valiosos de 2017: Transferência de Neymar acaba com domínio de Ronaldo e Messi                            </a>
                         </span>
                     </div>
                 </div>
                     </div>
     </div>
     <div class="c2action-footer">
-        <a title="Lionel Messi" class="spielprofil_tooltip" id="28003" href="/lionel-messi/news/spieler/28003">Arquivo de notícias</a>    </div>
+        <a title="Paulo Dybala" class="spielprofil_tooltip" id="206050" href="/paulo-dybala/news/spieler/206050">Arquivo de notícias</a>    </div>
 </div>
 <div class="box viewport-tracking" data-viewport="Laenderspielkarriere">
     <div class="subkategorie-header"><h2>Carreira na seleção </h2></div>
@@ -1926,60 +1680,31 @@ googletag.enableServices();
         </thead>
         <tbody>
                     <tr>
-				            <td class="zentriert bg_gruen_20">
-			
-					10
-                </td>
-                <td class="no-border-rechts zentriert">
-					<img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" />                </td>
-                <td class="hauptlink no-border-links">
-					<a class="vereinprofil_tooltip" id="3437" href="/argentinien/startseite/verein/3437">Argentina</a><span title="Capitão da equipa" class="kapitaenicon-table icons_sprite">&nbsp;</span>                </td>
-                <td class="zentriert">
-					                        <a href="/spiel/index/spielbericht/1059978" title="Jogos Amigáveis: Hungria - Argentina 1:2">17/08/2005</a>
-						                </td>
-                <td class="zentriert"><a href="/lionel-messi/nationalmannschaft/spieler/28003/verein_id/3437">142</a></td>
-                <td class="zentriert"><a href="/lionel-messi/nationalmannschaft/spieler/28003/verein_id/3437/nurEinsatz/2">71</a></td>
-            </tr>
-			            <tr>
 				                <td class="zentriert bg_rot_20">
 					
-					18
+					21
                 </td>
                 <td class="no-border-rechts zentriert">
 					<img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" />                </td>
                 <td class="hauptlink no-border-links">
-					<a class="vereinprofil_tooltip" id="11940" href="/argentinien-u20/startseite/verein/11940">Argentina Sub-20</a>                </td>
+					<a class="vereinprofil_tooltip" id="3437" href="/argentinien/startseite/verein/3437">Argentina</a>                </td>
                 <td class="zentriert">
-											29/06/2004						                </td>
-                <td class="zentriert"><a href="/lionel-messi/nationalmannschaft/spieler/28003/verein_id/11940">18</a></td>
-                <td class="zentriert"><a href="/lionel-messi/nationalmannschaft/spieler/28003/verein_id/11940/nurEinsatz/2">14</a></td>
-            </tr>
-			            <tr>
-				                <td class="zentriert bg_rot_20">
-					
-					15
-                </td>
-                <td class="no-border-rechts zentriert">
-					<img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" />                </td>
-                <td class="hauptlink no-border-links">
-					<a class="vereinprofil_tooltip" id="53819" href="/argentinien-olympia/startseite/verein/53819">Argentina olímpicos</a>                </td>
-                <td class="zentriert">
-					                        <a href="/spiel/index/spielbericht/2688705" title="Jogos Olímpicos: Costa do Marfim olímpica - Argentina olímpicos 1:2">07/08/2008</a>
+					                        <a href="/spiel/index/spielbericht/2626891" title="Qualificação Mundial - América do Sul  : Paraguai - Argentina 0:0">14/10/2015</a>
 						                </td>
-                <td class="zentriert"><a href="/lionel-messi/nationalmannschaft/spieler/28003/verein_id/53819">5</a></td>
-                <td class="zentriert"><a href="/lionel-messi/nationalmannschaft/spieler/28003/verein_id/53819/nurEinsatz/2">2</a></td>
+                <td class="zentriert"><a href="/paulo-dybala/nationalmannschaft/spieler/206050/verein_id/3437">29</a></td>
+                <td class="zentriert"><a href="/paulo-dybala/nationalmannschaft/spieler/206050/verein_id/3437/nurEinsatz/2">2</a></td>
             </tr>
 			        </tbody>
     </table>
 	        <div class="c2action-footer">
-			<a title="Lionel Messi" class="spielprofil_tooltip" id="28003" href="/lionel-messi/nationalmannschaft/spieler/28003">Perfil de seleção</a>        </div>
+			<a title="Paulo Dybala" class="spielprofil_tooltip" id="206050" href="/paulo-dybala/nationalmannschaft/spieler/206050">Perfil de seleção</a>        </div>
 		</div>
             <tm-compare-player
                 id="viewport-tracking"
-                headline="Comparar Lionel Messi com ..."
+                headline="Comparar Paulo Dybala com ..."
                 data-viewport="Vergleiche_mit_"
-                player-id="28003"
-                player-full-name="Lionel Messi"
+                player-id="206050"
+                player-full-name="Paulo Dybala"
                 search-player="Pesquisar jogador"
                 button-text="Comparar jogadores"
                 >
@@ -2000,9 +1725,17 @@ googletag.enableServices();
                 <td class="zentriert no-border-rechts" style="width:25px !important;">
 					                </td>
                 <td class="no-border-links hauptlink">
-					<a href="https://www.transfermarkt.pt/fc-barcelona/detail/forum/629" title="FC Barcelona">FC Barcelona</a>                </td>
+					<a href="https://www.transfermarkt.pt/la-piazza-delle-zebre/detail/forum/446" title="La piazza delle Zebre">La piazza delle Zebre</a>                </td>
                 <td class="zentriert">
-					<a href="https://www.transfermarkt.pt/fc-barcelona/thread/forum/629/thread_id/34" title="Lionel Messi [10]"><img src="/images/discussion.png" class="vb" alt="Fórum"/></a>                </td>
+					<a href="https://www.transfermarkt.pt/la-piazza-delle-zebre/thread/forum/446/thread_id/188" title="Paulo Dybala [10]"><img src="/images/discussion.png" class="vb" alt="Fórum"/></a>                </td>
+            </tr>
+			            <tr>
+                <td class="zentriert no-border-rechts" style="width:25px !important;">
+					                </td>
+                <td class="no-border-links hauptlink">
+					<a href="https://www.transfermarkt.pt/juventus-f-c-la-vecchia-signora/detail/forum/634" title="Juventus F.C. - La Vecchia Signora">Juventus F.C. - La Vecchia Signora</a>                </td>
+                <td class="zentriert">
+					<a href="https://www.transfermarkt.pt/juventus-f-c-la-vecchia-signora/thread/forum/634/thread_id/31" title="Paulo Dybala [10]"><img src="/images/discussion.png" class="vb" alt="Fórum"/></a>                </td>
             </tr>
 			        </tbody>
     </table>
@@ -2016,13 +1749,13 @@ googletag.enableServices();
 		<div class="content">
 							<p class="beliebtheit-text">Quem preferes...</p>
 							<img src="https://tmssl.akamaized.net//images/beliebtheit/versus.png" alt="versus" class="beliebtheit-versus" loading="lazy" />
-			<a href="/beliebtheit/speichernSpieler?spieler_id_gewinner=28003&spieler_id_verlierer=95732&kontinent=0&land=0&wettbewerb=ES1&verein=131&position=0&marktwert=0&spieler_id_1=28003&lieblingsverein=0" class="beliebtheit-wahl-spieler beliebtheit-wahl-heim">
-				<img src="https://img.a.transfermarkt.technology/portrait/medium/28003-1604164452.png?lm=1" title="Lionel Messi - Fonte: imago images" alt="Lionel Messi" class="" style="-webkit-filter: drop-shadow(0px 0px 10px #004c99); filter: drop-shadow(0px 0px 10px #004c99);" />Lionel Messi				<div class="beliebtheit-wahl-spieler-wappen">
-					<img src="https://tmssl.akamaized.net/images/wappen/kaderquad/131.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona" class="" />				</div>
+			<a href="/beliebtheit/speichernSpieler?spieler_id_gewinner=206050&spieler_id_verlierer=79960&kontinent=0&land=0&wettbewerb=IT1&verein=506&position=0&marktwert=0&spieler_id_1=206050&lieblingsverein=0" class="beliebtheit-wahl-spieler beliebtheit-wahl-heim">
+				<img src="https://img.a.transfermarkt.technology/portrait/medium/206050-1541076083.jpg?lm=1" title="Paulo Dybala - Fonte: imago images" alt="Paulo Dybala" class="" style="-webkit-filter: drop-shadow(0px 0px 10px #FCFCFC); filter: drop-shadow(0px 0px 10px #FCFCFC);" />Paulo Dybala				<div class="beliebtheit-wahl-spieler-wappen">
+					<img src="https://tmssl.akamaized.net/images/wappen/kaderquad/506.png?lm=1594291454" title="&nbsp;" alt="Juventus FC" class="" />				</div>
 			</a>
-			<a href="/beliebtheit/speichernSpieler?spieler_id_gewinner=95732&spieler_id_verlierer=28003&kontinent=0&land=0&wettbewerb=ES1&verein=131&position=0&marktwert=0&spieler_id_1=28003&lieblingsverein=0" class="beliebtheit-wahl-spieler beliebtheit-wahl-gast">
-				<img src="https://img.a.transfermarkt.technology/portrait/medium/95732-1583334177.jpg?lm=1" title="Martin Braithwaite - Fonte: imago images" alt="Martin Braithwaite" class="" style="-webkit-filter: drop-shadow(0px 0px 10px #a60042); filter: drop-shadow(0px 0px 10px #a60042);" />Martin Braithwaite				<div class="beliebtheit-wahl-spieler-wappen">
-					<img src="https://tmssl.akamaized.net/images/wappen/kaderquad/131.png?lm=1406739548" title="&nbsp;" alt="FC Barcelona" class="" />				</div>
+			<a href="/beliebtheit/speichernSpieler?spieler_id_gewinner=79960&spieler_id_verlierer=206050&kontinent=0&land=0&wettbewerb=IT1&verein=506&position=0&marktwert=0&spieler_id_1=206050&lieblingsverein=0" class="beliebtheit-wahl-spieler beliebtheit-wahl-gast">
+				<img src="https://img.a.transfermarkt.technology/portrait/medium/79960-1474296962.jpg?lm=1" title="Alex Sandro - Fonte: imago images" alt="Alex Sandro" class="" style="-webkit-filter: drop-shadow(0px 0px 10px #0A0909); filter: drop-shadow(0px 0px 10px #0A0909);" />Alex Sandro				<div class="beliebtheit-wahl-spieler-wappen">
+					<img src="https://tmssl.akamaized.net/images/wappen/kaderquad/506.png?lm=1594291454" title="&nbsp;" alt="Juventus FC" class="" />				</div>
 			</a>
 		</div>
 	</div>
@@ -2112,16 +1845,16 @@ var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){v
 </script>
 
     
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1622118054"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/micromodal.min.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/intersection-observer.min.js?lm=1622118051"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/lazyload.min.js?lm=1622118051"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1622460135"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/micromodal.min.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/intersection-observer.min.js?lm=1622460131"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/lazyload.min.js?lm=1622460131"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 	function initCss() {
 	}
-	var aktuelleUrl = 'https://www.transfermarkt.pt/lionel-messi/profil/spieler/28003'
-	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Flionel-messi%2Fprofil%2Fspieler%2F28003';
+	var aktuelleUrl = 'https://www.transfermarkt.pt/paulo-dybala/profil/spieler/206050'
+	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fpaulo-dybala%2Fprofil%2Fspieler%2F206050';
 	var notificationUrl='/notifications/liste';
 	var privateNachrichtenUrl = '/privateNachrichten/liste'
 	var favoritenUrl = '/favoriten/userFavoriten'
@@ -2130,11 +1863,11 @@ var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){v
 	var favoritHinzufuegenText = 'Adicionar favoritos'
 	var vereinUrl = '/verein/userbox';
 	var boxOpen = false;
-	var titleString='Lionel Messi - Perfil de jogador 20/21 | Transfermarkt';
+	var titleString='Paulo Dybala - Perfil de jogador 20/21 | Transfermarkt';
 	var naviController = 'spieler';
 	var naviAction = 'profil';
-	var naviPath = 'lionel-messi/profil/spieler/28003';
-	var naviId = '28003';
+	var naviPath = 'paulo-dybala/profil/spieler/206050';
+	var naviId = '206050';
 	var naviSaison = '';
 	var onlyDE = '';
 	var onlyMobile = '';
@@ -2259,7 +1992,7 @@ jQuery('#yw1').yiiGridView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'
           
 });
 jQuery(window).on('load',function() {
-Highcharts.setOptions([]); var chart = new Highcharts.Chart({'chart':{'renderTo':'yw0','type':'areaspline','height':125,'minPadding':0,'maxPadding':0,'spacingLeft':-6,'spacingRight':-1,'zoomType':false,'plotBackgroundColor':'\x23fff','marginTop':10,'backgroundColor':'transparent'},'title':{'text':false},'xAxis':{'labels':{'enabled':false},'type':'datetime','startOnTick':false,'tickLength':0,'endOnTick':false,'tickPosition':'inside','plotBands':[],'gridLineColor':'\x23fff'},'colors':['\x23314f77','\x23749f18','\x23cccccc'],'yAxis':{'min':0,'startOnTick':false,'tickLength':0,'endOnTick':false,'allowDecimals':true,'title':false,'tickPosition':'outside','gridLineColor':'\x23fff','labels':{'enabled':false}},'series':[{'type':'area','name':'Marktwert','data':[{'y':3000000,'verein':'FC\x20Barcelona\x20B','age':17,'mw':'3,00\x20M\x20\u20AC','datum_mw':'20\x2F12\x2F2004','x':1103497200000,'marker':{'symbol':'url\x28https\x3A\x2F\x2Ftmssl.akamaized.net\x2Fimages\x2Fwappen\x2Ftiny\x2F2464.png\x3Flm\x3D1406739548\x29'}},{'y':5000000,'verein':'FC\x20Barcelona','age':18,'mw':'5,00\x20M\x20\u20AC','datum_mw':'28\x2F12\x2F2005','x':1135724400000,'marker':{'symbol':'url\x28https\x3A\x2F\x2Ftmssl.akamaized.net\x2Fimages\x2Fwappen\x2Ftiny\x2F131.png\x3Flm\x3D1406739548\x29'}},{'y':15000000,'verein':'FC\x20Barcelona','age':18,'mw':'15,00\x20M\x20\u20AC','datum_mw':'20\x2F01\x2F2006','x':1137711600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':40000000,'verein':'FC\x20Barcelona','age':20,'mw':'40,00\x20M\x20\u20AC','datum_mw':'26\x2F07\x2F2007','x':1185400800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':60000000,'verein':'FC\x20Barcelona','age':20,'mw':'60,00\x20M\x20\u20AC','datum_mw':'12\x2F09\x2F2007','x':1189548000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':55000000,'verein':'FC\x20Barcelona','age':20,'mw':'55,00\x20M\x20\u20AC','datum_mw':'04\x2F02\x2F2008','x':1202079600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':55000000,'verein':'FC\x20Barcelona','age':21,'mw':'55,00\x20M\x20\u20AC','datum_mw':'10\x2F07\x2F2008','x':1215640800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':55000000,'verein':'FC\x20Barcelona','age':21,'mw':'55,00\x20M\x20\u20AC','datum_mw':'26\x2F01\x2F2009','x':1232924400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':60000000,'verein':'FC\x20Barcelona','age':21,'mw':'60,00\x20M\x20\u20AC','datum_mw':'28\x2F04\x2F2009','x':1240869600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':70000000,'verein':'FC\x20Barcelona','age':22,'mw':'70,00\x20M\x20\u20AC','datum_mw':'22\x2F07\x2F2009','x':1248213600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':70000000,'verein':'FC\x20Barcelona','age':22,'mw':'70,00\x20M\x20\u20AC','datum_mw':'03\x2F12\x2F2009','x':1259794800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':80000000,'verein':'FC\x20Barcelona','age':22,'mw':'80,00\x20M\x20\u20AC','datum_mw':'07\x2F01\x2F2010','x':1262818800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':80000000,'verein':'FC\x20Barcelona','age':22,'mw':'80,00\x20M\x20\u20AC','datum_mw':'12\x2F04\x2F2010','x':1271023200000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':100000000,'verein':'FC\x20Barcelona','age':23,'mw':'100,00\x20M\x20\u20AC','datum_mw':'27\x2F08\x2F2010','x':1282860000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':100000000,'verein':'FC\x20Barcelona','age':23,'mw':'100,00\x20M\x20\u20AC','datum_mw':'04\x2F02\x2F2011','x':1296774000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':100000000,'verein':'FC\x20Barcelona','age':24,'mw':'100,00\x20M\x20\u20AC','datum_mw':'29\x2F07\x2F2011','x':1311890400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':100000000,'verein':'FC\x20Barcelona','age':24,'mw':'100,00\x20M\x20\u20AC','datum_mw':'03\x2F02\x2F2012','x':1328223600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':25,'mw':'120,00\x20M\x20\u20AC','datum_mw':'07\x2F08\x2F2012','x':1344290400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':25,'mw':'120,00\x20M\x20\u20AC','datum_mw':'10\x2F01\x2F2013','x':1357772400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':25,'mw':'120,00\x20M\x20\u20AC','datum_mw':'12\x2F06\x2F2013','x':1370988000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':26,'mw':'120,00\x20M\x20\u20AC','datum_mw':'23\x2F01\x2F2014','x':1390431600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':27,'mw':'120,00\x20M\x20\u20AC','datum_mw':'20\x2F07\x2F2014','x':1405807200000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':27,'mw':'120,00\x20M\x20\u20AC','datum_mw':'23\x2F01\x2F2015','x':1421967600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':28,'mw':'120,00\x20M\x20\u20AC','datum_mw':'01\x2F07\x2F2015','x':1435701600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':28,'mw':'120,00\x20M\x20\u20AC','datum_mw':'22\x2F02\x2F2016','x':1456095600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':29,'mw':'120,00\x20M\x20\u20AC','datum_mw':'15\x2F07\x2F2016','x':1468533600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':29,'mw':'120,00\x20M\x20\u20AC','datum_mw':'24\x2F01\x2F2017','x':1485212400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':120000000,'verein':'FC\x20Barcelona','age':29,'mw':'120,00\x20M\x20\u20AC','datum_mw':'05\x2F06\x2F2017','x':1496613600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':180000000,'verein':'FC\x20Barcelona','age':30,'mw':'180,00\x20M\x20\u20AC','datum_mw':'01\x2F01\x2F2018','x':1514761200000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':180000000,'verein':'FC\x20Barcelona','age':30,'mw':'180,00\x20M\x20\u20AC','datum_mw':'30\x2F05\x2F2018','x':1527631200000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':160000000,'verein':'FC\x20Barcelona','age':31,'mw':'160,00\x20M\x20\u20AC','datum_mw':'21\x2F12\x2F2018','x':1545346800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':150000000,'verein':'FC\x20Barcelona','age':31,'mw':'150,00\x20M\x20\u20AC','datum_mw':'11\x2F06\x2F2019','x':1560204000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':140000000,'verein':'FC\x20Barcelona','age':32,'mw':'140,00\x20M\x20\u20AC','datum_mw':'20\x2F12\x2F2019','x':1576796400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':112000000,'verein':'FC\x20Barcelona','age':32,'mw':'112,00\x20M\x20\u20AC','datum_mw':'08\x2F04\x2F2020','x':1586296800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':100000000,'verein':'FC\x20Barcelona','age':33,'mw':'100,00\x20M\x20\u20AC','datum_mw':'08\x2F10\x2F2020','x':1602108000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':80000000,'verein':'FC\x20Barcelona','age':33,'mw':'80,00\x20M\x20\u20AC','datum_mw':'05\x2F01\x2F2021','x':1609801200000,'marker':{'symbol':'url\x28https\x3A\x2F\x2Ftmssl.akamaized.net\x2Fimages\x2Fwappen\x2Ftiny\x2F131.png\x3Flm\x3D1406739548\x29'}}]}],'legend':{'enabled':false},'tooltip':{'crosshairs':false,'enabled':true,'formatter':function(){
+Highcharts.setOptions([]); var chart = new Highcharts.Chart({'chart':{'renderTo':'yw0','type':'areaspline','height':125,'minPadding':0,'maxPadding':0,'spacingLeft':-6,'spacingRight':-1,'zoomType':false,'plotBackgroundColor':'\x23fff','marginTop':10,'backgroundColor':'transparent'},'title':{'text':false},'xAxis':{'labels':{'enabled':false},'type':'datetime','startOnTick':false,'tickLength':0,'endOnTick':false,'tickPosition':'inside','plotBands':[],'gridLineColor':'\x23fff'},'colors':['\x23314f77','\x23749f18','\x23cccccc'],'yAxis':{'min':0,'startOnTick':false,'tickLength':0,'endOnTick':false,'allowDecimals':true,'title':false,'tickPosition':'outside','gridLineColor':'\x23fff','labels':{'enabled':false}},'series':[{'type':'area','name':'Marktwert','data':[{'y':2000000,'verein':'Instituto\x20AC\x20Cordoba','age':18,'mw':'2,00\x20M\x20\u20AC','datum_mw':'23\x2F12\x2F2011','x':1324594800000,'marker':{'symbol':'url\x28https\x3A\x2F\x2Ftmssl.akamaized.net\x2Fimages\x2Fwappen\x2Ftiny\x2F1829.png\x3Flm\x3D1516717551\x29'}},{'y':7000000,'verein':'US\x20Palermo','age':18,'mw':'7,00\x20M\x20\u20AC','datum_mw':'29\x2F07\x2F2012','x':1343512800000,'marker':{'symbol':'url\x28https\x3A\x2F\x2Ftmssl.akamaized.net\x2Fimages\x2Fwappen\x2Ftiny\x2F458_1565704833.png\x3Flm\x3D1565704833\x29'}},{'y':8000000,'verein':'US\x20Palermo','age':19,'mw':'8,00\x20M\x20\u20AC','datum_mw':'14\x2F01\x2F2013','x':1358118000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':7500000,'verein':'US\x20Palermo','age':19,'mw':'7,50\x20M\x20\u20AC','datum_mw':'19\x2F06\x2F2013','x':1371592800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':5000000,'verein':'US\x20Palermo','age':20,'mw':'5,00\x20M\x20\u20AC','datum_mw':'29\x2F01\x2F2014','x':1390950000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':5000000,'verein':'US\x20Palermo','age':20,'mw':'5,00\x20M\x20\u20AC','datum_mw':'15\x2F07\x2F2014','x':1405375200000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':6500000,'verein':'US\x20Palermo','age':20,'mw':'6,50\x20M\x20\u20AC','datum_mw':'08\x2F11\x2F2014','x':1415401200000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':15000000,'verein':'US\x20Palermo','age':21,'mw':'15,00\x20M\x20\u20AC','datum_mw':'07\x2F01\x2F2015','x':1420585200000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':23000000,'verein':'US\x20Palermo','age':21,'mw':'23,00\x20M\x20\u20AC','datum_mw':'20\x2F03\x2F2015','x':1426806000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':28000000,'verein':'Juventus\x20FC','age':21,'mw':'28,00\x20M\x20\u20AC','datum_mw':'01\x2F07\x2F2015','x':1435701600000,'marker':{'symbol':'url\x28https\x3A\x2F\x2Ftmssl.akamaized.net\x2Fimages\x2Fwappen\x2Ftiny\x2F506_1498891796.png\x3Flm\x3D1498891797\x29'}},{'y':36000000,'verein':'Juventus\x20FC','age':22,'mw':'36,00\x20M\x20\u20AC','datum_mw':'04\x2F01\x2F2016','x':1451862000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':40000000,'verein':'Juventus\x20FC','age':22,'mw':'40,00\x20M\x20\u20AC','datum_mw':'01\x2F04\x2F2016','x':1459461600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':45000000,'verein':'Juventus\x20FC','age':22,'mw':'45,00\x20M\x20\u20AC','datum_mw':'15\x2F07\x2F2016','x':1468533600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':45000000,'verein':'Juventus\x20FC','age':23,'mw':'45,00\x20M\x20\u20AC','datum_mw':'02\x2F01\x2F2017','x':1483311600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':50000000,'verein':'Juventus\x20FC','age':23,'mw':'50,00\x20M\x20\u20AC','datum_mw':'28\x2F03\x2F2017','x':1490652000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':65000000,'verein':'Juventus\x20FC','age':23,'mw':'65,00\x20M\x20\u20AC','datum_mw':'08\x2F06\x2F2017','x':1496872800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':70000000,'verein':'Juventus\x20FC','age':23,'mw':'70,00\x20M\x20\u20AC','datum_mw':'13\x2F10\x2F2017','x':1507845600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':85000000,'verein':'Juventus\x20FC','age':24,'mw':'85,00\x20M\x20\u20AC','datum_mw':'29\x2F12\x2F2017','x':1514502000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':100000000,'verein':'Juventus\x20FC','age':24,'mw':'100,00\x20M\x20\u20AC','datum_mw':'24\x2F03\x2F2018','x':1521846000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':110000000,'verein':'Juventus\x20FC','age':24,'mw':'110,00\x20M\x20\u20AC','datum_mw':'07\x2F06\x2F2018','x':1528322400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':110000000,'verein':'Juventus\x20FC','age':25,'mw':'110,00\x20M\x20\u20AC','datum_mw':'20\x2F12\x2F2018','x':1545260400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':100000000,'verein':'Juventus\x20FC','age':25,'mw':'100,00\x20M\x20\u20AC','datum_mw':'01\x2F03\x2F2019','x':1551394800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':85000000,'verein':'Juventus\x20FC','age':25,'mw':'85,00\x20M\x20\u20AC','datum_mw':'06\x2F06\x2F2019','x':1559772000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':75000000,'verein':'Juventus\x20FC','age':25,'mw':'75,00\x20M\x20\u20AC','datum_mw':'08\x2F10\x2F2019','x':1570485600000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':85000000,'verein':'Juventus\x20FC','age':26,'mw':'85,00\x20M\x20\u20AC','datum_mw':'12\x2F12\x2F2019','x':1576105200000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':90000000,'verein':'Juventus\x20FC','age':26,'mw':'90,00\x20M\x20\u20AC','datum_mw':'03\x2F03\x2F2020','x':1583190000000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':72000000,'verein':'Juventus\x20FC','age':26,'mw':'72,00\x20M\x20\u20AC','datum_mw':'08\x2F04\x2F2020','x':1586296800000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':80000000,'verein':'Juventus\x20FC','age':26,'mw':'80,00\x20M\x20\u20AC','datum_mw':'25\x2F08\x2F2020','x':1598306400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':70000000,'verein':'Juventus\x20FC','age':27,'mw':'70,00\x20M\x20\u20AC','datum_mw':'29\x2F12\x2F2020','x':1609196400000,'marker':{'symbol':'circle','radius':'3','lineWidth':'1','lineColor':'\x23fff','fillColor':'\x23314f77'}},{'y':60000000,'verein':'Juventus\x20FC','age':27,'mw':'60,00\x20M\x20\u20AC','datum_mw':'23\x2F03\x2F2021','x':1616454000000,'marker':{'symbol':'url\x28https\x3A\x2F\x2Ftmssl.akamaized.net\x2Fimages\x2Fwappen\x2Ftiny\x2F506.png\x3Flm\x3D1594291454\x29'}}]}],'legend':{'enabled':false},'tooltip':{'crosshairs':false,'enabled':true,'formatter':function(){
                                 var verein      = this.point.verein;
                                 var age         = this.point.age;
                                 var mw          = this.point.mw;

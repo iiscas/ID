@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jogadores>
+     <jogador>
+          <nome>Bruno Fernandes</nome>
+          <nacionalidade>Portugal</nacionalidade>
+          <idade>26</idade>
+          <selecao>Portugal</selecao>
+          <trofeu>Melhor marcador</trofeu>
+     </jogador>
+     <jogador>
+          <nome>John Stones</nome>
+          <nacionalidade>Inglaterra</nacionalidade>
+          <idade>27</idade>
+          <selecao>Inglaterra</selecao>
+          <trofeu>Campeão da Inglaterra</trofeu>
+     </jogador>
+     <jogador>
+          <nome>Paulo Dybala</nome>
+          <nacionalidade>Argentina</nacionalidade>
+          <idade>27</idade>
+          <selecao>Argentina</selecao>
+          <trofeu>Melhor marcador</trofeu>
+     </jogador>
+     <jogador>
+          <nome>Toni Kroos</nome>
+          <nacionalidade>Alemanha</nacionalidade>
+          <idade>31</idade>
+          <selecao>Alemanha</selecao>
+          <trofeu>Melhor marcador</trofeu>
+     </jogador>
+     <jogador>
+          <nome>Cristiano Ronaldo</nome>
+          <nacionalidade>Portugal</nacionalidade>
+          <idade>36</idade>
+          <selecao>Portugal</selecao>
+          <trofeu>Melhor jogador do mundo</trofeu>
+     </jogador>
+     <jogador>
+          <nome>Gianluigi Buffon</nome>
+          <nacionalidade>Itália</nacionalidade>
+          <idade>43</idade>
+          <selecao>Itália</selecao>
+          <trofeu>Futebolista do ano</trofeu>
+     </jogador>
+</jogadores>

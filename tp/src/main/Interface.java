@@ -5,8 +5,13 @@
  */
 package main;
 
+import java.awt.Desktop;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
@@ -14,7 +19,9 @@ import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.xpath.XPathExpressionException;
 import net.sf.saxon.s9api.SaxonApiException;
 import net.sf.saxon.s9api.XdmValue;
+import net.sf.saxon.trans.XPathException;
 import org.jdom2.Document;
+import org.jdom2.Element;
 import org.xml.sax.SAXException;
 
 /**
@@ -99,6 +106,14 @@ public class Interface extends javax.swing.JFrame {
         jLabel17 = new javax.swing.JLabel();
         jTextField16 = new javax.swing.JTextField();
         jButton6 = new javax.swing.JButton();
+        XQUERY_clube = new javax.swing.JDialog();
+        jLabel20 = new javax.swing.JLabel();
+        jTextField19 = new javax.swing.JTextField();
+        jButton8 = new javax.swing.JButton();
+        XQUERY_nac = new javax.swing.JDialog();
+        jLabel21 = new javax.swing.JLabel();
+        jTextField20 = new javax.swing.JTextField();
+        jButton9 = new javax.swing.JButton();
         jPanel1 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
@@ -132,9 +147,10 @@ public class Interface extends javax.swing.JFrame {
         XML_clube = new javax.swing.JMenuItem();
         TXT_nacionalidade = new javax.swing.JMenuItem();
         XML_top = new javax.swing.JMenuItem();
-        jMenuItem5 = new javax.swing.JMenuItem();
-        jMenuItem6 = new javax.swing.JMenuItem();
-        jMenuItem7 = new javax.swing.JMenuItem();
+        HTML_algunsDados = new javax.swing.JMenuItem();
+        HTML_trofeus = new javax.swing.JMenuItem();
+        XML_ordemIdade = new javax.swing.JMenuItem();
+        TXT_clubes = new javax.swing.JMenuItem();
 
         jLabel2.setFont(new java.awt.Font("Montserrat", 0, 14)); // NOI18N
         jLabel2.setText("Nome do jogador a adicionar");
@@ -681,6 +697,91 @@ public class Interface extends javax.swing.JFrame {
                 .addGap(32, 32, 32))
         );
 
+        jLabel20.setText("Clube a pesquisar:");
+
+        jTextField19.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField19ActionPerformed(evt);
+            }
+        });
+
+        jButton8.setText("OK");
+        jButton8.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton8ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout XQUERY_clubeLayout = new javax.swing.GroupLayout(XQUERY_clube.getContentPane());
+        XQUERY_clube.getContentPane().setLayout(XQUERY_clubeLayout);
+        XQUERY_clubeLayout.setHorizontalGroup(
+            XQUERY_clubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XQUERY_clubeLayout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jLabel20)
+                .addGap(18, 18, 18)
+                .addGroup(XQUERY_clubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jTextField19, javax.swing.GroupLayout.PREFERRED_SIZE, 221, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(XQUERY_clubeLayout.createSequentialGroup()
+                        .addGap(27, 27, 27)
+                        .addComponent(jButton8)))
+                .addContainerGap(53, Short.MAX_VALUE))
+        );
+        XQUERY_clubeLayout.setVerticalGroup(
+            XQUERY_clubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XQUERY_clubeLayout.createSequentialGroup()
+                .addGap(67, 67, 67)
+                .addGroup(XQUERY_clubeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel20)
+                    .addComponent(jTextField19, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 38, Short.MAX_VALUE)
+                .addComponent(jButton8)
+                .addGap(32, 32, 32))
+        );
+
+        jLabel21.setText("Nacionalidade a pesquisar:");
+
+        jTextField20.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField20ActionPerformed(evt);
+            }
+        });
+
+        jButton9.setText("OK");
+        jButton9.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton9ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout XQUERY_nacLayout = new javax.swing.GroupLayout(XQUERY_nac.getContentPane());
+        XQUERY_nac.getContentPane().setLayout(XQUERY_nacLayout);
+        XQUERY_nacLayout.setHorizontalGroup(
+            XQUERY_nacLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XQUERY_nacLayout.createSequentialGroup()
+                .addGroup(XQUERY_nacLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(XQUERY_nacLayout.createSequentialGroup()
+                        .addGap(19, 19, 19)
+                        .addComponent(jLabel21)
+                        .addGap(18, 18, 18)
+                        .addComponent(jTextField20, javax.swing.GroupLayout.PREFERRED_SIZE, 154, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(XQUERY_nacLayout.createSequentialGroup()
+                        .addGap(143, 143, 143)
+                        .addComponent(jButton9)))
+                .addContainerGap(50, Short.MAX_VALUE))
+        );
+        XQUERY_nacLayout.setVerticalGroup(
+            XQUERY_nacLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(XQUERY_nacLayout.createSequentialGroup()
+                .addGap(53, 53, 53)
+                .addGroup(XQUERY_nacLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jTextField20, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel21))
+                .addGap(41, 41, 41)
+                .addComponent(jButton9)
+                .addContainerGap(29, Short.MAX_VALUE))
+        );
+
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(204, 204, 204));
         setName("Informacao"); // NOI18N
@@ -761,8 +862,8 @@ public class Interface extends javax.swing.JFrame {
                 .addComponent(jLabel1)
                 .addGap(18, 18, 18)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jScrollPane1)
-                    .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 494, Short.MAX_VALUE))
+                    .addComponent(jScrollPane2)
+                    .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 494, Short.MAX_VALUE))
                 .addContainerGap())
         );
 
@@ -921,10 +1022,15 @@ public class Interface extends javax.swing.JFrame {
 
         gerarOutputs.setText("Gerar Outputs");
 
-        HMTL_fotos.setText("Ficheiro HTML com fotos dos jogadores");
+        HMTL_fotos.setText("Ficheiro HTML com fotos dos jogadores (XSLT)");
+        HMTL_fotos.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                HMTL_fotosActionPerformed(evt);
+            }
+        });
         gerarOutputs.add(HMTL_fotos);
 
-        XML_clube.setText("Ficheiro XML com lista de jogadores de um clube");
+        XML_clube.setText("Ficheiro XML com lista de jogadores de um clube (XQUERY)");
         XML_clube.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 XML_clubeActionPerformed(evt);
@@ -932,20 +1038,53 @@ public class Interface extends javax.swing.JFrame {
         });
         gerarOutputs.add(XML_clube);
 
-        TXT_nacionalidade.setText("Ficheiro TXT com nomes de jogadores de uma nacionalidade");
+        TXT_nacionalidade.setText("Ficheiro TXT com jogadores de uma nacionalidade (XQUERY)");
+        TXT_nacionalidade.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                TXT_nacionalidadeActionPerformed(evt);
+            }
+        });
         gerarOutputs.add(TXT_nacionalidade);
 
-        XML_top.setText("Ficheiro XML com top 5 de jogadores mais valiosos");
+        XML_top.setText("Ficheiro XML com top 5 de jogadores mais valiosos (XSLT)");
+        XML_top.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                XML_topActionPerformed(evt);
+            }
+        });
         gerarOutputs.add(XML_top);
 
-        jMenuItem5.setText("jMenuItem5");
-        gerarOutputs.add(jMenuItem5);
+        HTML_algunsDados.setText("Ficheiro HTML com lista de alguns dados dos jogadores (XQUERY)");
+        HTML_algunsDados.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                HTML_algunsDadosActionPerformed(evt);
+            }
+        });
+        gerarOutputs.add(HTML_algunsDados);
 
-        jMenuItem6.setText("jMenuItem6");
-        gerarOutputs.add(jMenuItem6);
+        HTML_trofeus.setText("Ficheiro HTML com lista de trofeus dos jogadores (XQUERY)");
+        HTML_trofeus.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                HTML_trofeusActionPerformed(evt);
+            }
+        });
+        gerarOutputs.add(HTML_trofeus);
 
-        jMenuItem7.setText("jMenuItem7");
-        gerarOutputs.add(jMenuItem7);
+        XML_ordemIdade.setText("Ficheio XML com jogadores por ordem de idade (XSLT)");
+        XML_ordemIdade.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                XML_ordemIdadeActionPerformed(evt);
+            }
+        });
+        gerarOutputs.add(XML_ordemIdade);
+
+        TXT_clubes.setText("Ficheiro TXT com clubes atuais e situação dos jogadores (XSLT)");
+        TXT_clubes.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                TXT_clubesActionPerformed(evt);
+            }
+        });
+        gerarOutputs.add(TXT_clubes);
 
         jMenuBar1.add(gerarOutputs);
 
@@ -1465,8 +1604,207 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_pesquisarSelecaoActionPerformed
 
     private void XML_clubeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_XML_clubeActionPerformed
-        // TODO add your handling code here:
+        XQUERY_clube.setSize(400, 250);
+        XQUERY_clube.setLocation(200, 200);
+        XQUERY_clube.setTitle("XQUERY: pesquisar por clube");
+        XQUERY_clube.setVisible(true);
     }//GEN-LAST:event_XML_clubeActionPerformed
+
+    private void HMTL_fotosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_HMTL_fotosActionPerformed
+
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+
+        if (doc != null) {
+
+            Document novo = JDOMFunctions_XSLT.transformaDocumento(doc, "jogador.xml", "fotosHTML.xsl");
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(novo, "fotosJogadores.html");
+
+            doc = XMLJDomFunctions.lerDocumentoXML("fotosJogadores.html");
+            String t = XMLJDomFunctions.escreverDocumentoString(doc);
+            output.setText(t);
+
+            JOptionPane.showMessageDialog(this, "Transformação feita com sucesso... a abrir browser...", "XSLT para HTML", JOptionPane.INFORMATION_MESSAGE);
+
+            String url = "fotosJogadores.html";
+            File htmlFile = new File(url);
+            try {
+                Desktop.getDesktop().browse(htmlFile.toURI());
+            } catch (IOException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+    }//GEN-LAST:event_HMTL_fotosActionPerformed
+
+    private void HTML_algunsDadosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_HTML_algunsDadosActionPerformed
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+
+        if (doc != null) {
+            try {
+                SaxonFunctions_XQuery.xQueryToHtml("listaJog.html", "listagemJogadores.xql");
+            } catch (XPathException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (IOException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+
+            JOptionPane.showMessageDialog(this, "Transformação feita com sucesso... a abrir browser...", "XQUERY para HTML", JOptionPane.INFORMATION_MESSAGE);
+
+            String url = "listaJog.html";
+            File htmlFile = new File(url);
+            try {
+                Desktop.getDesktop().browse(htmlFile.toURI());
+            } catch (IOException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+    }//GEN-LAST:event_HTML_algunsDadosActionPerformed
+
+    private void jTextField19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField19ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField19ActionPerformed
+
+    private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
+        Element raiz = new Element("clube");
+        Document docV = new Document(raiz);
+        raiz.addContent(jTextField19.getText());
+        XMLJDomFunctions.escreverDocumentoParaFicheiro(docV, "clube.xml");
+
+        try {
+            SaxonFunctions_XQuery.xQueryToXml("clubesLista.xml", "clubes.xql");
+        } catch (XPathException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        JOptionPane.showMessageDialog(this, "Query feita com sucesso... ficheiro XML criado! ", "XQuery", JOptionPane.INFORMATION_MESSAGE);
+
+        XQUERY_clube.setVisible(false);
+        Scanner ler = null;
+
+        try {
+            ler = new Scanner(new FileInputStream("clubesLista.xml"));
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+        String s = "";
+        while (ler.hasNextLine()) {
+            s += ler.nextLine();
+            s += "\n\r";
+        }
+        output.setText(s);
+    }//GEN-LAST:event_jButton8ActionPerformed
+
+    private void jTextField20ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField20ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField20ActionPerformed
+
+    private void jButton9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton9ActionPerformed
+        Element raiz = new Element("nacionalidade");
+        Document docV = new Document(raiz);
+        raiz.addContent(jTextField20.getText());
+        XMLJDomFunctions.escreverDocumentoParaFicheiro(docV, "nacionalidade.xml");
+
+        try {
+            // TODO add your handling code here:
+            SaxonFunctions_XQuery.xQueryToText("nacionalidadeLista.txt", "nacionalidade.xql");
+            JOptionPane.showMessageDialog(this, "Query feita com sucesso... ficheiro TXT criado! ", "XQuery", JOptionPane.INFORMATION_MESSAGE);
+        } catch (XPathException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        XQUERY_nac.setVisible(false);
+        Scanner ler = null;
+        try {
+            ler = new Scanner(new FileInputStream("nacionalidadeLista.txt"));
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+        StringBuilder texto = new StringBuilder();
+        String linha;
+        while (ler.hasNextLine()) {
+            linha = ler.nextLine();
+            texto = texto.append(linha).append("\n");
+        }
+        ler.close();
+        output.setText(texto.toString());
+    }//GEN-LAST:event_jButton9ActionPerformed
+
+    private void TXT_nacionalidadeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TXT_nacionalidadeActionPerformed
+        XQUERY_nac.setSize(400, 250);
+        XQUERY_nac.setLocation(200, 200);
+        XQUERY_nac.setTitle("XQUERY: pesquisar por nacionalidade");
+        XQUERY_nac.setVisible(true);
+    }//GEN-LAST:event_TXT_nacionalidadeActionPerformed
+
+    private void XML_topActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_XML_topActionPerformed
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+        if (doc != null) {
+            Document novo = JDOMFunctions_XSLT.transformaDocumento(doc, "jogador.xml", "top5.xsl");
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(novo, "Top5.xml");
+            doc = XMLJDomFunctions.lerDocumentoXML("Top5.xml");
+            String t = XMLJDomFunctions.escreverDocumentoString(doc);
+            output.setText(t);
+        }
+    }//GEN-LAST:event_XML_topActionPerformed
+
+    private void HTML_trofeusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_HTML_trofeusActionPerformed
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+
+        if (doc != null) {
+            try {
+                SaxonFunctions_XQuery.xQueryToHtml("listaJogTrofeus.html", "trofeus.xql");
+            } catch (XPathException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (IOException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+
+            JOptionPane.showMessageDialog(this, "Transformação feita com sucesso... a abrir browser...", "XQUERY para HTML", JOptionPane.INFORMATION_MESSAGE);
+
+            String url = "listaJogTrofeus.html";
+            File htmlFile = new File(url);
+            try {
+                Desktop.getDesktop().browse(htmlFile.toURI());
+            } catch (IOException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+    }//GEN-LAST:event_HTML_trofeusActionPerformed
+
+    private void XML_ordemIdadeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_XML_ordemIdadeActionPerformed
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+        if (doc != null) {
+            Document novo = JDOMFunctions_XSLT.transformaDocumento(doc, "ListaIdades.xml", "jogadoresReduzido.xsl");
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(novo, "ListaIdades.xml");
+            doc = XMLJDomFunctions.lerDocumentoXML("ListaIdades.xml");
+            String t = XMLJDomFunctions.escreverDocumentoString(doc);
+            output.setText(t);
+        }
+    }//GEN-LAST:event_XML_ordemIdadeActionPerformed
+
+    private void TXT_clubesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TXT_clubesActionPerformed
+        Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
+        if (doc != null) {
+            JDOMFunctions_XSLT.transformaDocumento2("jogador.xml", "listagemJogadores.xsl", "JogClubeAtual.txt");
+            Scanner ler = null;
+            try {
+                ler = new Scanner(new FileInputStream("JogClubeAtual.txt"));
+            } catch (FileNotFoundException ex) {
+                Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            StringBuilder texto = new StringBuilder();
+            String linha;
+            while (ler.hasNextLine()) {
+                linha = ler.nextLine();
+                texto = texto.append(linha).append("\n");
+            }
+            ler.close();
+            output.setText(texto.toString());
+        }
+    }//GEN-LAST:event_TXT_clubesActionPerformed
 
     /**
      * @param args the command line arguments
@@ -1506,10 +1844,14 @@ public class Interface extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JMenuItem HMTL_fotos;
+    private javax.swing.JMenuItem HTML_algunsDados;
+    private javax.swing.JMenuItem HTML_trofeus;
     private javax.swing.JMenuItem Sair;
+    private javax.swing.JMenuItem TXT_clubes;
     private javax.swing.JMenuItem TXT_nacionalidade;
     private javax.swing.JMenuItem VerXML;
     private javax.swing.JMenuItem XML_clube;
+    private javax.swing.JMenuItem XML_ordemIdade;
     private javax.swing.JMenuItem XML_top;
     private javax.swing.JDialog XPATH_clube;
     private javax.swing.JDialog XPATH_intervaloIdade;
@@ -1517,6 +1859,8 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JDialog XPATH_nome;
     private javax.swing.JDialog XPATH_posicao;
     private javax.swing.JDialog XPATH_selecao;
+    private javax.swing.JDialog XQUERY_clube;
+    private javax.swing.JDialog XQUERY_nac;
     private javax.swing.JButton addJogButton;
     private javax.swing.JDialog addJogador;
     private javax.swing.JMenuItem adicionarJog;
@@ -1533,6 +1877,8 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JButton jButton4;
     private javax.swing.JButton jButton6;
     private javax.swing.JButton jButton7;
+    private javax.swing.JButton jButton8;
+    private javax.swing.JButton jButton9;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
@@ -1544,6 +1890,8 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel18;
     private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel20;
+    private javax.swing.JLabel jLabel21;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel5;
@@ -1552,9 +1900,6 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel8;
     private javax.swing.JLabel jLabel9;
     private javax.swing.JMenuBar jMenuBar1;
-    private javax.swing.JMenuItem jMenuItem5;
-    private javax.swing.JMenuItem jMenuItem6;
-    private javax.swing.JMenuItem jMenuItem7;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
@@ -1568,7 +1913,9 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField16;
     private javax.swing.JTextField jTextField17;
     private javax.swing.JTextField jTextField18;
+    private javax.swing.JTextField jTextField19;
     private javax.swing.JTextField jTextField2;
+    private javax.swing.JTextField jTextField20;
     private javax.swing.JTextField jTextField3;
     private javax.swing.JTextField jTextField4;
     private javax.swing.JTextField jTextField5;

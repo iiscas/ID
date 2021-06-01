@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jogadores>
+     <jogador>
+          <nome>Bruno Fernandes</nome>
+          <preco>90,00 M €</preco>
+     </jogador>
+     <jogador>
+          <nome>Paulo Dybala</nome>
+          <preco>60,00 M €</preco>
+     </jogador>
+     <jogador>
+          <nome>Cristiano Ronaldo</nome>
+          <preco>50,00 M €</preco>
+     </jogador>
+     <jogador>
+          <nome>Toni Kroos</nome>
+          <preco>50,00 M €</preco>
+     </jogador>
+     <jogador>
+          <nome>John Stones</nome>
+          <preco>30,00 M €</preco>
+     </jogador>
+</jogadores>

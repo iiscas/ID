@@ -1,0 +1,25 @@
+--LISTAGEM DE JOGADORES--
+
+Bruno Fernandes
+No ativo
+Manchester United FC
+
+Cristiano Ronaldo
+No ativo
+Juventus FC
+
+Gianluigi Buffon
+No ativo
+Juventus FC
+
+John Stones
+No ativo
+Manchester City FC
+
+Paulo Dybala
+No ativo
+Juventus FC
+
+Toni Kroos
+No ativo
+Real Madrid CF

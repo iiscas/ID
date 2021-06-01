@@ -135,4 +135,30 @@
                <clubeAnterior>Barnsley FC U18</clubeAnterior>
           </clubesAnterirores>
      </jogador>
+     <jogador nome="Paulo Dybala">
+          <nomeCompleto>Paulo Exequiel Dybala</nomeCompleto>
+          <nacionalidade>Argentina</nacionalidade>
+          <foto>https://img.a.transfermarkt.technology/portrait/big/206050-1541076083.jpg?lm=1</foto>
+          <dataNascimento>15 de novembro de 1993</dataNascimento>
+          <idade>27</idade>
+          <altura>1,77 m</altura>
+          <peso>69 kg</peso>
+          <pePreferido>esquerdo</pePreferido>
+          <estadoAtual>No ativo</estadoAtual>
+          <posicao>Segundo Avançado</posicao>
+          <valorContrato>60,00 M €</valorContrato>
+          <selecao>Argentina</selecao>
+          <clubeAtual>Juventus FC</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor marcador</trofeu>
+               <trofeu>Jogador da época</trofeu>
+               <trofeu>Campeão de Itália</trofeu>
+               <trofeu>Vencedor da Taça de Itália</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>US Palermo</clubeAnterior>
+               <clubeAnterior>Instituto AC</clubeAnterior>
+               <clubeAnterior>Instituto U19</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
 </jogadores>
