@@ -2,6 +2,7 @@ package main;
 
 import java.util.Iterator;
 import java.util.List;
+import static main.XMLJDomFunctions.escreverDocumentoParaFicheiro;
 import net.sf.saxon.s9api.SaxonApiException;
 import net.sf.saxon.s9api.XdmValue;
 import org.jdom2.Attribute;
@@ -13,89 +14,85 @@ public class ModeloXML {
     public static Document adicionaJogador(Jogador j, Document doc) throws SaxonApiException {
 
         Element raiz;
+        XdmValue res = null;
 
         if (doc == null) {
             raiz = new Element("jogadores"); //cria <jogadores>
             doc = new Document(raiz);
         } else {
             raiz = doc.getRootElement();
-            
 
             String xp = "//jogador[@nome ='" + j.getAlcunha() + "']";
-           // System.out.println(xp);
-            XdmValue res = XPathFunctions.executaXpath(xp, "jogador.xml");
+            res = XPathFunctions.executaXpath(xp, "jogador.xml");
 
             if (res != null && res.size() > 0) {
                 System.out.println("Jogador já existe!");
                 return null;
-            } else {
-
-                raiz = doc.getRootElement();
-
-                Element jogador = new Element("jogador");
-                Attribute nome = new Attribute("nome", j.getAlcunha());
-                jogador.setAttribute(nome);
-
-                Element nCompleto = new Element("nomeCompleto").addContent(j.getNomeCompleto());
-                jogador.addContent(nCompleto);
-
-                Element nacionalidade = new Element("nacionalidade").addContent(j.getNacionalidade());
-                jogador.addContent(nacionalidade);
-
-                Element foto = new Element("foto").addContent(j.getFoto());
-                jogador.addContent(foto);
-
-                Element dataN = new Element("dataNascimento").addContent(j.getDataNasc());
-                jogador.addContent(dataN);
-
-                Element idade = new Element("idade").addContent(Integer.toString(j.getIdade()));
-                jogador.addContent(idade);
-
-                Element altura = new Element("altura").addContent(j.getAltura());
-                jogador.addContent(altura);
-
-                Element peso = new Element("peso").addContent(j.getPeso());
-                jogador.addContent(peso);
-
-                Element pe = new Element("pePreferido").addContent(j.getPe());
-                jogador.addContent(pe);
-
-                Element estado = new Element("estadoAtual").addContent(j.getEstadoAtual());
-                jogador.addContent(estado);
-
-                Element pos = new Element("posicao").addContent(j.getPosicao());
-                jogador.addContent(pos);
-
-                Element contrato = new Element("valorContrato").addContent(j.getContrato());
-                jogador.addContent(contrato);
-
-                Element sel = new Element("selecao").addContent(j.getSelecao());
-                jogador.addContent(sel);
-
-                Element clubesAnteriores = new Element("clubesAnterirores");
-                for (int i = 0; i < j.clubesAnteriores.size(); i++) {
-
-                    Element clubesAnt = new Element("clubeAnterior").addContent(String.valueOf(j.clubesAnteriores.get(i)));
-                    clubesAnteriores.addContent(clubesAnt);
-                }
-
-                Element clube = new Element("clubeAtual").addContent(j.getClubeAtual());
-                jogador.addContent(clube);
-
-                Element trofeus = new Element("trofeus");
-                for (int i = 0; i < j.trofeus.size(); i++) {
-
-                    Element trofeu = new Element("trofeu").addContent(String.valueOf(j.trofeus.get(i)));
-                    trofeus.addContent(trofeu);
-                }
-
-                jogador.addContent(trofeus);
-                jogador.addContent(clubesAnteriores);
-
-                raiz.addContent(jogador);
-                return doc;
             }
         }
+
+        Element jogador = new Element("jogador");
+        Attribute nome = new Attribute("nome", j.getAlcunha());
+        jogador.setAttribute(nome);
+
+        Element nCompleto = new Element("nomeCompleto").addContent(j.getNomeCompleto());
+        jogador.addContent(nCompleto);
+
+        Element nacionalidade = new Element("nacionalidade").addContent(j.getNacionalidade());
+        jogador.addContent(nacionalidade);
+
+        Element foto = new Element("foto").addContent(j.getFoto());
+        jogador.addContent(foto);
+
+        Element dataN = new Element("dataNascimento").addContent(j.getDataNasc());
+        jogador.addContent(dataN);
+
+        Element idade = new Element("idade").addContent(Integer.toString(j.getIdade()));
+        jogador.addContent(idade);
+
+        Element altura = new Element("altura").addContent(j.getAltura());
+        jogador.addContent(altura);
+
+        Element peso = new Element("peso").addContent(j.getPeso());
+        jogador.addContent(peso);
+
+        Element pe = new Element("pePreferido").addContent(j.getPe());
+        jogador.addContent(pe);
+
+        Element estado = new Element("estadoAtual").addContent(j.getEstadoAtual());
+        jogador.addContent(estado);
+
+        Element pos = new Element("posicao").addContent(j.getPosicao());
+        jogador.addContent(pos);
+
+        Element contrato = new Element("valorContrato").addContent(j.getContrato());
+        jogador.addContent(contrato);
+
+        Element sel = new Element("selecao").addContent(j.getSelecao());
+        jogador.addContent(sel);
+
+        Element clubesAnteriores = new Element("clubesAnterirores");
+        for (int i = 0; i < j.clubesAnteriores.size(); i++) {
+
+            Element clubesAnt = new Element("clubeAnterior").addContent(String.valueOf(j.clubesAnteriores.get(i)));
+            clubesAnteriores.addContent(clubesAnt);
+        }
+
+        Element clube = new Element("clubeAtual").addContent(j.getClubeAtual());
+        jogador.addContent(clube);
+
+        Element trofeus = new Element("trofeus");
+        for (int i = 0; i < j.trofeus.size(); i++) {
+
+            Element trofeu = new Element("trofeu").addContent(String.valueOf(j.trofeus.get(i)));
+            trofeus.addContent(trofeu);
+        }
+
+        jogador.addContent(trofeus);
+        jogador.addContent(clubesAnteriores);
+
+        raiz.addContent(jogador);
+
         return doc;
 
     }
@@ -116,8 +113,8 @@ public class ModeloXML {
             Element Jogador = (Element) Jogadores.get(i);
             //System.out.println("Nome a procurar "+ nome);
             //System.out.println(Jogador.getAttributeValue("nome"));
-            
-            if (Jogador.getAttributeValue("nome").equals(nome)){
+
+            if (Jogador.getAttributeValue("nome").equals(nome)) {
                 Jogador.getParent().removeContent(Jogador);
                 System.out.println("Jogador" + nome + " foi removido com sucesso!");
                 found = true;
@@ -144,7 +141,7 @@ public class ModeloXML {
         boolean found = false;
         for (int i = 0; i < Jogadores.size(); i++) {
 
-            Element Jogador = (Element) Jogadores.get(i); //obtem livro i da Lista
+            Element Jogador = (Element) Jogadores.get(i);
 
             if (Jogador.getAttributeValue("nome").equals(nome)) {
                 System.out.println("Jogador " + nome + " tem " + Jogador.getChildText("idade") + " anos");
@@ -174,9 +171,9 @@ public class ModeloXML {
         boolean found = false;
         for (int i = 0; i < Jogadores.size(); i++) {
 
-            Element Jogador = (Element) Jogadores.get(i); //obtem livro i da Lista
+            Element Jogador = (Element) Jogadores.get(i);
 
-           if (Jogador.getAttributeValue("nome").equals(nome)){
+            if (Jogador.getAttributeValue("nome").equals(nome)) {
                 System.out.println("Jogador " + nome + " tem nacionalidade: " + Jogador.getChildText("nacionalidade"));
                 Jogador.getChild("nacionalidade").setText(novaNacionalidade);
                 found = true;
@@ -204,7 +201,7 @@ public class ModeloXML {
         boolean found = false;
         for (int i = 0; i < Jogadores.size(); i++) {
 
-            Element Jogador = (Element) Jogadores.get(i); //obtem livro i da Lista
+            Element Jogador = (Element) Jogadores.get(i);
 
             if (Jogador.getAttributeValue("nome").equals(nome)) {
                 //System.out.println("Jogador " + nome + " tem nacionalidade: " + Jogador.getChildText("nacionalidade"));
@@ -234,7 +231,7 @@ public class ModeloXML {
         boolean found = false;
         for (int i = 0; i < Jogadores.size(); i++) {
 
-            Element Jogador = (Element) Jogadores.get(i); //obtem livro i da Lista
+            Element Jogador = (Element) Jogadores.get(i);
 
             if (Jogador.getAttributeValue("nome").equals(nome)) {
                 //System.out.println("Jogador " + nome + " tem nacionalidade: " + Jogador.getChildText("nacionalidade"));

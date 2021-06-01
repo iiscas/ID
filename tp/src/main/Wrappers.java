@@ -169,7 +169,7 @@ public class Wrappers {
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
-        String er = "<meta name=\\\"description\\\" content=\\\"[a-zA-Z\\s,0-9]+:\\s([a-zA-ZÀ-ÿ]+)\\b";
+        String er = "<meta name=\"description\" content=\"[a-zA-Z\\s,0-9]+:\\s([a-zA-ZÀ-ÿ]+)\\b";
         String er1 = "&nbsp;&nbsp;([^<]*)</td>";
         String x = "Nao disponivel";
 
@@ -242,8 +242,8 @@ public class Wrappers {
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
-        String er = "<span class=\\\"dataItem\\\">Posição:</span>";
-        String er1 = "[\\s]*<span class=\\\"dataValue\\\">[\\s]*";
+        String er = "<span class=\"dataItem\">Posição:</span>";
+        String er1 = "[\\s]*<span class=\"dataValue\">[\\s]*";
         String er2 = "\\s+([À-ÿA-Z-a-z\\s]+)\\b\\s+</span>";
         String x = "Nao disponivel";
 
@@ -293,8 +293,8 @@ public class Wrappers {
         String er = "Clube atual:";
         String er1 = "\\s+</th>";
         String er2 = "\\s+<td>";
-        String er3 = "\\s+<a title=\\\"[a-zA-Z\\s\\-]+\\\" class=\\\"+[a-zA-Z0-9\\s\\\"=/><:\\.\\-]+\\?[a-z=0-9\\\"\\s]+([a-zA-Z-\\s]+)\\\"";
-        String er4 = "<a class=\\\"[a-zA-Z\\s\\-\\_]+\\\" id=\\\"+[a-zA-Z0-9\\s\\\"=/><:\\.\\-]+\\?[a-z=0-9\\\"\\s]+[a-zA-Z-\\s=\\\"\\&]+\\;\\\"\\salt=\\\"([À-ÿA-Za-z\\s\\-]+)\\\"";
+        String er3 = "\\s+<a title=\"[a-zA-Z\\s\\-]+\" class=\"+[a-zA-Z0-9\\s\"=/><:\\.\\-]+\\?[a-z=0-9\"\\s]+([a-zA-Z-\\s]+)\"";
+        String er4 = "<a class=\"[a-zA-Z\\s\\-\\_]+\" id=\"+[a-zA-Z0-9\\s\"=/><:\\.\\-]+\\?[a-z=0-9\"\\s]+[a-zA-Z-\\s=\"\\&]+\\;\"\\salt=\"([À-ÿA-Za-z\\s\\-]+)\"";
 
         Pattern p = Pattern.compile(er);
         Pattern p1 = Pattern.compile(er1);
@@ -351,7 +351,7 @@ public class Wrappers {
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
         //String er = "<td class[^>]+><a class=[^>]+>([^<]+)<\\/a><\\/td>";
-        String er = "<td class=\"hauptlink no-border-links vereinsname\\\"><a class=\\\"vereinprofil_tooltip\\\" id=\\\"([0-9])+\\\" href=\\\"([^\\\"]+)\\\">([^<]+)</a></td>";
+        String er = "<td class=\"hauptlink no-border-links vereinsname\"><a class=\"vereinprofil_tooltip\" id=\"([0-9])+\" href=\"([^\"]+)\">([^<]+)</a></td>";
 
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
@@ -454,7 +454,7 @@ public class Wrappers {
 
         String er = "<th>Empresários:</th>";
         String er1 = "\\s+<td>";
-        String er2 = "\\s+<a href=\\\"[^>]*>([À-ÿ0-9A-Za-z\\.\\s\\']+)</a>";
+        String er2 = "\\s+<a href=\"[^>]*>([À-ÿ0-9A-Za-z\\.\\s\\']+)</a>";
 
         Pattern p = Pattern.compile(er);
         Pattern p1 = Pattern.compile(er1);
@@ -585,7 +585,7 @@ public class Wrappers {
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
-        String er = "<meta name=\\\"description\\\" content=\\\"[^V]+[V]*[^V]+ Valor de Mercado:\\s([0-9\\s\\,a-zA-Z€]+)";
+        String er = "<meta name=\"description\" content=\"[^V]+[V]*[^V]+ Valor de Mercado:\\s([0-9\\s\\,a-zA-Z€]+)";
         String x = "Nao disponivel";
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));
@@ -689,7 +689,7 @@ public class Wrappers {
 
         HttpRequestFunctions.httpRequest1(link, "", "jogadores.txt");
 
-        String er = "<img src=\\\"[^\\\"]+\\\"\\stitle=\\\"([^\\\"]+)\\\"\\salt=\\\"[^\\\"]+\\\"\\sclass=\\\"dataErfolgImage\\\" />";
+        String er = "<img src=\"[^\"]+\"\\stitle=\"([^\"]+)\"\\salt=\"[^\"]+\"\\sclass=\"dataErfolgImage\" />";
 
         Pattern p = Pattern.compile(er);
         Scanner ler = new Scanner(new FileInputStream("jogadores.txt"));

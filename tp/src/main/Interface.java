@@ -1334,10 +1334,10 @@ public class Interface extends javax.swing.JFrame {
 
         Document doc = XMLJDomFunctions.lerDocumentoXML("jogador.xml");
 
-        String nome = jTextField1.getText();
-        //System.out.println(nome);
-        String estado = (jTextField2.getText());
-        //System.out.println(estado);
+        String nome = jTextField5.getText();
+        System.out.println(nome);
+        String estado = (jTextField6.getText());
+        System.out.println(estado);
 
         doc = ModeloXML.alteraEstado(nome, estado, doc);
         newEstado.setVisible(false);

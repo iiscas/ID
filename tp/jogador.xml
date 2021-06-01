@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE jogadores SYSTEM "jogador.dtd">
 <jogadores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="jogador.xsd">
      <jogador nome="Cristiano Ronaldo">
           <nomeCompleto>Cristiano Ronaldo dos Santos Aveiro</nomeCompleto>
@@ -159,6 +158,87 @@
                <clubeAnterior>US Palermo</clubeAnterior>
                <clubeAnterior>Instituto AC</clubeAnterior>
                <clubeAnterior>Instituto U19</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
+     <jogador nome="Bernardo Silva">
+          <nomeCompleto>Bernardo Mota Veiga de Carvalho e Silva</nomeCompleto>
+          <nacionalidade>Portugal</nacionalidade>
+          <foto>https://img.a.transfermarkt.technology/portrait/big/241641-1520189140.jpg?lm=1</foto>
+          <dataNascimento>10 de agosto de 1994</dataNascimento>
+          <idade>26</idade>
+          <altura>1,73 m</altura>
+          <peso>65 kg</peso>
+          <pePreferido>esquerdo</pePreferido>
+          <estadoAtual>No ativo</estadoAtual>
+          <posicao>Médio Ofensivo</posicao>
+          <valorContrato>70,00 M €</valorContrato>
+          <selecao>Portugal</selecao>
+          <clubeAtual>Manchester City FC</clubeAtual>
+          <trofeus>
+               <trofeu>Futebolista do ano</trofeu>
+               <trofeu>Campeão da Inglaterra</trofeu>
+               <trofeu>Vencedor da Taça de Inglaterra</trofeu>
+               <trofeu>Vencedor da Taça da Liga de Inglaterra</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>Mónaco</clubeAnterior>
+               <clubeAnterior>SL Benfica</clubeAnterior>
+               <clubeAnterior>Mónaco</clubeAnterior>
+               <clubeAnterior>SL Benfica</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
+     <jogador nome="Diego Maradona">
+          <nomeCompleto>Diego Armando Maradona</nomeCompleto>
+          <nacionalidade>Argentina</nacionalidade>
+          <foto>https://img.a.transfermarkt.technology/portrait/big/8024-1606322777.png?lm=1</foto>
+          <dataNascimento>30 de outubro de 1960</dataNascimento>
+          <idade>60</idade>
+          <altura>1,65 m</altura>
+          <peso>60 kg</peso>
+          <pePreferido>esquerdo</pePreferido>
+          <estadoAtual>Falecido</estadoAtual>
+          <posicao>Médio Ofensivo</posicao>
+          <valorContrato>Nao disponivel</valorContrato>
+          <selecao>Argentina</selecao>
+          <clubeAtual>Fim de Carreira</clubeAtual>
+          <trofeus>
+               <trofeu>Melhor marcador</trofeu>
+               <trofeu>Futebolista do ano</trofeu>
+               <trofeu>Campeão do Mundo</trofeu>
+               <trofeu>Vencedor da Taça de Espanha</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>Boca Juniors</clubeAnterior>
+               <clubeAnterior>Newell's</clubeAnterior>
+               <clubeAnterior>Sevilha FC</clubeAnterior>
+               <clubeAnterior>Napoli</clubeAnterior>
+          </clubesAnterirores>
+     </jogador>
+     <jogador nome="Iker Casillas">
+          <nomeCompleto>Iker Casillas Fernández</nomeCompleto>
+          <nacionalidade>Espanha</nacionalidade>
+          <foto>https://img.a.transfermarkt.technology/portrait/big/3979-1542105569.png?lm=1</foto>
+          <dataNascimento>20 de maio de 1981</dataNascimento>
+          <idade>40</idade>
+          <altura>1,82 m</altura>
+          <peso>Nao disponivel</peso>
+          <pePreferido>esquerdo</pePreferido>
+          <estadoAtual>Fim de Carreira</estadoAtual>
+          <posicao>Guarda-Redes</posicao>
+          <valorContrato>Nao disponivel</valorContrato>
+          <selecao>Espanha</selecao>
+          <clubeAtual>Fim de carreira</clubeAtual>
+          <trofeus>
+               <trofeu>Campeão do Mundo</trofeu>
+               <trofeu>Campeão da Europa</trofeu>
+               <trofeu>Vencedor da Champions-League</trofeu>
+               <trofeu>Campeão de Espanha</trofeu>
+          </trofeus>
+          <clubesAnterirores>
+               <clubeAnterior>FC Porto</clubeAnterior>
+               <clubeAnterior>Real Madrid</clubeAnterior>
+               <clubeAnterior>Real Madrid B</clubeAnterior>
+               <clubeAnterior>Real Madrid C</clubeAnterior>
           </clubesAnterirores>
      </jogador>
 </jogadores>
