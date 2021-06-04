@@ -10,7 +10,7 @@ Juventus FC
 
 Diego Maradona
 Falecido
-Fim de Carreira
+Falecido
 
 Gianluigi Buffon
 No ativo
@@ -27,10 +27,6 @@ Manchester City FC
 Lionel Messi
 No ativo
 FC Barcelona
-
-Paulo Dybala
-No ativo
-Juventus FC
 
 Toni Kroos
 No ativo

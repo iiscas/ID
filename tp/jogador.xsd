@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsd:schema
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="nomeCompleto" type="xsd:string" />
 	<xsd:element name="nacionalidade" type="xsd:string" />
 	<xsd:element name="foto" type="xsd:string" />
 	<xsd:element name="dataNascimento" type="xsd:string" />
-	<xsd:element name="idade" type="xsd:unsignedByte" />
+	<xsd:element name="idade" type="xsd:integer" />
 	<xsd:element name="altura" type="xsd:string" />
 	<xsd:element name="peso" type="xsd:string" />
 	<xsd:element name="pePreferido" type="xsd:string" />
@@ -16,51 +17,42 @@
 	<xsd:element name="trofeus">
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element maxOccurs="unbounded" name="trofeu" type="xsd:string" />
+				<xsd:element maxOccurs="4" name="trofeu" type="xsd:string" />
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
 	<xsd:element name="clubesAnterirores">
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element maxOccurs="unbounded" name="clubeAnterior" type="xsd:string" />
+				<xsd:element maxOccurs="4" name="clubeAnterior" type="xsd:string" />
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
+
+
 	<xsd:element name="jogador">
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="nomeCompleto" type="xsd:string" />
-				<xsd:element name="nacionalidade" type="xsd:string" />
-				<xsd:element name="foto" type="xsd:string" />
-				<xsd:element name="dataNascimento" type="xsd:string" />
-				<xsd:element name="idade" type="xsd:unsignedByte" />
-				<xsd:element name="altura" type="xsd:string" />
-				<xsd:element name="peso" type="xsd:string" />
-				<xsd:element name="pePreferido" type="xsd:string" />
-				<xsd:element name="estadoAtual" type="xsd:string" />
-				<xsd:element name="posicao" type="xsd:string" />
-				<xsd:element name="valorContrato" type="xsd:string" />
-				<xsd:element name="selecao" type="xsd:string" />
-				<xsd:element name="clubeAtual" type="xsd:string" />
-				<xsd:element name="trofeus">
-					<xsd:complexType>
-						<xsd:sequence>
-							<xsd:element maxOccurs="unbounded" name="trofeu" type="xsd:string" />
-						</xsd:sequence>
-					</xsd:complexType>
-				</xsd:element>
-				<xsd:element name="clubesAnterirores">
-					<xsd:complexType>
-						<xsd:sequence>
-							<xsd:element maxOccurs="unbounded" name="clubeAnterior" type="xsd:string" />
-						</xsd:sequence>
-					</xsd:complexType>
-				</xsd:element>
+				<xsd:element ref="nomeCompleto"/>
+				<xsd:element ref="nacionalidade"/>
+				<xsd:element ref="foto"/>
+				<xsd:element ref="dataNascimento"/>
+				<xsd:element ref="idade"/>
+				<xsd:element ref="altura"/>
+				<xsd:element ref="peso"/>
+				<xsd:element ref="pePreferido"/>
+				<xsd:element ref="estadoAtual"/>
+				<xsd:element ref="posicao"/>
+				<xsd:element ref="valorContrato"/>
+				<xsd:element ref="selecao"/>
+				<xsd:element ref="clubeAtual"/>
+				<xsd:element ref="trofeus"/>
+				<xsd:element ref="clubesAnterirores"/>
 			</xsd:sequence>
 			<xsd:attribute ref="nome" use="required"/>
 		</xsd:complexType>
 	</xsd:element>
+
 	<xsd:element name="jogadores">
 		<xsd:complexType>
 			<xsd:sequence maxOccurs="unbounded">

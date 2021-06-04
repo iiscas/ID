@@ -116,7 +116,7 @@ public class ModeloXML {
 
             if (Jogador.getAttributeValue("nome").equals(nome)) {
                 Jogador.getParent().removeContent(Jogador);
-                System.out.println("Jogador" + nome + " foi removido com sucesso!");
+                //System.out.println("Jogador" + nome + " foi removido com sucesso!");
                 found = true;
             }
 
@@ -144,7 +144,7 @@ public class ModeloXML {
             Element Jogador = (Element) Jogadores.get(i);
 
             if (Jogador.getAttributeValue("nome").equals(nome)) {
-                System.out.println("Jogador " + nome + " tem " + Jogador.getChildText("idade") + " anos");
+               // System.out.println("Jogador " + nome + " tem " + Jogador.getChildText("idade") + " anos");
                 Jogador.getChild("idade").setText(Integer.toString(novaIdade));
                 found = true;
             }
@@ -174,7 +174,7 @@ public class ModeloXML {
             Element Jogador = (Element) Jogadores.get(i);
 
             if (Jogador.getAttributeValue("nome").equals(nome)) {
-                System.out.println("Jogador " + nome + " tem nacionalidade: " + Jogador.getChildText("nacionalidade"));
+                //System.out.println("Jogador " + nome + " tem nacionalidade: " + Jogador.getChildText("nacionalidade"));
                 Jogador.getChild("nacionalidade").setText(novaNacionalidade);
                 found = true;
             }

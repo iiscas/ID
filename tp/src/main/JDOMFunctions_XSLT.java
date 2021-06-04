@@ -37,7 +37,7 @@ public class JDOMFunctions_XSLT {
             XSLTransformer transformer = new XSLTransformer(xslFile);
             Document doc2 = transformer.transform(XMLdoc);
             if (doc2 == null) {
-                System.out.println("Null");
+                System.out.println("NULL");
             }
             return doc2;
         } catch (XSLTransformException ex) {

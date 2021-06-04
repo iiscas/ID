@@ -23,7 +23,7 @@ public class JDOMFunctions_Validar {
         try {
             SAXBuilder builder = new SAXBuilder(true);  // true ativa a validação
             Document doc = builder.build(new File(caminhoFicheiro));
-            System.out.println("Documento XML " + caminhoFicheiro + " é válido (DTD)");
+            //System.out.println("Documento XML " + caminhoFicheiro + " é válido (DTD)");
             return doc;
         } catch (JDOMException ex) {
             System.out.println("Documento XML " + caminhoFicheiro + " apresenta erros e não é válido (DTD)");
@@ -44,7 +44,7 @@ public class JDOMFunctions_Validar {
             builder.setFeature("http://apache.org/xml/features/validation/schema", true);
 
             Document doc = builder.build(new File(caminhoFicheiro));
-            System.out.println("Documento XML " + caminhoFicheiro + " é válido (XSD)");
+            //System.out.println("Documento XML " + caminhoFicheiro + " é válido (XSD)");
             return doc;
         } catch (JDOMException ex) {
             System.out.println("Documento XML " + caminhoFicheiro + " apresenta erros e não é válido (XSD)");
@@ -67,10 +67,10 @@ public class JDOMFunctions_Validar {
             //CHAMAR A FUNÇÃO DE VALIDAÇÃO por DTD
             Document docDTD = validarDTD(xmlFile);
             if (docDTD == null) {
-                System.out.println("INVALIDO por DTD");
+               // System.out.println("INVALIDO por DTD");
                 return -1;
             } else {
-                System.out.println("VALIDO por DTD");
+                //System.out.println("VALIDO por DTD");
                 return 1;
             }
 
@@ -91,10 +91,10 @@ public class JDOMFunctions_Validar {
             //CHAMAR A FUNÇÃO DE VALIDAÇÃO por XSD
             Document docXSD = validarXSD(xmlFile);
             if (docXSD == null) {
-                System.out.println("INVALIDO por XSD");
+               // System.out.println("INVALIDO por XSD");
                 return -1;
             } else {
-                System.out.println("VALIDO por XSD");
+               // System.out.println("VALIDO por XSD");
                 return 1;
             }
 
